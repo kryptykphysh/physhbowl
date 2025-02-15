@@ -12,4 +12,3 @@ Which is nice.
 - Coding
 - Politics
 - [[Roleplaying Games]]
-- [[My First Page]]
