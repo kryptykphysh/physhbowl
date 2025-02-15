@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Title Page
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[My First Page]]
