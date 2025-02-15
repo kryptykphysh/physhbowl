@@ -11,5 +11,5 @@ Which is nice.
 # What is this?
 - Coding
 - Politics
-- RPGs
+- [[Roleplaying Games]]
 - [[My First Page]]
