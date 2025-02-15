@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Physhbowl
 ---
+![[pexels-ron-lach-9783810.jpg]]
 # Why is this?
 This site exists as my attempt at a [Digital Garden](https://maggieappleton.com/garden-history). I like to create. I have many ideas but I tend to spend longer thinking about what *could be* before actually putting the ideas down and then... It never happens.
 # How is this?
