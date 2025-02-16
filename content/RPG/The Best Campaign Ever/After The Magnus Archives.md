@@ -3,7 +3,6 @@ title: After the Magnus Archives
 draft: false
 tags:
   - rpg
-  - campaign
 ---
  ![[archive_room_5.png]]
 > [!question]- Spoilers for the podcast.
