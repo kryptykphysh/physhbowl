@@ -12,6 +12,7 @@ tags:
 Given that our campaign is going to be following on from the events of the original podcast, we're going to be taking a leaf out of [The Magnus Protocol's](https://rustyquill.com/show/the-magnus-protocol/) book. In *this* world, the Magnus Institute, London, existed.
 # What happened to the Magnus Institute?
 # What took up the Archives afterwards?
+I like the idea of some crappy UK government civil service/intelligence agency taking up the reins. Something like [The Laundry](https://en.wikipedia.org/wiki/The_Laundry_Files) but even less well funded and effective. Something let, "go to seed".
 # Are new statements being taken?
 Yes.
 I definitely want players to be coming up with statements as they get more involved.
