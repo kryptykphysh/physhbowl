@@ -13,6 +13,8 @@ Given that our campaign is going to be following on from the events of the origi
 Honestly, I don't think this is something that needs to be elaborated on too much at this stage. There used to be an organisation called *the Magnus Institute* that gathered and investigated occurrences of, "the weird". Now, there isn't. No, we don't have any further information on that for you right now. Carry on with your work, do.
 # What took up the Archives afterwards?
 I like the idea of some crappy UK government civil service/intelligence agency taking up the reins. Something like [The Laundry](https://en.wikipedia.org/wiki/The_Laundry_Files) but even less well funded and effective. Something let, "go to seed".
+
+For reasons that may become clear later, the service taking up this underappreciated work was based outside the nation's capital and instead housed in [[Littledean Hall]].
 # Are new statements being taken?
 Yes.
 I definitely want players to be coming up with statements as they get more involved.

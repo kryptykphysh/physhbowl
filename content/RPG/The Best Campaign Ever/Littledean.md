@@ -6,6 +6,9 @@ tags:
 Littledean is a village in the [Forest of Dean](https://en.wikipedia.org/wiki/Forest_of_Dean "Forest of Dean"), west [Gloucestershire](https://en.wikipedia.org/wiki/Gloucestershire "Gloucestershire"), England. The village has a long history and formerly had the status of a [town](https://en.wikipedia.org/wiki/Town "Town"). [Littledean Hall](https://en.wikipedia.org/wiki/Littledean_Hall "Littledean Hall") was originally a [Saxon](https://en.wikipedia.org/wiki/Saxon "Saxon") hall, although it has been rebuilt and the current house dates back to 1612. The remains of a [Roman temple](https://en.wikipedia.org/wiki/Roman_temple "Roman temple") are situated in the grounds. Neither the hall or Roman remains are open to the public.
 
 Collectively, the villages and the surrounding wood ([Forest of Dean](https://en.wikipedia.org/wiki/Forest_of_Dean "Forest of Dean")) were mentioned in the [Domesday Book](https://en.wikipedia.org/wiki/Domesday_Book "Domesday Book") of 1086 as _Dene_, and appear as _Dena_ in 1130.
+
+# Why Littledean?
+It's out of the way. Isolated. It has more history than you can shake a stick at, and more ghosts to boot. I just really like the idea of horror in, "little England". At least, until you start reaching beyond this world, at any rate.
 # Locations
 - [[Littledean Hall]]
 - [[Temple of Sabrina]]
