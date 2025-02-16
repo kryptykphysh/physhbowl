@@ -10,7 +10,10 @@ Collectively, the villages and the surrounding wood ([Forest of Dean](https://en
 # Why Littledean?
 It's out of the way. Isolated. It has more history than you can shake a stick at, and more ghosts to boot. I just really like the idea of horror in, "little England". At least, until you start reaching beyond this world, at any rate.
 # Locations
+- Littledean Camp
 - [[Littledean Hall]]
+- Littledean Jail House
+- St. Ethelbert's Church
 - [[Temple of Sabrina]]
 # Ghost Tales
 There’s a local story about a house that had such a reputation for being haunted that no one would go near it. After a succession of people only staying in the house for a few weeks at a time, due to the haunting, after a while it became abandoned. After a few years the house was demolished. The story tells of a brother and sister who had an incestuous relationship and had given birth to a daughter. The whole village were against them, the man lost his job and couldn’t find anymore work, they were ostracised by everyone. They eventually gave up and committed suicide after killing their baby daughter.
