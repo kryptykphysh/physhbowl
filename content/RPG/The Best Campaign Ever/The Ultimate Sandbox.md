@@ -6,7 +6,7 @@ tags:
   - campaign
 ---
 ![[million_spheres.png]]
-In my dreams, the campaign I'd run would be run where *anything is possible*. I'm not saying everything is *easy* or that every character should be able to do anything. There's no challenge or entertainment in that, surely? What I *do* want though is a setting that supports magic *and* technology *and* biogenetics. Perhaps not all in the same time and place, but not taking anything off the table.
+In my dreams, the campaign I'd run would be one where *anything is possible*. I'm not saying everything is *easy* or that every character should be able to do anything. There's no challenge or entertainment in that, surely? What I *do* want though is a setting that supports magic *and* technology *and* biogenetics. Perhaps not all in the same time and place, but not taking anything off the table.
 
 The way I see this working is with a multiverse or a cosmology supporting parallel dimensions. For this, I'm looking back to Michael Moorcock and his ideas of Chaos, Order and the Balance. Towards the Chaos end of the spectrum lie more magical, whimsical, surreal experiences, while the Order end tends to the authoritarian, technological, and homogenous. I don't want to deal with cosmic good and evil. Those are constructs of consciousness.
 
