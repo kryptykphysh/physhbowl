@@ -1,5 +1,5 @@
 ---
-title: LIttledean
+title: Littledean
 draft: false
 tags:
 ---
@@ -35,5 +35,7 @@ Littledean Jail, which is now a museum to the strange and macabre, holds some ve
 One of the old jail doors is known to open by itself, it needs a 6 inch key to unlock it and is also secured by two iron bolts. People have also heard the sound of people walking around the upstairs part of the prison when no one else is in the building.
 # Interesting Facts
 ## It's Never 11 O'Clock in Littledean
+
 ![[littledean_clock_tower.jpg]]
-The 12th century parish of Littledean is dedicated to St Ethelbert, the 8th century saxon king. It's worth looking up if you visit Littledean, at the tower on St Ethelbert's Church to the south of the village. The obvious first thing you'll notice is that the spire is just a stump, having been destroyed in a gale in the 1894. But look carefully at the clock face... where there should be the roman numeral for eleven - XI - it has been wrongly painted as nine - IX! So it's never 11 o'clock in Littledean.
+
+The 12th century parish of Littledean is dedicated to St Ethelbert, the 8th century Saxon king. It's worth looking up if you visit Littledean, at the tower on St Ethelbert's Church to the south of the village. The obvious first thing you'll notice is that the spire is just a stump, having been destroyed in a gale in the 1894. But look carefully at the clock face... where there should be the roman numeral for eleven - XI - it has been wrongly painted as nine - IX! So it's never 11 o'clock in Littledean.
