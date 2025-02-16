@@ -4,7 +4,7 @@ draft: false
 tags:
   - rpg
 ---
- ![[archive_room_5.png]]
+ ![[archives.png]]
 > [!question]- Spoilers for the podcast.
 > When the original series ends, the [[Entities]] are released in to an unknown number of realities, with the statements and recordings made by the original institute serving as, "seeds," for the [[Entities]].
 
