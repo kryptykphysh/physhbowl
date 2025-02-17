@@ -2,6 +2,7 @@
 title: Littledean
 draft: false
 tags:
+  - tbce
 ---
 Littledean is a village in the [Forest of Dean](https://en.wikipedia.org/wiki/Forest_of_Dean "Forest of Dean"), west [Gloucestershire](https://en.wikipedia.org/wiki/Gloucestershire "Gloucestershire"), England. The village has a long history and formerly had the status of a [town](https://en.wikipedia.org/wiki/Town "Town"). [Littledean Hall](https://en.wikipedia.org/wiki/Littledean_Hall "Littledean Hall") was originally a [Saxon](https://en.wikipedia.org/wiki/Saxon "Saxon") hall, although it has been rebuilt and the current house dates back to 1612. The remains of a [Roman temple](https://en.wikipedia.org/wiki/Roman_temple "Roman temple") are situated in the grounds. Neither the hall or Roman remains are open to the public.
 

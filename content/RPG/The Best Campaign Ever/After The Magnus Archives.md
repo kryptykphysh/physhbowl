@@ -3,6 +3,8 @@ title: After the Magnus Archives
 draft: false
 tags:
   - rpg
+  - tma
+  - tbce
 ---
  ![[archives.png]]
 > [!question]- Spoilers for the podcast.
