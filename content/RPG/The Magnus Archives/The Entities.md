@@ -6,33 +6,36 @@ tags:
   - tma
 ---
 > _"Imagine you are an ant, and you have never before seen a human. Then one day, into your colony, a huge fingernail is thrust, scraping and digging. You flee to another entrance, only to be confronted by a staring eye gazing at you. You climb to the top, trying to find escape, and above, you can see the vast, dark shadow of a boot falling upon you. Would that ant be able to construct these things into the form of a single human being? Or would it believe itself to be under attack by three different, equally terrible, but very distinct assailants?"  
-> - [Jurgen Leitner](https://the-magnus-archives.fandom.com/wiki/Jurgen_Leitner "Jurgen Leitner"), [MAG 80](https://the-magnus-archives.fandom.com/wiki/MAG_80 "MAG 80")_
+> - [Jurgen Leitner], [MAG 80]_
 
 > _“These things... these forces, they are our fear. Deep fears. Primordial. Always looking for ways to grow and spread.”  
-> - [Gerard Keay](https://the-magnus-archives.fandom.com/wiki/Gerard_Keay "Gerard Keay"), [MAG 111](https://the-magnus-archives.fandom.com/wiki/MAG_111:_Family_Business "MAG 111: Family Business")_
+> - [Gerard Keay], [[MAG 111: Family Business]])_
 
-**The Entities**, also called the **Fears**, the **Powers**, the **Dread Powers**, and **The Things That Were Fear** are the principle antagonists of The Magnus Archives, and the phenomena that more mundane and earthly antagonists serve.
+[[The Entities]], also called the **Fears**, the **Powers**, the **Dread Powers**, and **The Things That Were Fear** are the principle antagonists of The Magnus Archives, and the phenomena that more mundane and earthly antagonists serve.
 
 They are various aspects of an amorphous force of fear that exists next to reality. They are variously also referred to as "Gods", "powers", or simply as "the Fears". Their influence upon reality manifests as supernatural happenings — all supernatural phenomena in the world are simply extensions of them. These phenomena can take various forms such as people, animals, monsters, books, objects, or places, all with the goal of evoking fear, terror, and paranoia from all who encounter them.
 
 These entities do not simply feed off of fear but are fears made manifest. It is not only human fear that counts but that of animals as well, particularly for The Flesh and The Hunt. The more fearful the world is of a certain thing, the more powerful the related entity becomes, becoming empowered by the increased fear of its realm of influence.
-## Origins and Nature
+
+# Origins and Nature
 
 Originally there was only one entity, implied to be (or least survive as) [[The Hunt]]. This entity existed before humans, and fed on animal fears.
 
 As humans evolved and began to develop language and complex thoughts, they began to tear it apart into smaller and more specific fears, causing the current multiple entities to exist. As these new entities grew and fought among each other, they felt the urge to enter our world and "become one with the minds below". They received the opportunity to do this with the first [[avatars]], who opened the first connection between their realm and ours. And from that they gained the ability to influence our world.
 
-Most entities are near mindless; unable to conceptualize time or themselves and motivated purely by their desire to feed on fear and enter our world. The two exceptions are [The Web](https://the-magnus-archives.fandom.com/wiki/The_Web "The Web") and [The End](https://the-magnus-archives.fandom.com/wiki/The_End "The End"). They are at least sentient enough to make complex long term plans to escape this universe and to destroy reality, respectively.
-## Entities
+Most entities are near mindless; unable to conceptualize time or themselves and motivated purely by their desire to feed on fear and enter our world. The two exceptions are [[The Web]] and [[The End]]. They are at least sentient enough to make complex long term plans to escape this universe and to destroy reality, respectively.
+
+# Entities
 
 > _“Like colours, but if colours hated me.”_  
-> - [Jonathan Sims](https://the-magnus-archives.fandom.com/wiki/Jonathan_Sims "Jonathan Sims"), Head Archivist of The Magnus Institute, London, [MAG 111](https://the-magnus-archives.fandom.com/wiki/MAG_111 "MAG 111")
-### Smirke's List
+> - [[Jonathan Sims]], Head Archivist of The Magnus Institute, London, [[MAG 111]]
+
+## Smirke's List
 [[Robert Smirke]] categorised all the disparate entities into 14 main categories. Each Entity is comprised of a variety of smaller terrors, some direct, some abstract, and some tend to bleed over between one Entity and the next. Whilst fears do change and are subject to place, time, and culture, they are thought to have remained fairly stable since the industrial revolution, though an entity's power fluctuates with the world's fear of their domain. Each entity has a variety of names, though Smirke's names are generally the most commonly used.
 
 These classifications are much like colours, infinite fears that can be grouped into a few categories — each entity can be separated to some degree, but the fears bleed and feed into one another around the edges, and within each entity are different shades of the same hue. This also works to explain why some entities oppose one another, their colours "clash" like red and green or blue and orange.
 
-#### [[The Buried]]
+### [[The Buried]]
 
 - Also called The Centre, Choke, Too Close I Cannot Breathe, Forever Deep Below Creation.
 - The fear of small spaces, suffocating, drowning, being buried alive. Fear of everything crashing down around/on oneself. Fear of being trapped without enough space.
