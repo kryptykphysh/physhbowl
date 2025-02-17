@@ -1,5 +1,5 @@
 ---
-title: The Magnus Archives
+title: The Magnus Archives RPG
 draft: false
 tags:
   - rpg

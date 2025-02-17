@@ -21,6 +21,6 @@ As a starting point, I don't want to blow my players' minds with a multiverse as
 - [[Invisible Sun]]
 - [[Ptolus]]
 - [[Path of the Planebreaker]]
-- [[The Magnus Archives]]
+- [[The Magnus Archives RPG]]
 - [[The Strange]]
 - [[Numenera]]
