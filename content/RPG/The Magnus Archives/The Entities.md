@@ -32,9 +32,7 @@ Most entities are near mindless; unable to conceptualize time or themselves and 
 
 These classifications are much like colours, infinite fears that can be grouped into a few categories — each entity can be separated to some degree, but the fears bleed and feed into one another around the edges, and within each entity are different shades of the same hue. This also works to explain why some entities oppose one another, their colours "clash" like red and green or blue and orange.
 
-#### The Buried
-
-_Main article: [The Buried](https://the-magnus-archives.fandom.com/wiki/The_Buried "The Buried")_
+#### [[The Buried]]
 
 - Also called The Centre, Choke, Too Close I Cannot Breathe, Forever Deep Below Creation.
 - The fear of small spaces, suffocating, drowning, being buried alive. Fear of everything crashing down around/on oneself. Fear of being trapped without enough space.
