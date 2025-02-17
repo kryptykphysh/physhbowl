@@ -18,8 +18,9 @@ Which begs the question: How do you agree upon the game the players want to be i
 If you're going to run an RPG that spans genres, tropes and concepts, you're going to want a universal system that is flexible enough to support modelling arcane spellcasting *and* MechWarrior combat, that kind of narrows your scope. There is also the matter of crunch to consider. As it stands, I'm coming down on the [[Cypher System]]. It has so many games that already have a multiverse concept behind them that there's a trove of material to choose from, and characters are directly portable and comparable, while using the same underlying mechanic.
 
 As a starting point, I don't want to blow my players' minds with a multiverse as a starting point. I *do* want horror, though. I *do* want the acknowledgement that there's a wider universe out there. Honestly, that doesn't limit my choice in Cypher too much. All of the following easily could be used:
-- The Strange
-- Ptolus
-- Path of the Planebreaker
+- [[Invisible Sun]]
+- [[Ptolus]]
+- [[Path of the Planebreaker]]
 - [[The Magnus Archives]]
-- Numenera
+- [[The Strange]]
+- [[Numenera]]

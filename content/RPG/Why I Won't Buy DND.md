@@ -6,6 +6,7 @@ tags:
   - hasbro
   - wotc
   - dnd
+  - anticapitalist
 ---
  I tried to get a couple of AI agents to collate all the scandals and shitfuckery Hasbro and Wizards of the Coast have done over the past few years, but it proved almost impossible to get any output from them that expressed an opinion or disapproval. So, because I can't be arsed writing it myself, here's a milquetoast, "objective and factual," breakdown from an AI source:
  > Dungeons & Dragons, a beloved tabletop RPG, has seen a surge in popularity in recent years. However, behind the scenes, controversies involving its parent companies, Hasbro and Wizards of the Coast (WotC), have sparked concern and outrage among fans. Are these controversies just growing pains, or are they indicative of deeper issues that could threaten the game's future?  
