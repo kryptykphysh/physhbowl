@@ -18,9 +18,9 @@ They are various aspects of an amorphous force of fear that exists next to reali
 These entities do not simply feed off of fear but are fears made manifest. It is not only human fear that counts but that of animals as well, particularly for The Flesh and The Hunt. The more fearful the world is of a certain thing, the more powerful the related entity becomes, becoming empowered by the increased fear of its realm of influence.
 ## Origins and Nature
 
-Originally there was only one entity, implied to be (or least survive as) [The Hunt](https://the-magnus-archives.fandom.com/wiki/The_Hunt "The Hunt"). This entity existed before humans, and fed on animal fears.
+Originally there was only one entity, implied to be (or least survive as) [[The Hunt]]. This entity existed before humans, and fed on animal fears.
 
-As humans evolved and began to develop language and complex thoughts, they began to tear it apart into smaller and more specific fears, causing the current multiple entities to exist. As these new entities grew and fought among each other, they felt the urge to enter our world and "become one with the minds below". They received the opportunity to do this with the first [avatars](https://the-magnus-archives.fandom.com/wiki/Avatars "Avatars"), who opened the first connection between their realm and ours. And from that they gained the ability to influence our world.
+As humans evolved and began to develop language and complex thoughts, they began to tear it apart into smaller and more specific fears, causing the current multiple entities to exist. As these new entities grew and fought among each other, they felt the urge to enter our world and "become one with the minds below". They received the opportunity to do this with the first [[avatars]], who opened the first connection between their realm and ours. And from that they gained the ability to influence our world.
 
 Most entities are near mindless; unable to conceptualize time or themselves and motivated purely by their desire to feed on fear and enter our world. The two exceptions are [The Web](https://the-magnus-archives.fandom.com/wiki/The_Web "The Web") and [The End](https://the-magnus-archives.fandom.com/wiki/The_End "The End"). They are at least sentient enough to make complex long term plans to escape this universe and to destroy reality, respectively.
 ## Entities
