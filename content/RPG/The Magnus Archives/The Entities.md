@@ -96,14 +96,14 @@ _Main article: [[The End]]_
 
 ### The Eye
 
-_Main article: [The Eye](https://the-magnus-archives.fandom.com/wiki/The_Eye "The Eye")_
+_Main article: [[The Eye]]_
 
 - Also called Beholding, The Ceaseless Watcher, It Knows You, The Great Eye that watches all who linger in terror and gorges itself on the sufferings of those under its unrelenting stuporous gaze.
 - The fear of being watched, exposed, followed, having secrets exposed. Can also pertain to the drive to know and understand, even if your discoveries might destroy you.
 - Manifests as eyes, security cameras, a creature or figure that keeps constant watch. Often manifests in libraries and books.
 - Artefacts associated with The Eye: The Hand Mirror, security camera instruction manual, Rock Eye.
-- Known avatars and servants of The Eye: Magnus Institute Archivists (Angus Stacey, [Gertrude Robinson](https://the-magnus-archives.fandom.com/wiki/Gertrude_Robinson "Gertrude Robinson"), [Jonathan Sims](https://the-magnus-archives.fandom.com/wiki/Jonathan_Sims "Jonathan Sims")), [Jonah Magnus](https://the-magnus-archives.fandom.com/wiki/Jonah_Magnus "Jonah Magnus") ([Richard Mendelson](https://the-magnus-archives.fandom.com/wiki/Richard_Mendelson "Richard Mendelson"), [James Wright](https://the-magnus-archives.fandom.com/wiki/James_Wright "James Wright"), [Elias Bouchard](https://the-magnus-archives.fandom.com/wiki/Elias_Bouchard "Elias Bouchard")), archival assistants ([Alice "Daisy" Tonner](https://the-magnus-archives.fandom.com/wiki/Alice_%22Daisy%22_Tonner "Alice \"Daisy\" Tonner"), [Basira Hussain](https://the-magnus-archives.fandom.com/wiki/Basira_Hussain "Basira Hussain"), [Emma Harvey](https://the-magnus-archives.fandom.com/wiki/MAG_167:_Curiosity "MAG 167: Curiosity"), [Eric Delano](https://the-magnus-archives.fandom.com/wiki/Eric_Delano "Eric Delano"), Fiona Law, [Martin Blackwood](https://the-magnus-archives.fandom.com/wiki/Martin_Blackwood "Martin Blackwood"), [Melanie King](https://the-magnus-archives.fandom.com/wiki/Melanie_King "Melanie King"), [Sasha James](https://the-magnus-archives.fandom.com/wiki/Sasha_James "Sasha James"), [Timothy Stoker](https://the-magnus-archives.fandom.com/wiki/Timothy_Stoker "Timothy Stoker")), [Gerard Keay](https://the-magnus-archives.fandom.com/wiki/Gerard_Keay "Gerard Keay").
-- The Eye's ritual is called [The Watcher's Crown](https://the-magnus-archives.fandom.com/wiki/Rituals#The_Eye "Rituals").
+- Known avatars and servants of The Eye: Magnus Institute Archivists ([[Angus Stacey]], [[Gertrude Robinson]], [[Jonathan Sims]]), [[Jonah Magnus]] ([[Richard Mendelson]], [[James Wright]], [[Elias Bouchard]]), archival assistants ([[Alice "Daisy" Tonner]], [[Basira Hussain]], [[Emma Harvey]], [[Eric Delano]], [[Fiona Law]], [[Martin Blackwood]], [[Melanie King]], [[Sasha James]], [[Timothy Stoker]]), [[Gerard Keay]].
+- The Eye's ritual is called [[The Watcher's Crown]].
 
 ### The Flesh
 
