@@ -13,7 +13,6 @@ tags:
 The Buried is one of the [[Entities]]. It is the manifestation of a collection of fears that deal with being trapped without enough space: claustrophobia, small spaces, of being unable to breathe and the underground and dust, of being at the centre of everything and it is all pushing down.
 
 Deep water can be associated with The Buried, but only when the effect is described as claustrophobic, crushing, drowning, heavy, sinking, etc. The Buried is also associated with certain "crushing" money issues, such as desperate poverty, "drowning in debt," and seeking or borrowing money under bad terms.
-
 # Aliases
 - The Centre
 - Choke
