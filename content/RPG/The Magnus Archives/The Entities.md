@@ -47,27 +47,27 @@ These classifications are much like colours, infinite fears that can be grouped
 
 ### The Corruption
 
-_Main article: [The Corruption](https://the-magnus-archives.fandom.com/wiki/The_Corruption "The Corruption")_
+_Main article: [[The Corruption]]_
 
 - Also called Filth, The Crawling Rot, Flesh Hive.
 - The fear of corruption, disease, filth. Fear of the feelings of disgust, revulsion and the things or beings that might evoke such feelings.
 - Manifests as mould, bugs, rot, decay, infection, the feeling of one's skin crawling. Can also manifest as unhealthy love and companionship.
-- Artefacts associated with The Corruption: _[A Journal of the Plague Year](https://the-magnus-archives.fandom.com/wiki/A_Journal_of_the_Plague_Year "A Journal of the Plague Year")_, _[The Tale of a Field Hospital](https://the-magnus-archives.fandom.com/wiki/The_Tale_of_a_Field_Hospital "The Tale of a Field Hospital")_, The Scalpel, The Syringe.
-- Known avatars and servants of The Corruption: [Jane Prentiss](https://the-magnus-archives.fandom.com/wiki/Jane_Prentiss "Jane Prentiss"), [John Amherst](https://the-magnus-archives.fandom.com/wiki/John_Amherst "John Amherst"), [Timothy Hodge](https://the-magnus-archives.fandom.com/wiki/Timothy_Hodge "Timothy Hodge"), [Agape](https://the-magnus-archives.fandom.com/wiki/Agape "Agape"), [Jordan Kennedy](https://the-magnus-archives.fandom.com/wiki/Jordan_Kennedy "Jordan Kennedy").
-- John theorises that Jane Prentiss might have attempted to start a ritual in the tunnels by creating a doorway into The Corruption.
+- Artefacts associated with The Corruption: _[[A Journal of the Plague Year]]_, _[[The Tale of a Field Hospital]]_, The Scalpel, The Syringe.
+- Known avatars and servants of The Corruption: [[Jane Prentiss]], [[John Amherst]], [[Timothy Hodge]], [[Agape]], [[Jordan Kennedy]].
+- [[Jonathan Sims|John]] theorises that [[Jane Prentiss]] might have attempted to start a ritual in the tunnels by creating a doorway into The Corruption.
 - In Sims' first attempt at sketching out the Fears, The Corruption was split between Hive and Filth.
 
 ### The Dark
 
-_Main article: [The Dark](https://the-magnus-archives.fandom.com/wiki/The_Dark "The Dark")_
+_Main article: [[The Dark]]_
 
 - Also called Mr. Pitch, The Forever Blind.
 - The primal fear of the dark, of the unseen, and the creatures hiding from our view.
-- The Dark is said to be one of the oldest Entities.
+- [[The Dark]] is said to be one of the oldest Entities.
 - Manifests as creatures hidden in the dark, shadow figures and monsters, blindness, coldness, dark water.
-- Artefacts associated with The Dark: The Dark Star, Dark Wardrobe.
-- Known avatars and servants of The Dark: [The People's Church of the Divine Host](https://the-magnus-archives.fandom.com/wiki/The_People%27s_Church_of_the_Divine_Host "The People's Church of the Divine Host") ([Manuela Dominguez](https://the-magnus-archives.fandom.com/wiki/Manuela_Dominguez "Manuela Dominguez"), [Maxwell Rayner](https://the-magnus-archives.fandom.com/wiki/Maxwell_Rayner "Maxwell Rayner"), [Robert Montauk](https://the-magnus-archives.fandom.com/wiki/Robert_Montauk "Robert Montauk"), [Vardaan Darvish](https://the-magnus-archives.fandom.com/wiki/MAG_109:_Nightfall "MAG 109: Nightfall"), [Natalie Ennis](https://the-magnus-archives.fandom.com/wiki/Natalie_Ennis "Natalie Ennis")), [Callum Brodie](https://the-magnus-archives.fandom.com/wiki/Callum_Brodie "Callum Brodie").
-- The Dark's only known attempt at a ritual was called "[The Extinguished Sun](https://the-magnus-archives.fandom.com/wiki/Extinguished_Sun "Extinguished Sun")."
+- Artefacts associated with The Dark: The [[Dark Star]], [[Dark Wardrobe]].
+- Known avatars and servants of The Dark: [[The People's Church of the Divine Host]] ([[Manuela Dominguez]], [[Maxwell Rayner]], [[Robert Montauk]], [[Vardaan Darvish]], [[Natalie Ennis]]), [[Callum Brodie]].
+- The Dark's only known attempt at a ritual was called "[[The Extinguished Sun]]."
 - The original name for The Dark was "Pitch".
 
 ### The Desolation
