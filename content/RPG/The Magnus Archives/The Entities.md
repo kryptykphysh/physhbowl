@@ -6,10 +6,10 @@ tags:
   - tma
 ---
 > _"Imagine you are an ant, and you have never before seen a human. Then one day, into your colony, a huge fingernail is thrust, scraping and digging. You flee to another entrance, only to be confronted by a staring eye gazing at you. You climb to the top, trying to find escape, and above, you can see the vast, dark shadow of a boot falling upon you. Would that ant be able to construct these things into the form of a single human being? Or would it believe itself to be under attack by three different, equally terrible, but very distinct assailants?"  
-> - [Jurgen Leitner], [MAG 80]_
+> - [[Jurgen Leitner]], [[MAG 80]]_
 
 > _“These things... these forces, they are our fear. Deep fears. Primordial. Always looking for ways to grow and spread.”  
-> - [Gerard Keay], [[MAG 111: Family Business]])_
+> - [[Gerard Keay]], [[MAG 111: Family Business]])_
 
 [[The Entities]], also called the **Fears**, the **Powers**, the **Dread Powers**, and **The Things That Were Fear** are the principle antagonists of The Magnus Archives, and the phenomena that more mundane and earthly antagonists serve.
 
@@ -72,27 +72,27 @@ _Main article: [[The Dark]]_
 
 ### The Desolation
 
-_Main article: [The Desolation](https://the-magnus-archives.fandom.com/wiki/The_Desolation "The Desolation")_
+_Main article: [[The Desolation]]_
 
 - Also called The Lightless Flame, The Torturing Flame, The Devastation, The Blackened Earth, The Ravening Burn, Asag.
 - The fear of pain, loss, burning, and destruction, especially with a senseless cause.
 - Followers are enriched by destroying the lives of people who had things to live for, and destroying things before their potential is realised.
 - Manifests as fire, wax, heat, burns, destruction of potential.
-- Artefacts associated with The Desolation: _“small book bound in red”_.
-- Known avatars and servants of The Desolation: [The Cult of the Lightless Flame](https://the-magnus-archives.fandom.com/wiki/The_Cult_of_the_Lightless_Flame "The Cult of the Lightless Flame") ([Agnes Montague](https://the-magnus-archives.fandom.com/wiki/Agnes_Montague "Agnes Montague"), [Arthur Nolan](https://the-magnus-archives.fandom.com/wiki/Arthur_Nolan "Arthur Nolan"), [Diego Molina](https://the-magnus-archives.fandom.com/wiki/Diego_Molina "Diego Molina"), [Eileen Montague](https://the-magnus-archives.fandom.com/wiki/Agnes_Montague), [Eugene Vanderstock](https://the-magnus-archives.fandom.com/wiki/MAG_139:_Chosen "MAG 139: Chosen"), [Jude Perry](https://the-magnus-archives.fandom.com/wiki/Jude_Perry "Jude Perry")).
+- Artefacts associated with The Desolation: _"small book bound in red"_.
+- Known avatars and servants of The Desolation: [[The Cult of the Lightless Flame]] ([[Agnes Montague]], [[Arthur Nolan]], [[Diego Molina]], [[Eileen Montague]], [[Eugene Vanderstock]], [[Jude Perry]]).
 - The Desolation's latest and only known attempt at a ritual was called "The Scoured Earth."
 - This fear was known as Burnt, in early drafts.
 
 ### The End
 
-_Main article: [The End](https://the-magnus-archives.fandom.com/wiki/The_End "The End")_
+_Main article: [[The End]]_
 
 - Also called Death, Terminus, the Termination of All Life, The Coming End That Waits For All And Cannot Be Ignored.
 - The fear of death itself—⁠uncaring and unstoppable, the fear that everything ends eventually.
 - Manifests as bones, various forms of the dead (skeletons, mummies, zombies, etc.). Also has close ties to dreams and can manifest through them.
-- Artefacts associated with The End: _[Book of the Dead](https://the-magnus-archives.fandom.com/wiki/Book_of_the_Dead "Book of the Dead")_, _[Catalogue of the Trapped Dead](https://the-magnus-archives.fandom.com/wiki/Catalogue_of_the_Trapped_Dead "Catalogue of the Trapped Dead")_, Death's Game Pieces.
-- Known avatars and servants of The End: [Justin Gough](https://the-magnus-archives.fandom.com/wiki/MAG_113:_Breathing_Room "MAG 113: Breathing Room"), [Nathaniel Thorp](https://the-magnus-archives.fandom.com/wiki/MAG_29:_Cheating_Death "MAG 29: Cheating Death"), [Oliver Banks](https://the-magnus-archives.fandom.com/wiki/Oliver_Banks "Oliver Banks"), [Tova McHugh](https://the-magnus-archives.fandom.com/wiki/MAG_155:_Cost_of_Living "MAG 155: Cost of Living").
-- The End has no known attempts at a ritual. According to Peter Lukas this is because it sees no need to, as Death claims all in the end.
+- Artefacts associated with The End: _[[Book of the Dead]]_, _[[Catalogue of the Trapped Dead]]_, [[Death's Game Pieces]].
+- Known avatars and servants of The End: [[Justin Gough]], [[Nathaniel Thorp]], [[Oliver Banks]], [[Tova McHugh]].
+- The End has no known attempts at a ritual. According to [[Peter Lukas]] this is because it sees no need to, as Death claims all in the end.
 
 ### The Eye
 
