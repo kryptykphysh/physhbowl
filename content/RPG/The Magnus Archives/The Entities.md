@@ -40,12 +40,12 @@ These classifications are much like colours, infinite fears that can be grouped
 - Also called The Centre, Choke, Too Close I Cannot Breathe, Forever Deep Below Creation.
 - The fear of small spaces, suffocating, drowning, being buried alive. Fear of everything crashing down around/on oneself. Fear of being trapped without enough space.
 - Manifests as caves, dirt, financial issues, heavy rain, underground transport, tight spaces such as coffins.
-- Artifacts associated with The Buried: [The Coffin](https://the-magnus-archives.fandom.com/wiki/The_Coffin "The Coffin"), The Box, _DIG,_ [_Seven Lamps of Architecture_](https://the-magnus-archives.fandom.com/wiki/The_Seven_Lamps_of_Architecture "The Seven Lamps of Architecture").
-- Known avatars and servants of The Buried: ["The Governor”](https://the-magnus-archives.fandom.com/wiki/MAG_50:_Foundations "MAG 50: Foundations"), [Enrique MacMillian](https://the-magnus-archives.fandom.com/wiki/MAG_88:_Dig "MAG 88: Dig"), [Hezekiah Wakely](https://the-magnus-archives.fandom.com/wiki/MAG_152:_A_Gravedigger%27s_Envy "MAG 152: A Gravedigger's Envy").
+- Artifacts associated with The Buried: [[The Coffin]], [[The Box]], [[_DIG]],_ [[_Seven Lamps of Architecture_]].
+- Known avatars and servants of The Buried: [["The Governor”]]([[MAG 50:_Foundations]]), [[Enrique MacMillian]]([[MAG 88: Dig]]), [[Hezekiah Wakely]]([[MAG 152]]).
 - The Buried's ritual is called the Sunken Sky.
 - This entity was two in Sims' first draft of the Fears: Breathless and Close.
 
-#### The Corruption
+### The Corruption
 
 _Main article: [The Corruption](https://the-magnus-archives.fandom.com/wiki/The_Corruption "The Corruption")_
 
@@ -57,7 +57,7 @@ _Main article: [The Corruption](https://the-magnus-archives.fandom.com/wiki/The
 - John theorises that Jane Prentiss might have attempted to start a ritual in the tunnels by creating a doorway into The Corruption.
 - In Sims' first attempt at sketching out the Fears, The Corruption was split between Hive and Filth.
 
-#### The Dark
+### The Dark
 
 _Main article: [The Dark](https://the-magnus-archives.fandom.com/wiki/The_Dark "The Dark")_
 
@@ -70,7 +70,7 @@ _Main article: [The Dark](https://the-magnus-archives.fandom.com/wiki/The_Dark 
 - The Dark's only known attempt at a ritual was called "[The Extinguished Sun](https://the-magnus-archives.fandom.com/wiki/Extinguished_Sun "Extinguished Sun")."
 - The original name for The Dark was "Pitch".
 
-#### The Desolation
+### The Desolation
 
 _Main article: [The Desolation](https://the-magnus-archives.fandom.com/wiki/The_Desolation "The Desolation")_
 
@@ -83,7 +83,7 @@ _Main article: [The Desolation](https://the-magnus-archives.fandom.com/wiki/The
 - The Desolation's latest and only known attempt at a ritual was called "The Scoured Earth."
 - This fear was known as Burnt, in early drafts.
 
-#### The End
+### The End
 
 _Main article: [The End](https://the-magnus-archives.fandom.com/wiki/The_End "The End")_
 
@@ -94,7 +94,7 @@ _Main article: [The End](https://the-magnus-archives.fandom.com/wiki/The_End "T
 - Known avatars and servants of The End: [Justin Gough](https://the-magnus-archives.fandom.com/wiki/MAG_113:_Breathing_Room "MAG 113: Breathing Room"), [Nathaniel Thorp](https://the-magnus-archives.fandom.com/wiki/MAG_29:_Cheating_Death "MAG 29: Cheating Death"), [Oliver Banks](https://the-magnus-archives.fandom.com/wiki/Oliver_Banks "Oliver Banks"), [Tova McHugh](https://the-magnus-archives.fandom.com/wiki/MAG_155:_Cost_of_Living "MAG 155: Cost of Living").
 - The End has no known attempts at a ritual. According to Peter Lukas this is because it sees no need to, as Death claims all in the end.
 
-#### The Eye
+### The Eye
 
 _Main article: [The Eye](https://the-magnus-archives.fandom.com/wiki/The_Eye "The Eye")_
 
@@ -105,7 +105,7 @@ _Main article: [The Eye](https://the-magnus-archives.fandom.com/wiki/The_Eye "T
 - Known avatars and servants of The Eye: Magnus Institute Archivists (Angus Stacey, [Gertrude Robinson](https://the-magnus-archives.fandom.com/wiki/Gertrude_Robinson "Gertrude Robinson"), [Jonathan Sims](https://the-magnus-archives.fandom.com/wiki/Jonathan_Sims "Jonathan Sims")), [Jonah Magnus](https://the-magnus-archives.fandom.com/wiki/Jonah_Magnus "Jonah Magnus") ([Richard Mendelson](https://the-magnus-archives.fandom.com/wiki/Richard_Mendelson "Richard Mendelson"), [James Wright](https://the-magnus-archives.fandom.com/wiki/James_Wright "James Wright"), [Elias Bouchard](https://the-magnus-archives.fandom.com/wiki/Elias_Bouchard "Elias Bouchard")), archival assistants ([Alice "Daisy" Tonner](https://the-magnus-archives.fandom.com/wiki/Alice_%22Daisy%22_Tonner "Alice \"Daisy\" Tonner"), [Basira Hussain](https://the-magnus-archives.fandom.com/wiki/Basira_Hussain "Basira Hussain"), [Emma Harvey](https://the-magnus-archives.fandom.com/wiki/MAG_167:_Curiosity "MAG 167: Curiosity"), [Eric Delano](https://the-magnus-archives.fandom.com/wiki/Eric_Delano "Eric Delano"), Fiona Law, [Martin Blackwood](https://the-magnus-archives.fandom.com/wiki/Martin_Blackwood "Martin Blackwood"), [Melanie King](https://the-magnus-archives.fandom.com/wiki/Melanie_King "Melanie King"), [Sasha James](https://the-magnus-archives.fandom.com/wiki/Sasha_James "Sasha James"), [Timothy Stoker](https://the-magnus-archives.fandom.com/wiki/Timothy_Stoker "Timothy Stoker")), [Gerard Keay](https://the-magnus-archives.fandom.com/wiki/Gerard_Keay "Gerard Keay").
 - The Eye's ritual is called [The Watcher's Crown](https://the-magnus-archives.fandom.com/wiki/Rituals#The_Eye "Rituals").
 
-#### The Flesh
+### The Flesh
 
 _Main article: [The Flesh](https://the-magnus-archives.fandom.com/wiki/The_Flesh "The Flesh")_
 
@@ -117,21 +117,21 @@ _Main article: [The Flesh](https://the-magnus-archives.fandom.com/wiki/The_Fles
 - Known avatars and servants of The Flesh: [Angela](https://the-magnus-archives.fandom.com/wiki/MAG_14:_Piecemeal "MAG 14: Piecemeal"), [Eustace Wick](https://the-magnus-archives.fandom.com/wiki/MAG_58:_Trail_Rations "MAG 58: Trail Rations"), [John Haan](https://the-magnus-archives.fandom.com/wiki/MAG_72:_Takeaway "MAG 72: Takeaway"), [Toby Carlisle](https://the-magnus-archives.fandom.com/wiki/MAG_18:_The_Man_Upstairs "MAG 18: The Man Upstairs"), [Tom Haan](https://the-magnus-archives.fandom.com/wiki/Tom_Haan "Tom Haan"), [Jared Hopworth](https://the-magnus-archives.fandom.com/wiki/Jared_Hopworth "Jared Hopworth").
 - The Flesh's ritual is called The Last Feast.
 
-#### The Hunt
+### The Hunt
 
-_Main article: [The Hunt](https://the-magnus-archives.fandom.com/wiki/The_Hunt "The Hunt")_
+_Main article: [[The Hunt]]_
 
 - Also called Blood.
 - The animalistic fear of being chased or hunted; the primal fear of being prey.
 - Manifests as predators, predatory monsters, animal instincts, animalistic traits.
 - Takes hold of apparently "normal" people after they are exposed to the need for The Hunt. Self-proclaimed monster hunters might become 'Hunters' and proceed to develop a need to hunt and kill monsters.
 - It is less able to affect humans due to our self-removal from the food chain.
-- Artefacts associated with The Hunt: _[The Stalwart Hunters' Almanac](https://the-magnus-archives.fandom.com/wiki/The_Stalwart_Hunters%27_Almanac "The Stalwart Hunters' Almanac")_ (suspected).
-- Known avatars and servants of The Hunt: [Alice "Daisy" Tonner](https://the-magnus-archives.fandom.com/wiki/Alice_%22Daisy%22_Tonner "Alice \"Daisy\" Tonner"), [Julia Montauk](https://the-magnus-archives.fandom.com/wiki/Julia_Montauk "Julia Montauk"), [Robert Montauk](https://the-magnus-archives.fandom.com/wiki/Robert_Montauk "Robert Montauk"), [Trevor Herbert,](https://the-magnus-archives.fandom.com/wiki/Trevor_Herbert "Trevor Herbert") [Basira Hussain](https://the-magnus-archives.fandom.com/wiki/Basira_Hussain "Basira Hussain").
+- Artefacts associated with The Hunt: _[[The Stalwart Hunters' Almanac]]_ (suspected).
+- Known avatars and servants of The Hunt: [[Alice "Daisy" Tonner]], [[Julia Montauk]], [[Robert Montauk]], [[Trevor Herbert,]] [[Basira Hussain]].
 - The Hunt's ritual is called The Everchase. Daisy suggests that the Hunt is too caught up in the chase to ever reach the end of its ritual if it has an end at all.
 - In Jonathan Sims' first list of what would become the Entities, this one was called Fang.
 
-#### The Lonely
+### The Lonely
 
 _Main article: [The Lonely](https://the-magnus-archives.fandom.com/wiki/The_Lonely "The Lonely")_
 
@@ -142,7 +142,7 @@ _Main article: [The Lonely](https://the-magnus-archives.fandom.com/wiki/The_Lon
 - Known avatars and servants of The Lonely: [The Lukas Family](https://the-magnus-archives.fandom.com/wiki/Lukas_Family "Lukas Family") ([Peter Lukas](https://the-magnus-archives.fandom.com/wiki/Peter_Lukas "Peter Lukas"), [Mordechai Lukas](https://the-magnus-archives.fandom.com/wiki/MAG_92:_Nothing_Beside_Remains "MAG 92: Nothing Beside Remains"), [Conrad Lukas](https://the-magnus-archives.fandom.com/wiki/MAG_57:_Personal_Space "MAG 57: Personal Space"),) [Martin Blackwood](https://the-magnus-archives.fandom.com/wiki/Martin_Blackwood "Martin Blackwood").
 - Peter Lukas attempted a ritual for The Lonely dubbed "The Silence."
 
-#### The Slaughter
+### The Slaughter
 
 _Main article: [The Slaughter](https://the-magnus-archives.fandom.com/wiki/The_Slaughter "The Slaughter")_
 
@@ -153,7 +153,7 @@ _Main article: [The Slaughter](https://the-magnus-archives.fandom.com/wiki/The_
 - The Slaughter's only known attempt at a ritual was called "The Risen War."
 - This fear was named Butchery before the Entities were fully formed.
 
-#### The Spiral
+### The Spiral
 
 _Main article: [The Spiral](https://the-magnus-archives.fandom.com/wiki/The_Spiral "The Spiral")_
 
@@ -164,7 +164,7 @@ _Main article: [The Spiral](https://the-magnus-archives.fandom.com/wiki/The_Spi
 - Known avatars and servants of The Spiral: [Gabriel](https://the-magnus-archives.fandom.com/wiki/Gabriel "Gabriel"), [The Distortion](https://the-magnus-archives.fandom.com/wiki/The_Distortion "The Distortion") (Michael and Helen), [The Man Who Wasn't There](https://the-magnus-archives.fandom.com/wiki/MAG_85:_Upon_the_Stair "MAG 85: Upon the Stair").
 - The Spiral's ritual is The Great Twisting.
 
-#### The Stranger
+### The Stranger
 
 _Main article: [The Stranger](https://the-magnus-archives.fandom.com/wiki/The_Stranger "The Stranger")_
 
@@ -175,7 +175,7 @@ _Main article: [The Stranger](https://the-magnus-archives.fandom.com/wiki/The_S
 - Known avatars and servants of The Stranger: [The Anglerfish](https://the-magnus-archives.fandom.com/wiki/The_Anglerfish "The Anglerfish"), [Breekon & Hope](https://the-magnus-archives.fandom.com/wiki/Breekon_and_Hope_\(characters\) "Breekon and Hope (characters)"), The Circus of the Other ([Gregor Orsinov](https://the-magnus-archives.fandom.com/wiki/Gregor_Orsinov "Gregor Orsinov"), [Nikola Orsinov](https://the-magnus-archives.fandom.com/wiki/Nikola_Orsinov "Nikola Orsinov")), [Daniel Rawlings](https://the-magnus-archives.fandom.com/wiki/Daniel_Rawlings "Daniel Rawlings"), [NotThem](https://the-magnus-archives.fandom.com/wiki/NotThem "NotThem"), [Sarah Baldwin](https://the-magnus-archives.fandom.com/wiki/Sarah_Baldwin "Sarah Baldwin"), [Wolfgang von Kempelen](https://the-magnus-archives.fandom.com/wiki/MAG_116:_The_Show_Must_Go_On "MAG 116: The Show Must Go On"), [Anatomy Students](https://the-magnus-archives.fandom.com/wiki/MAG_34:_Anatomy_Class "MAG 34: Anatomy Class").
 - The Stranger's ritual is [The Unknowing](https://the-magnus-archives.fandom.com/wiki/The_Unknowing "The Unknowing").
 
-#### The Vast
+### The Vast
 
 _Main article: [The Vast](https://the-magnus-archives.fandom.com/wiki/The_Vast "The Vast")_
 
@@ -187,7 +187,7 @@ _Main article: [The Vast](https://the-magnus-archives.fandom.com/wiki/The_Vast 
 - The Vast's only known ritual was called "The Awful Deep."
 - This fear was known as Vertigo in Sims' earliest drafts.
 
-#### The Web
+### The Web
 
 _Main article: [The Web](https://the-magnus-archives.fandom.com/wiki/The_Web "The Web")_
 
@@ -199,9 +199,9 @@ _Main article: [The Web](https://the-magnus-archives.fandom.com/wiki/The_Web "T
 - According to Peter Lukas, The Web has never attempted a ritual, presumably because it likes or accepts the world as it is. It is also possible that The Web never attempted a ritual because it was more focused on using [The Mass Ritual](https://the-magnus-archives.fandom.com/wiki/The_Mass_Ritual "The Mass Ritual") to escape to other universes than having a ritual of its own.
 - The Web first appeared as Weaver, before the Entities gained definite articles.
 
-### Dekker's Addendum
+## Dekker's Addendum
 
-#### The Extinction
+### The Extinction
 
 _Main article: [The Extinction](https://the-magnus-archives.fandom.com/wiki/The_Extinction "The Extinction")_
 
