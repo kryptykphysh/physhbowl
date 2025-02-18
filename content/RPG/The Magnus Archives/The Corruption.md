@@ -104,16 +104,16 @@ The Corruption has no known named rituals, though [[Robert Smirke]] presumably
     - [[Jane Prentiss]] originally provides a statement to the Archive in [[MAG 32: Hive|MAG 32]] because she can feel that The Corruption hates [[The Eye]], for "to be seen in the cold light of knowledge is anathema to the things that crawl and slither and swarm in the corners and the cracks—in the pitted holes of the hive."
     - In the case of [[MAG 36: Taken Ill|MAG 36]], [[Trevor Herbert]] looked to [[Julia Montauk]] wondering if he should tell [[Nicole Baxter]] about what is happening at [[Ivy Meadows Care Home]] with [[John Amherst]] and The Corruption, saying something like "knowledge [[would be]] a good defense here." Knowledge is associated with [[The Eye]], suggesting that [[The Eye]] defends against The Corruption.
     - It is hypothesized by some that [[Jane Prentiss]] attacking the Archive was part of the beginning of a ritual for The Corruption, and overthrowing the Archive would help empower it as it's a stronghold for [[The Eye]].
-- [[The Distortion]](https://the-magnus-archives.fandom.com/wiki/The_Distortion "The Distortion") actively fights against The Corruption by helping [[Sasha]](https://the-magnus-archives.fandom.com/wiki/Sasha_James "Sasha James") fight the flesh hive.
+- [[The Distortion]] actively fights against The Corruption by helping [[Sasha James|Sasha]] fight the [[Flesh Hive]].
     - It is unclear if this is the will of The Spiral or the personal choice of Michael/The Distortion.
-- [[The Web]](https://the-magnus-archives.fandom.com/wiki/The_Web "The Web") is seen to exact influence over the interactions between The Corruption and The Eye
-    - Jane Prentiss is unsure what possessed her to enter her attic when she was inevitably infected—this suggests influence by The Web to ensure later that The Corruption will mark John.
-    - John attempts to crush a spider on the wall of the Archive, which leads him to break through the wall and find Jane Prentiss readying her attack on the Archive—this discovery enables victory for the agents of The Eye over The Corruption.
-- The Corruption and [[The Buried]](https://the-magnus-archives.fandom.com/wiki/The_Buried "The Buried") sometimes intersect with insects and worms living in the ground and shares the Colony Domain with it.
+- [[The Web]] is seen to exact influence over the interactions between The Corruption and [[The Eye]]
+    - [[Jane Prentiss]] is unsure what possessed her to enter her attic when she was inevitably infected—this suggests influence by The Web to ensure later that The Corruption will mark [Jonathan Sims|John]]
+    - [[Jonathan Sims|John]] attempts to crush a spider on the wall of the Archive, which leads him to break through the wall and find [[Jane Prentiss]] readying her attack on the Archive—this discovery enables victory for the agents of [[The Eye]] over The Corruption.
+- The Corruption and [[The Buried]] sometimes intersect with insects and worms living in the ground and shares the Colony Domain with it.
 
-## Trivia[[]](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthe-magnus-archives.fandom.com%2Fwiki%2FThe_Corruption%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")
+# Trivia
 
-- Some aspects of The Corruption were considered separate entities at various points in the early development of the podcast.[[[[2]]]](https://the-magnus-archives.fandom.com/wiki/The_Corruption#cite_note-2)
+- Some aspects of The Corruption were considered separate entities at various points in the early development of the podcast.
 - In the season 4 Q&A Part 2, Alex and Jonny discuss that Agape could technically be considered an avatar depending on if they could make a "pledge" to The Corruption.
 - The Corruption appears to draw inspiration from the Chaos God Nurgle from the _Warhammer_ series of tabletop games, who is also a god of both filth and disease as well as love and companionship.
 - The Corruption's tarot card resembles the page of wands, identified by the characteristics of someone holding a rod. This tarot card can be seen as newly formed ideas, redirecting energy, and self-limiting beliefs.
