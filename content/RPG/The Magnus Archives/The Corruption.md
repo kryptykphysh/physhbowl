@@ -107,7 +107,7 @@ The Corruption has no known named rituals, though [[Robert Smirke]] presumably
 - [[The Distortion]] actively fights against The Corruption by helping [[Sasha James|Sasha]] fight the [[Flesh Hive]].
     - It is unclear if this is the will of The Spiral or the personal choice of Michael/The Distortion.
 - [[The Web]] is seen to exact influence over the interactions between The Corruption and [[The Eye]]
-    - [[Jane Prentiss]] is unsure what possessed her to enter her attic when she was inevitably infected—this suggests influence by The Web to ensure later that The Corruption will mark [Jonathan Sims|John]]
+    - [[Jane Prentiss]] is unsure what possessed her to enter her attic when she was inevitably infected—this suggests influence by The Web to ensure later that The Corruption will mark [[Jonathan Sims|John]]
     - [[Jonathan Sims|John]] attempts to crush a spider on the wall of the Archive, which leads him to break through the wall and find [[Jane Prentiss]] readying her attack on the Archive—this discovery enables victory for the agents of [[The Eye]] over The Corruption.
 - The Corruption and [[The Buried]] sometimes intersect with insects and worms living in the ground and shares the Colony Domain with it.
 
