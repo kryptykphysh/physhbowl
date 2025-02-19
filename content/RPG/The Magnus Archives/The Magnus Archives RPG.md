@@ -16,6 +16,7 @@ In my humble opinion, the Magnus Archives RPG solves a lot of the problems that 
 - The player characters are a lot more competent than their BRP alternatives.
 - The group have a *reason* to be encountering this weirdness out of the box.
 - [[The Entities]] can still map to eldritch horrors from other games, should you feel the need to, "borrow," them.
+- [[Cypher System]] [[Player Intrusions]] and [[Character Arcs]] allow players to influence the course of the scenario/campaign, which I think is essential in a modern game.
 
 ![[The-Magnus-Archives-RPG-127-Gabriela-Novotna-768x512.jpg]]
 ### Deep within the archives of the Magnus Institute dark things are stirring…
