@@ -15,6 +15,7 @@ The Institute is associated with [[The Entities|Entity]] known as [[The Eye]].
 
 The Institute has at least two sister institutes; the [[Pu Songling Research Centre]] in China, and the [[Usher Foundation]] in America, and was preceded as a center for [[The Eye]] by the Serapeum of Alexandria, and the collection of [[Johann von Württemberg]], among others.
 
+![[The-Magnus-Archives-RPG-03-Russell-Marks-510x765.jpg]]
 # Building and History
 
 The institute was established by [[Jonah Magnus]], a noted researcher into the macabre and strange in 1818. His interest in founding the institute was likely born of his association with [[Robert Smirke]], who first taught him about certain mysterious powers. In 1816, Magnus learned of a library in the Schwartzwald from his friend [[Albrecht von Closen]], who took the books. Some time in 1830 [[Albrecht von Closen|von Closen]] had the books rebound to preserve them, but unbeknownst to him, [[Jonah Magnus|Magnus]] had the new books returned empty, while he kept the originals. This deception -and the harm the books had done to [[Albrecht von Closen|von Closen]]- caused [[Jonah Magnus|Magnus]] to lose the friendship of his long-term colleague [[Doctor Jonathan Fanshawe]].
