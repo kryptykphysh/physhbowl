@@ -5,7 +5,7 @@ tags:
   - tma
 ---
  
-Michael Shelley was one of [[Gertrude Robinson's]](https://the-magnus-archives.fandom.com/wiki/Gertrude_Robinson "Gertrude Robinson") archival assistants. Shelley was eventually sacrificed by Robinson to stop [[The Spiral]](https://the-magnus-archives.fandom.com/wiki/The_Spiral "The Spiral")'s ritual and became a part of [[The Distortion]](https://the-magnus-archives.fandom.com/wiki/The_Distortion "The Distortion").
+Michael Shelley was one of [[Gertrude Robinson's]] archival assistants. Shelley was eventually sacrificed by Robinson to stop [[The Spiral]]'s ritual and became a part of [[The Distortion]].
 # Affiliation
 - [[The Magnus Institute]]
 # Biographical Information
