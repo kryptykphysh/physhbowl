@@ -23,7 +23,7 @@ In my humble opinion, the Magnus Archives RPG solves a lot of the problems that 
 
 _An odd figure beckons drunken pubgoers into an alleyway—never to be seen again._ _A meat grinder somehow compels its users to merrily feed it their own limbs._ _A late-night subway train burrows itself into the earth, all but crushing its lone occupant._
 
-For 200 years, the [[Magnus Institute]] has quietly collected statements like these from people of all walks of life, detailing their personal experiences with the supernatural. Your organization is dedicated to cataloging and researching these incidents—but it’s becoming clear they aren’t as isolated as they first appear. There are connections between them—connections that suggest existential dangers to the world as we know it.
+For 200 years, [[The Magnus Institute]] has quietly collected statements like these from people of all walks of life, detailing their personal experiences with the supernatural. Your organization is dedicated to cataloguing and researching these incidents—but it’s becoming clear they aren’t as isolated as they first appear. There are connections between them—connections that suggest existential dangers to the world as we know it.
 
 How will your team combat them, when simply coming to understand these dark forces threatens to bring you under their influence? Because when you stare into the archives, something starts to stare back.
 
