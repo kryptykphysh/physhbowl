@@ -35,42 +35,42 @@ It is thought to be the newest of the entities, born from the fear created by th
 
 ## Statements
 
-- [[MAG 5: Thrown Away]] ([[Teeth]])
-- [[MAG 14: Piecemeal]] ([[Angela]])
-- [[MAG 17: The Boneturner's Tale]] ([[The Boneturner's Tale]], [[Jared Hopworth]])
-- [[MAG 18: The Man Upstairs]] ([[Toby Carlisle]])
-- [[MAG 30: Killing Floor]] ([[Tom Haan]], [[slaughterhouse]])
-- [[MAG 49: The Butcher’s Window]] ([[Jared Hopworth]])
-- [[MAG 58: Trail Rations]] ([[Eustace Wick]])
-- [[MAG 72: Takeaway]] ([[John Haan]])
-- [[MAG 90: Body Builder]] ([[Jared Hopworth]])
-- [[MAG 103: Cruelty Free]] ([[Monster Pig]])
-- [[MAG 115: Taking Stock]] ([[Meat Grinder]])
-- [[MAG 130: Meat]] ([[The Last Feast]])
-- [[MAG 131: Flesh]] ([[Jared Hopworth]])
-- [[MAG 171: The Gardener]] ([[Jared Hopworth]], [[Domain]])
-- [[MAG 178: The Processing Line]] ([[Domain]])
+- [[MAG 5 - Thrown Away]] ([[Teeth]])
+- [[MAG 14 - Piecemeal]] ([[Angela]])
+- [[MAG 17 - The Boneturner's Tale]] ([[The Boneturner's Tale]], [[Jared Hopworth]])
+- [[MAG 18 - The Man Upstairs]] ([[Toby Carlisle]])
+- [[MAG 30 - Killing Floor]] ([[Tom Haan]], [[slaughterhouse]])
+- [[MAG 49 - The Butcher’s Window]] ([[Jared Hopworth]])
+- [[MAG 58 - Trail Rations]] ([[Eustace Wick]])
+- [[MAG 72 - Takeaway]] ([[John Haan]])
+- [[MAG 90 - Body Builder]] ([[Jared Hopworth]])
+- [[MAG 103 - Cruelty Free]] ([[Monster Pig]])
+- [[MAG 115 - Taking Stock]] ([[Meat Grinder]])
+- [[MAG 130 - Meat]] ([[The Last Feast]])
+- [[MAG 131 - Flesh]] ([[Jared Hopworth]])
+- [[MAG 171 - The Gardener]] ([[Jared Hopworth]], [[Domain]])
+- [[MAG 178 - The Processing Line]] ([[Domain]])
 
 ## Other appearances[[]]([[https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthe-magnus-archives.fandom.com%2Fwiki%2FThe_Flesh%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit"]])
 
-- [[MAG 4: Page Turner]] ([[Partial]], [[Sanskrit poetry book about dying animals]])
-- [[MAG 20: Desecrated Host]] ([[Suspected]], [[cannibalism]])
-- [[MAG 35: Old Passages]] ([[Partial]], [[Sanskrit poetry book about dying animals and a tunnel built by Robert Smirke]])
-- [[MAG 62: First Edition]] ([[Partial]], [[Sanskrit poetry book about dying animals]])
-- [[MAG 91: The Coming Storm]] ([[Partial]], [[The Boneturner's Tale]])
-- [[MAG 199: Seeing it Through]] ([[Angela]], [[domain]], [[mentioned]])
+- [[MAG 4 - Page Turner]] ([[Partial]], [[Sanskrit poetry book about dying animals]])
+- [[MAG 20 - Desecrated Host]] ([[Suspected]], [[cannibalism]])
+- [[MAG 35 - Old Passages]] ([[Partial]], [[Sanskrit poetry book about dying animals and a tunnel built by Robert Smirke]])
+- [[MAG 62 - First Edition]] ([[Partial]], [[Sanskrit poetry book about dying animals]])
+- [[MAG 91 - The Coming Storm]] ([[Partial]], [[The Boneturner's Tale]])
+- [[MAG 199 - Seeing it Through]] ([[Angela]], [[domain]], [[mentioned]])
 
 # Characters
 
 - [[Jared Hopworth]]: The Boneturner. An [[avatar]] of the Flesh with the power to manipulate meat and bones, has a large body with extra limbs and organs taken from his victims.
 - [[Toby Carlisle]]: Covered his apartment with meat.
-    - He has the same last name as Benjamin and his wife in [[MAG 58: Trail Rations]]). It is unclear if they are related.
+    - He has the same last name as Benjamin and his wife in [[MAG 58 - Trail Rations]]). It is unclear if they are related.
 - [[John Haan]]: Cannibalistic murderer who formerly owned a fast food restaurant, rumored to have used human meat in his food.
 - [[Tom Haan]]: Nephew of [[John Haan]], found in the slaughterhouse where he was firing a bolt gun into his head.
 - [[Eustace Wick]]: Cannibal who posed as a guide on the Oregon Trail.
 - [[The Monster Pig]]: A manifestation of the Flesh in the form of a massive pig.
 - An unnamed avatar: Ruler of the [[The Processing Line|Processing Line]], a post-change domain of the Flesh.
-- [[Angela]]: A Flesh avatar who was mentioned in [[MAG 14: Piecemeal]]. She is mentioned to have her own domain in [[MAG 199: Seeing it Through]].
+- [[Angela]]: A Flesh avatar who was mentioned in [[MAG 14 - Piecemeal]]. She is mentioned to have her own domain in [[MAG 199: Seeing it Through]].
 - An unnamed tall woman who was described as having arms that bent backwards.
 
 # Artefacts
@@ -95,7 +95,7 @@ The Flesh's ritual, [[The Last Feast]], involved a pit of meat under a Gnostic c
 
 # Connections with other Entities
 
-- In [[MAG 20: Desecrated Host]], [[Father Burroughs]] is tricked into cannibalism when taking part in the ritual of Eucharist. [[Father Burroughs]] was under the effects of [[The Spiral]] or [[The Web]] at the time and had recently met with [[Breekon & Hope]], agents of [[the Stranger.]]
+- In [[MAG 20 - Desecrated Host]], [[Father Burroughs]] is tricked into cannibalism when taking part in the ritual of Eucharist. [[Father Burroughs]] was under the effects of [[The Spiral]] or [[The Web]] at the time and had recently met with [[Breekon & Hope]], agents of [[the Stranger.]]
 - The Flesh attacked the Magnus Institute, a stronghold of [[The Eye]]. The relationship between the entities is uncertain, as the attack was orchestrated by avatars [[Elias Bouchard]] and [[Jared Hopworth]], rather than the powers behind them.
 
 # Trivia

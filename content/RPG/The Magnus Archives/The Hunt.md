@@ -27,36 +27,36 @@ The Hunt is one of [[The Entities]]. It is one of the most primal powers, the a
 
 ## Statements
 
-- [[MAG 9: A Father's Love]] ([[Julia Montauk]])
-- [[MAG 10: Vampire Killer]] ([[Trevor Herbert]], [[Vampires]])
-- [[MAG 31: First Hunt]] ([[Werewolf]])
-- [[MAG 43: Section 31]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
-- [[MAG 56: Children of the Night]] ([[Trevor Herbert]])
-- [[MAG 61: Hard Shoulder]] ([[Alice Daisy Tonner]])
-- [[MAG 82: The Eyewitnesses]] ([[Calvin Benchley]], [[Alice Daisy Tonner|Alice "Daisy" Tonner]])
-- [[MAG 107: Third Degree]] ([[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 109: Nightfall]] ([[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 112: Thrill of the Chase]] ([[Murder Club]])
-- [[MAG 119: Stranger and Stranger]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
-- [[MAG 133: Dead Horse]] ([[The Everchase]], [[Vampires]])
-- [[MAG 176: Blood Ties]] ([[Domain]], [[Trevor Herbert]])
+- [[MAG 9 - A Father's Love]] ([[Julia Montauk]])
+- [[MAG 10 - Vampire Killer]] ([[Trevor Herbert]], [[Vampires]])
+- [[MAG 31 - First Hunt]] ([[Werewolf]])
+- [[MAG 43 - Section 31]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 56 - Children of the Night]] ([[Trevor Herbert]])
+- [[MAG 61 - Hard Shoulder]] ([[Alice Daisy Tonner]])
+- [[MAG 82 - The Eyewitnesses]] ([[Calvin Benchley]], [[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 107 - Third Degree]] ([[Trevor Herbert]], [[Julia Montauk]])
+- [[MAG 109 - Nightfall]] ([[Trevor Herbert]], [[Julia Montauk]])
+- [[MAG 112 - Thrill of the Chase]] ([[Murder Club]])
+- [[MAG 119 - Stranger and Stranger]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 133 - Dead Horse]] ([[The Everchase]], [[Vampires]])
+- [[MAG 176 - Blood Ties]] ([[Domain]], [[Trevor Herbert]])
 
 ## Other Appearances
 
-- [[MAG 36: Taken Ill]] ([[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 91: The Coming Storm]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
-- [[MAG 92: Nothing Beside Remains]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
-- [[MAG 111: Family Business]] ([[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 118: The Masquerade]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
-- [[MAG 132: Entombed]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
-- [[MAG 153: Love Bombing]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]], [[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 158: Panopticon]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]], [[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 179: Accomplice]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
-- [[MAG 190: Scavengers]] ([[Domain mentioned]])
+- [[MAG 36 - Taken Ill]] ([[Trevor Herbert]], [[Julia Montauk]])
+- [[MAG 91 - The Coming Storm]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 92 - Nothing Beside Remains]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 111 - Family Business]] ([[Trevor Herbert]], [[Julia Montauk]])
+- [[MAG 118 - The Masquerade]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 132 - Entombed]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 153 - Love Bombing]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]], [[Trevor Herbert]], [[Julia Montauk]])
+- [[MAG 158 - Panopticon]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]], [[Trevor Herbert]], [[Julia Montauk]])
+- [[MAG 179 - Accomplice]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 190 - Scavengers]] ([[Domain mentioned]])
 - [[MAG 191:What We Lose]] ([[Domain mentioned]])
-- [[MAG 195: Adrift]] ([[Basira Hussain]], [[Alice Daisy Tonner|Alice "Daisy" Tonner]])
-- [[MAG 196: This Old House]] ([[Possible avatar]])
-- [[MAG 200: Last Words]] ([[mentioned]])
+- [[MAG 195 - Adrift]] ([[Basira Hussain]], [[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 196 - This Old House]] ([[Possible avatar]])
+- [[MAG 200 - Last Words]] ([[mentioned]])
 
 # Characters
 
@@ -87,5 +87,5 @@ The Hunt's ritual is potentially called the Everchase. Little is currently know
 # Trivia
 
 - [[Jonathan Sims|Jonny Sims]] cites [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne) as "a little bit of an influence" on the development of the Hunt as a concept.
-- Police officers seem especially prone to the Hunt, notably [[Alice Daisy Tonner|Daisy Tonner]] and [[MAG 92: Nothing Beside Remains|other Section 31 officers]].
-- According to [[MAG 200: Last Words|MAG 200]], the Hunt was part of the "original" Fear, from which the other Entities split off from as humanity evolved.
+- Police officers seem especially prone to the Hunt, notably [[Alice Daisy Tonner|Daisy Tonner]] and [[MAG 92 - Nothing Beside Remains|other Section 31 officers]].
+- According to [[MAG 200 - Last Words|MAG 200]], the Hunt was part of the "original" Fear, from which the other Entities split off from as humanity evolved.

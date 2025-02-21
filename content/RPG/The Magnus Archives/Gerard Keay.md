@@ -23,9 +23,9 @@ tags:
 
 | Voice Actor      | Jon Gracey                   |
 | ---------------- | ---------------------------- |
-| First Mention    | [[MAG 4: Page Turner]]       |
-| First Appearance | [[MAG 111: Family Business]] |
-| Statement(s)     | [[MAG 111: Family Business]] |
+| First Mention    | [[MAG 4 - Page Turner]]       |
+| First Appearance | [[MAG 111 - Family Business]] |
+| Statement(s)     | [[MAG 111 - Family Business]] |
 # Description
 
 Gerard has been described as pale and thin, with long, (badly) dyed black hair. He frequently wears a long, dark leather coat. Sometime between 2009 and 2011, he acquires small tattoos of eyes over all his joints and his heart.
@@ -64,30 +64,30 @@ On June 30th, 2017, [[Trevor Herbert|Trevor]] and [[Julia Montauk|Julia]] allow�
 
 # Known Powers
 
-- **Knowing** - Gerard has demonstrated some capacity for Knowing. In [[MAG 12: First Aid]], he Knows the code to a supply closet and in [[MAG 48: Lost in the Crowd]] he detects that [[Andrea Nunis]] has been targeted by [[The Lonely]].
+- **Knowing** - Gerard has demonstrated some capacity for Knowing. In [[MAG 12 - First Aid]], he Knows the code to a supply closet and in [[MAG 48: Lost in the Crowd]] he detects that [[Andrea Nunis]] has been targeted by [[The Lonely]].
 
 # Episode Appearances
 
 **Bold** marks episodes where Gerard has given a statement.
 
-- [[MAG 4: Page Turner]]
-- [[MAG 12: First Aid]]
-- [[MAG 35: Old Passages]]
-- [[MAG 48: Lost in the Crowd]]
-- [[MAG 80: The Librarian]] (mentioned)
-- [[MAG 99: Dust to Dust]] (mentioned)
-- [[MAG 102: Nesting Instinct]] (mentioned)
-- [[MAG 103: Cruelty Free]] (mentioned)
-- [[MAG 105: Total War]] (mentioned)
-- [[MAG 107: Third Degree]] (mentioned)
-- [[MAG 109: Nightfall]] (mentioned)
-- **[[MAG 111: Family Business]]**
-- [[MAG 113: Breathing Room]] (mentioned)
-- [[MAG 117: Testament]]
-- [[MAG 137: Nemesis]] (mentioned)
-- [[MAG 153: Love Bombing]] (mentioned)
-- [[MAG 154: Bloody Mary]] (mentioned)
-- [[MAG 162: A Cosy Cabin]]
+- [[MAG 4 - Page Turner]]
+- [[MAG 12 - First Aid]]
+- [[MAG 35 - Old Passages]]
+- [[MAG 48 - Lost in the Crowd]]
+- [[MAG 80 - The Librarian]] (mentioned)
+- [[MAG 99 - Dust to Dust]] (mentioned)
+- [[MAG 102 - Nesting Instinct]] (mentioned)
+- [[MAG 103 - Cruelty Free]] (mentioned)
+- [[MAG 105 - Total War]] (mentioned)
+- [[MAG 107 - Third Degree]] (mentioned)
+- [[MAG 109 - Nightfall]] (mentioned)
+- **[[MAG 111 - Family Business]]**
+- [[MAG 113 - Breathing Room]] (mentioned)
+- [[MAG 117 - Testament]]
+- [[MAG 137 - Nemesis]] (mentioned)
+- [[MAG 153 - Love Bombing]] (mentioned)
+- [[MAG 154 - Bloody Mary]] (mentioned)
+- [[MAG 162 - A Cosy Cabin]]
 # Trivia
 
 - Gerard is described as a talented artist by [[Mary Keay]], having painted an elaborate painting of an eye which incorporates the [[Lichtenberg Figure]].

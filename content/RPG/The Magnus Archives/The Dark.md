@@ -32,27 +32,27 @@ It often manifests as dark/sticky/brackish water, as well as coldness and blind
 
 ## Statements
 
-- [[MAG 9: A Father's Love]] ([[The Montauks]], [[People's Church]], [[The Still and Lightless Beast]])
-- [[MAG 25: Growing Dark]] ([[Natalie Ennis]])
-- [[MAG 52: Exceptional Risk]] ([[The Montauks]], [[The Still and Lightless Beast]])
-- [[MAG 63: The End of the Tunnel]]
-- [[MAG 73: Police Lights]] ([[Maxwell Rayner]], [[Callum Brodie]], [[People's Church]])
-- [[MAG 86: Tucked In]]
-- [[MAG 98: Lights Out]] ([[The Sandman]])
-- [[MAG 100: I Guess You Had To Be There]] ([[Partially]], [["John Smith's" statement]])
-- [[MAG 109: Nightfall]] ([[Julia Montauk]], [[People's Church]])
-- [[MAG 135: Dark Matter]] ([[Manuela Dominguez]], [[Dark Star, _The Daedalus_]])
-- [[MAG 140: The Movement of the Heavens]] ([[Maxwell Rayner]])
-- [[MAG 143: Heart of Darkness]] ([[Manuela Dominguez]], [[Maxwell Rayner]], [[People's Church]])
-- [[MAG 173: Night Night]] ([[Callum Brodie]], [[domain]])
+- [[MAG 9 - A Father's Love]] ([[The Montauks]], [[People's Church]], [[The Still and Lightless Beast]])
+- [[MAG 25 - Growing Dark]] ([[Natalie Ennis]])
+- [[MAG 52 - Exceptional Risk]] ([[The Montauks]], [[The Still and Lightless Beast]])
+- [[MAG 63 - The End of the Tunnel]]
+- [[MAG 73 - Police Lights]] ([[Maxwell Rayner]], [[Callum Brodie]], [[People's Church]])
+- [[MAG 86 - Tucked In]]
+- [[MAG 98 - Lights Out]] ([[The Sandman]])
+- [[MAG 100 - I Guess You Had To Be There]] ([[Partially]], [["John Smith's" statement]])
+- [[MAG 109 - Nightfall]] ([[Julia Montauk]], [[People's Church]])
+- [[MAG 135 - Dark Matter]] ([[Manuela Dominguez]], [[Dark Star, _The Daedalus_]])
+- [[MAG 140 - The Movement of the Heavens]] ([[Maxwell Rayner]])
+- [[MAG 143 - Heart of Darkness]] ([[Manuela Dominguez]], [[Maxwell Rayner]], [[People's Church]])
+- [[MAG 173 - Night Night]] ([[Callum Brodie]], [[domain]])
 
 ## Other Appearances
 
-- [[MAG 35: Old Passages]] ([[Possibly; one of the unseen passages]])
-- [[MAG 51: High Pressure]] ([[Dark wardrobe]], [[mentioned]])
-- [[MAG 53: Crusader]] ([[Possibly; those who sing the night]])
-- [[MAG 183: Monument]] ([[Possibly; The Void domain]])
-- [[MAG 200: Last Words]] ([[mentioned]])
+- [[MAG 35 - Old Passages]] ([[Possibly; one of the unseen passages]])
+- [[MAG 51 - High Pressure]] ([[Dark wardrobe]], [[mentioned]])
+- [[MAG 53 - Crusader]] ([[Possibly; those who sing the night]])
+- [[MAG 183 - Monument]] ([[Possibly; The Void domain]])
+- [[MAG 200 - Last Words]] ([[mentioned]])
 
 # Characters
 

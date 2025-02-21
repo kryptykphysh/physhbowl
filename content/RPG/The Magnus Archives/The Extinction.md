@@ -18,7 +18,7 @@ It is the fear of catastrophic change, the extinction of humanity and its replac
 
 The Extinction is associated with doomsday events, man-made catastrophes (including bombs and climate change), codes or strings of numbers, and the destruction of human skin and tissue.
 
-The Extinction's ascendance was originally predicted by [[Adelard Dekker]] in 2006. While before [[The Change]] its existence was heavily debated, it was confirmed to exist in [[MAG 175: Epoch]]. However, the question as to whether it is on the same level as the other Entities or the existential threat [[Adelard Dekker|Dekker]] feared remains unanswered and possibly unanswerable.
+The Extinction's ascendance was originally predicted by [[Adelard Dekker]] in 2006. While before [[The Change]] its existence was heavily debated, it was confirmed to exist in [[MAG 175 - Epoch]]. However, the question as to whether it is on the same level as the other Entities or the existential threat [[Adelard Dekker|Dekker]] feared remains unanswered and possibly unanswerable.
 
 # Aliases
 - The Terrible Change
@@ -37,27 +37,27 @@ The Extinction's ascendance was originally predicted by [[Adelard Dekker]] in 
 
 ## Statements
 
-- [[MAG 134: Time of Revelation]]
-- [[MAG 144: Decrypted]]
-- [[MAG 149: Concrete Jungle]]
-- [[MAG 156: Reflection]]
-- [[MAG 175: Epoch]] (Domain)
+- [[MAG 134 - Time of Revelation]]
+- [[MAG 144 - Decrypted]]
+- [[MAG 149 - Concrete Jungle]]
+- [[MAG 156 - Reflection]]
+- [[MAG 175 - Epoch]] (Domain)
 
 ## Episodes that may or may not deal with this power
 
-- [[MAG 5: Thrown Away]]
-- [[MAG 48: Lost in the Crowd]]
-- [[MAG 65: Binary]]
-- [[MAG 84: Possessive]]
-- [[MAG 114: Cracked Foundation]]
-- [[MAG 122: Zombie]]
+- [[MAG 5 - Thrown Away]]
+- [[MAG 48 - Lost in the Crowd]]
+- [[MAG 65 - Binary]]
+- [[MAG 84 - Possessive]]
+- [[MAG 114 - Cracked Foundation]]
+- [[MAG 122 - Zombie]]
 
 ## Other Appearances
 
-- [[MAG 113: Breathing Room]] ([[Adelard Dekker]], False alarm)
-- [[MAG 151: Big Picture]] (Mentioned)
-- [[MAG 157: Rotten Core]] ([[Adelard Dekker]], False alarm)
-- [[MAG 158: Panopticon]] (Mentioned)
+- [[MAG 113 - Breathing Room]] ([[Adelard Dekker]], False alarm)
+- [[MAG 151 - Big Picture]] (Mentioned)
+- [[MAG 157 - Rotten Core]] ([[Adelard Dekker]], False alarm)
+- [[MAG 158 - Panopticon]] (Mentioned)
 
 # Emergence
 
@@ -74,7 +74,7 @@ Many [[Avatar|avatars]] of other entities want to prevent The Extinction from be
 
 # Characters
 
-- [[Adelard Dekker|Dekker]] theorized that [[Garland Hillier]]([[MAG 134: Time of Revelation]]) a member of the Millerite movement, may have had close ties to the extinction due to his obsession with the end of the human race.
+- [[Adelard Dekker|Dekker]] theorized that [[Garland Hillier]]([[MAG 134 - Time of Revelation]]) a member of the Millerite movement, may have had close ties to the extinction due to his obsession with the end of the human race.
 
 # Locations
 
@@ -83,4 +83,4 @@ Many [[Avatar|avatars]] of other entities want to prevent The Extinction from be
 # Trivia
 
 - The string of numbers given in MAG144, when decoded using a Polybius square, spell out the sentence "THE WORLD IS ALWAYS ENDING".
-- An Extinction statement features the only snake to make an appearance thus far, the stone viper in [[MAG 149: Concrete Jungle]]. Notably, apocalyptic serpents are common across human mythologies, such as Apophis in Ancient Egypt or Jörmungandr in Scandinavia.
+- An Extinction statement features the only snake to make an appearance thus far, the stone viper in [[MAG 149 - Concrete Jungle]]. Notably, apocalyptic serpents are common across human mythologies, such as Apophis in Ancient Egypt or Jörmungandr in Scandinavia.

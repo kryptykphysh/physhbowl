@@ -36,55 +36,55 @@ It is the entity that grants [[The Archivist|the Archivist]], a position current
 
 Technically, every episode deals with the Eye as its influence is felt throughout the Institute and its employees, so this list should be limited to when the contents of the statement itself concern The Eye. Episodes that only mention or take place in the Archives or the institute do not belong on this list, and episodes related to powers of avatars of The Eye (such as John's compulsion or Elias's memory insertion) are listed under 'other appearances'.
 
-- [[MAG 12: First Aid]] ([[Gerard Keay]])
-- [[MAG 23: Schwartzwald]] ([[Albrecht von Closen]])
-- [[MAG 53: Crusader]] ([[Serapeum of Alexandria]])
-- [[MAG 60: Observer Effect]] ([[Hand mirror]])
-- [[MAG 92: Nothing Beside Remains]] ([[Jonah Magnus]])
-- [[MAG 120: Eye Contact]] ([[The Archivist]], [[Elias Bouchard]])
-- [[MAG 127: Remains to be Seen]] ([[Albrecht von Closen]])
-- [[MAG 138: The Architecture of Fear]] ([[Jonah Magnus]])
-- [[MAG 142: Scrutiny]] ([[The Archivist]])
-- [[MAG 148: Extended Surveillance]] ([[Instruction manual]])
-- [[MAG 154: Bloody Mary]] ([[Mary Keay]], [[Eric Delano]])
-- [[MAG 158: Panopticon]] ([[The Panopticon]], [[The Archivist]], [[Jonah Magnus]])
-- [[MAG 160: The Eye Opens]] ([[The Archivist]], [[Jonah Magnus]])
-- [[MAG 186: Quiet]] ([[Domain]], [[Martin Blackwood]])
-- [[MAG 188: Centre of Attention]] ([[Domain]])
-- [[MAG 189: Peers]] ([[Domain]])
-- [[MAG 192: An Appointment]] ([[Domain]], [[Statement]], [[Jonah Magnus]], [[Past Archivists]])
-- [[MAG 193: A Stern Look]] ([[Jonah Magnus]], [[Statement]])
-- [[MAG 194: Parting]] ([[Statement]])
-- [[MAG 200: Last Words]] ([[Jonah Magnus]], [[The Archivist]])
+- [[MAG 12 - First Aid]] ([[Gerard Keay]])
+- [[MAG 23 - Schwartzwald]] ([[Albrecht von Closen]])
+- [[MAG 53 - Crusader]] ([[Serapeum of Alexandria]])
+- [[MAG 60 - Observer Effect]] ([[Hand mirror]])
+- [[MAG 92 - Nothing Beside Remains]] ([[Jonah Magnus]])
+- [[MAG 120 - Eye Contact]] ([[The Archivist]], [[Elias Bouchard]])
+- [[MAG 127 - Remains to be Seen]] ([[Albrecht von Closen]])
+- [[MAG 138 - The Architecture of Fear]] ([[Jonah Magnus]])
+- [[MAG 142 - Scrutiny]] ([[The Archivist]])
+- [[MAG 148 - Extended Surveillance]] ([[Instruction manual]])
+- [[MAG 154 - Bloody Mary]] ([[Mary Keay]], [[Eric Delano]])
+- [[MAG 158 - Panopticon]] ([[The Panopticon]], [[The Archivist]], [[Jonah Magnus]])
+- [[MAG 160 - The Eye Opens]] ([[The Archivist]], [[Jonah Magnus]])
+- [[MAG 186 - Quiet]] ([[Domain]], [[Martin Blackwood]])
+- [[MAG 188 - Centre of Attention]] ([[Domain]])
+- [[MAG 189 - Peers]] ([[Domain]])
+- [[MAG 192 - An Appointment]] ([[Domain]], [[Statement]], [[Jonah Magnus]], [[Past Archivists]])
+- [[MAG 193 - A Stern Look]] ([[Jonah Magnus]], [[Statement]])
+- [[MAG 194 - Parting]] ([[Statement]])
+- [[MAG 200 - Last Words]] ([[Jonah Magnus]], [[The Archivist]])
 
 ### Other Appearances[[]]([[https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthe-magnus-archives.fandom.com%2Fwiki%2FThe_Eye%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit]]
 
-- [[MAG 4: Page Turner]] ([[Mary Keay]])
-- [[MAG 39: Infestation]] ([[Jonathan Sims]])
-- [[MAG 40: Human Remains]] ([[Gertrude Robinson]])
-- [[MAG 41: Too Deep]] ([[Jonathan Sims]])
-- [[MAG 51: High Pressure]] ([[Artefact]])
-- [[MAG 61: Hard Shoulder]] ([[Jonathan Sims]], [[Compulsion]])
-- [[MAG 62: First Edition]] ([[Mary Keay]])
-- [[MAG 79: Hide and Seek]] ([[Jonathan Sims]])
-- [[MAG 80: The Librarian]] ([[Elias Bouchard]])
-- [[MAG 82: The Eyewitnesses]] ([[Elias Bouchard]])
-- [[MAG 89: Twice as Bright]] ([[Jonathan Sims]], [[Compulsion]])
-- [[MAG 102: Nesting Instinct]] ([[Elias Bouchard]])
-- [[MAG 105: Total War]] ([[Pu Songling Research Centre]])
-- [[MAG 106: A Matter Of Perspective]] ([[Elias Bouchard]], [[Memory Insertion]])
-- [[MAG 111: Family Business]] ([[Gerard Keay]])
-- [[MAG 117: Testament]] ([[Jonathan Sims]])
-- [[MAG 118: The Masquerade]] ([[Elias Bouchard]], [[Memory Insertion]])
-- [[MAG 119: Stranger and Stranger]] ([[Jonathan Sims]])
-- [[MAG 121: Far Away]] ([[Jonathan Sims/The Archivist]])
-- [[MAG 122: Zombie]] ([[The Archivist]], [[feeding]])
-- [[MAG 125: Civilian Casualties]] ([[The Archivist]])
-- [[MAG 128: Heavy Goods]] ([[The Archivist]], [[Compulsion]])
-- [[MAG 129: Submerged]]
-- [[MAG 161: Dwelling]]
-- [[MAG 183: Monument]] ([[Partial Domain]])
-- [[MAG 191: What We Lose]] ([[Past Archivists]])
+- [[MAG 4 - Page Turner]] ([[Mary Keay]])
+- [[MAG 39 - Infestation]] ([[Jonathan Sims]])
+- [[MAG 40 - Human Remains]] ([[Gertrude Robinson]])
+- [[MAG 41 - Too Deep]] ([[Jonathan Sims]])
+- [[MAG 51 - High Pressure]] ([[Artefact]])
+- [[MAG 61 - Hard Shoulder]] ([[Jonathan Sims]], [[Compulsion]])
+- [[MAG 62 - First Edition]] ([[Mary Keay]])
+- [[MAG 79 - Hide and Seek]] ([[Jonathan Sims]])
+- [[MAG 80 - The Librarian]] ([[Elias Bouchard]])
+- [[MAG 82 - The Eyewitnesses]] ([[Elias Bouchard]])
+- [[MAG 89 - Twice as Bright]] ([[Jonathan Sims]], [[Compulsion]])
+- [[MAG 102 - Nesting Instinct]] ([[Elias Bouchard]])
+- [[MAG 105 - Total War]] ([[Pu Songling Research Centre]])
+- [[MAG 106 - A Matter Of Perspective]] ([[Elias Bouchard]], [[Memory Insertion]])
+- [[MAG 111 - Family Business]] ([[Gerard Keay]])
+- [[MAG 117 - Testament]] ([[Jonathan Sims]])
+- [[MAG 118 - The Masquerade]] ([[Elias Bouchard]], [[Memory Insertion]])
+- [[MAG 119 - Stranger and Stranger]] ([[Jonathan Sims]])
+- [[MAG 121 - Far Away]] ([[Jonathan Sims/The Archivist]])
+- [[MAG 122 - Zombie]] ([[The Archivist]], [[feeding]])
+- [[MAG 125 - Civilian Casualties]] ([[The Archivist]])
+- [[MAG 128 - Heavy Goods]] ([[The Archivist]], [[Compulsion]])
+- [[MAG 129 - Submerged]]
+- [[MAG 161 - Dwelling]]
+- [[MAG 183 - Monument]] ([[Partial Domain]])
+- [[MAG 191 - What We Lose]] ([[Past Archivists]])
 
 # Characters
 
@@ -112,7 +112,7 @@ Technically, every episode deals with the Eye as its influence is felt throughou
 - [[Mary Keay]]: She stated that she could never be loyal to just one entity, however, she grew up connected to The Magnus Institute through her mother and her son seemed connected to The Eye. Her constant search for books, knowledge, and power is reminiscent of The Eye's drive for knowledge.
 - [[Albrecht von Closen]]: Ancestor of [[Mary Keay]] and friend of [[Jonah Magnus]], owned a manor and library in the Schwartzwald.
 - [[Rosie Zampano]]: Due to her curious nature and working under [[Elias Bouchard|Elias]] for so long, [[Rosie Zampano|Rosie]] became connected to The Eye and served as the receptionist for [[Elias Bouchard|Elias]] in the [[The Panopticon|Panopticon]].
-- [[Sparksfly.com]] (possibly): While never explicitly confirmed to be connected to the Eye, this dating site is actively designed around the violation of privacy, and at least implied to have unexplained knowledge of its customers. A similar but unnamed Eye-Aligned dating site appears in [[MAG 194: Parting]].
+- [[Sparksfly.com]] (possibly): While never explicitly confirmed to be connected to the Eye, this dating site is actively designed around the violation of privacy, and at least implied to have unexplained knowledge of its customers. A similar but unnamed Eye-Aligned dating site appears in [[MAG 194 - Parting]].
 
 # Artefacts
 
@@ -126,8 +126,8 @@ Technically, every episode deals with the Eye as its influence is felt throughou
 - [[The Panopticon]] of [[Millbank Prison]]
 - [[The Usher Foundation]], Washington D.C., US
 - [[Pu Songling Research Centre]], Beijing, China
-- [[The Serapeum of Alexandria]]([[MAG 53: Crusader]])
-- [[The tomb of Johann von Württemberg]]([[MAG 23: Schwartzwald]]), near Schramberg, Germany
+- [[The Serapeum of Alexandria]]([[MAG 53 - Crusader]])
+- [[The tomb of Johann von Württemberg]]([[MAG 23 - Schwartzwald]]), near Schramberg, Germany
 - [[Martin Blackwood|Martin's]] [[Domain]], a domain that is a mix of [[The Lonely]] and the Eye. Inhabited by a few people who fear that no one will ever know of them, that they shall suffer in silence, and be mourned by nobody.
 - London, the seat of power for The Eye in the new world. It feeds on the fear of being constantly watched, by camera and people alike, and each of them judging you with every action you take.
 

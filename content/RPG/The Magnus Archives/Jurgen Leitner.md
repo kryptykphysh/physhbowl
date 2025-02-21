@@ -23,9 +23,9 @@ He went into hiding after the destruction of his library in 1994 and eventually 
 
 | Voice Actor      | Paul Sims                 |
 | ---------------- | ------------------------- |
-| First Mention    | [[MAG 4: Page Turner]]    |
-| First Appearance | [[MAG 79: Hide and Seek]] |
-| Statement(s)     | [[MAG 80: The Librarian]] |
+| First Mention    | [[MAG 4 - Page Turner]]    |
+| First Appearance | [[MAG 79 - Hide and Seek]] |
+| Statement(s)     | [[MAG 80 - The Librarian]] |
 # Description
 
 Jurgen Leitner is described as a portly man with blond hair that is beginning to grey.

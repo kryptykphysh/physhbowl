@@ -39,53 +39,53 @@ As with [[The Eye]], every episode indirectly involves The Web (via the tape re
 
 ## Statements
 
-- [[MAG 8: Burned Out]] ([[House on Hill Top Road]])
-- [[MAG 16: Arachnophobia]] ([[Spider]])
-- [[MAG 59: Recluse]] ([[Hill Top Road]], [[Web table]])
-- [[MAG 69: Thought for the Day]] ([[Annabelle Cane]])
-- [[MAG 81: A Guest For Mr. Spider]] ([[Book]])
-- [[MAG 100: I Guess You Had To Be There]] ([[Partially]], [[Brian Finlinson's statement]])
-- [[MAG 110: Creature Feature]] ([[Neil Lagorio]])
-- [[MAG 114: Cracked Foundations]] ([[Hill Top Road]])
-- [[MAG 123: Web Development]] ([[Annabelle Cane]])
-- [[MAG 136: The Puppeteer]] ([[Neil Lagorio]], [[Annabelle Cane]])
-- [[MAG 147: Weaver]] ([[Annabelle Cane]], [[Weaver]])
-- [[MAG 167: Curiosity]] ([[Partially]], [[Emma Harvey]])
-- [[MAG 172: Strung Out]] ([[Domain]])
-- [[MAG 196: This Old House]] ([[Annabelle Cane]], [[Hill Top Road]])
-- [[MAG 200: Last Words]] ([[Statement]])
+- [[MAG 8 - Burned Out]] ([[House on Hill Top Road]])
+- [[MAG 16 - Arachnophobia]] ([[Spider]])
+- [[MAG 59 - Recluse]] ([[Hill Top Road]], [[Web table]])
+- [[MAG 69 - Thought for the Day]] ([[Annabelle Cane]])
+- [[MAG 81 - A Guest For Mr. Spider]] ([[Book]])
+- [[MAG 100 - I Guess You Had To Be There]] ([[Partially]], [[Brian Finlinson's statement]])
+- [[MAG 110 - Creature Feature]] ([[Neil Lagorio]])
+- [[MAG 114 - Cracked Foundations]] ([[Hill Top Road]])
+- [[MAG 123 - Web Development]] ([[Annabelle Cane]])
+- [[MAG 136 - The Puppeteer]] ([[Neil Lagorio]], [[Annabelle Cane]])
+- [[MAG 147 - Weaver]] ([[Annabelle Cane]], [[Weaver]])
+- [[MAG 167 - Curiosity]] ([[Partially]], [[Emma Harvey]])
+- [[MAG 172 - Strung Out]] ([[Domain]])
+- [[MAG 196 - This Old House]] ([[Annabelle Cane]], [[Hill Top Road]])
+- [[MAG 200 - Last Words]] ([[Statement]])
 
 ## Other Appearances
 
-- [[MAG 3: Across the Street]] ([[Partially]], [[Web table]])
-- [[MAG 19: Confession]] ([[Hill Top Road]])
-- [[MAG 32: Hive]] ([[Partially]], [[Web mentions]])
-- [[MAG 35: Old Passages]] ([[Partially]], [[Web lighter]], [[Web table]])
-- [[MAG 37: Burnt Offering]] ([[Partially]], [[Binding ritual]])
-- [[MAG 38: Lost and Found]] ([[Partially]], [[Spider]])
-- [[MAG 51: High Pressure]] ([[Partially]], [[Web table]])
-- [[MAG 56: Children of the Night]] ([[Partially]], [[person filled with spiders]])
-- [[MAG 78: Distant Cousin]] ([[Partially]], [[Web table]])
-- [[MAG 79: Hide and Seek]] ([[Web table]])
-- [[MAG 80: The Librarian]] ([[Possibly]], [[Web lighter]])
-- [[MAG 121: Far Away]] ([[Partially]], [[Web mentions]])
-- [[MAG 128: Heavy Goods]] ([[Web artefact]], [[Web mentioned]])
-- [[MAG 163: In the Trenches]] ([[Partially]], [[Annabelle Cane]])
-- [[MAG 166: The Worms]] ([[Annabelle Cane]])
-- [[MAG 180: Moving On]] ([[Annabelle Cane]])
-- [[MAG 181: Ignorance]] ([[Annabelle Cane]])
-- [[MAG 187: Checking Out]] ([[Spiders]], [[Web mentioned]])
-- [[MAG 193: A Stern Look]] ([[Spiders]], [[Spiderwebs]], [[Web mentioned]])
-- [[MAG 194: Parting]] ([[Annabelle Cane]])
-- [[MAG 197: Connected]] ([[Annabelle Cane]], [[Hill Top Road]])
+- [[MAG 3 - Across the Street]] ([[Partially]], [[Web table]])
+- [[MAG 19 - Confession]] ([[Hill Top Road]])
+- [[MAG 32 - Hive]] ([[Partially]], [[Web mentions]])
+- [[MAG 35 - Old Passages]] ([[Partially]], [[Web lighter]], [[Web table]])
+- [[MAG 37 - Burnt Offering]] ([[Partially]], [[Binding ritual]])
+- [[MAG 38 - Lost and Found]] ([[Partially]], [[Spider]])
+- [[MAG 51 - High Pressure]] ([[Partially]], [[Web table]])
+- [[MAG 56 - Children of the Night]] ([[Partially]], [[person filled with spiders]])
+- [[MAG 78 - Distant Cousin]] ([[Partially]], [[Web table]])
+- [[MAG 79 - Hide and Seek]] ([[Web table]])
+- [[MAG 80 - The Librarian]] ([[Possibly]], [[Web lighter]])
+- [[MAG 121 - Far Away]] ([[Partially]], [[Web mentions]])
+- [[MAG 128 - Heavy Goods]] ([[Web artefact]], [[Web mentioned]])
+- [[MAG 163 - In the Trenches]] ([[Partially]], [[Annabelle Cane]])
+- [[MAG 166 - The Worms]] ([[Annabelle Cane]])
+- [[MAG 180 - Moving On]] ([[Annabelle Cane]])
+- [[MAG 181 - Ignorance]] ([[Annabelle Cane]])
+- [[MAG 187 - Checking Out]] ([[Spiders]], [[Web mentioned]])
+- [[MAG 193 - A Stern Look]] ([[Spiders]], [[Spiderwebs]], [[Web mentioned]])
+- [[MAG 194 - Parting]] ([[Annabelle Cane]])
+- [[MAG 197 - Connected]] ([[Annabelle Cane]], [[Hill Top Road]])
 
 # Characters
 
 - [[Annabelle Cane]]: [[Avatar]] of The Web who was observing [[The Magnus Institute]] and subtly influencing events.
-- [[Dexter Banks]]([[MAG 110: Creature Feature]]): Film director who became fixated on creating a spider film called "Widow's Weave," based on the book _Kumo Ga Tabeteiru._ Disappeared along with 100 cast members in 2012. Servant of The Web.
+- [[Dexter Banks]]([[MAG 110 - Creature Feature]]): Film director who became fixated on creating a spider film called "Widow's Weave," based on the book _Kumo Ga Tabeteiru._ Disappeared along with 100 cast members in 2012. Servant of The Web.
 - [[Raymond Fielding]]: Servant of The Web and former owner of the house on [[Hill Top Road]].
 - [[Neil Lagorio]]: Special effects artist who specialized in advanced marionette puppetry. Servant of The Web.
-- [[Emma Harvey]]([[MAG 167: Curiosity]]): Assistant to [[Gertrude Robinson]] who became aligned with The Web.
+- [[Emma Harvey]]([[MAG 167 - Curiosity]]): Assistant to [[Gertrude Robinson]] who became aligned with The Web.
 - [[Geoffrey Neckam]]: Paranoid man who became a servant of The Web, past resident of [[Hill Top Road]].
 - "Sculptor of Puppets": Past resident of Hill Top Road, made marionette strings from the tendons of people who "did not appreciate his art". Killed by a "crusading hunter of the Reformation." (possibly an [[Avatar]] of [[The Hunt]])
 - "Writer of Anonymous Letters": Past resident of [[Hill Top Road]] who did not know where the secrets they knew about others came from (possibly an avatar of [[The Eye]]), killed during a civil war by a "man whose teeth were always stained with mud." (possibly an [[Avatar]] of [[The Buried]])
@@ -103,13 +103,13 @@ As with [[The Eye]], every episode indirectly involves The Web (via the tape re
 
 - [[Hill Top Road|105 Hill Top Road]]: A stronghold of The Web. Formerly owned by [[Raymond Fielding]], the house has a tree in the backyard and at one point served as a teenage half way house. It was unknowingly built on top of a "crack" in the universe, which had continually widened over countless centuries before finally becoming a true [[Gap in Reality.]] The house was later destroyed by [[Agnes Montague]] and the land seemingly touched by [[the Desolation]].
 - [[Domain]] in the post-[[The Change|Change]] world: A large theatre with many stages, in which victims are forced on stage and have their bodies manipulated by hooks and pulleys controlled by a large spider lurking above. Victims are forced to relive events that spurred on or aggravated substance use that they had since recovered from, then made to consume tiny spiders in the form of the previously-used substance. This process repeats indefinitely.
-- [[Upton House]]([[MAG 181: Ignorance]]): Though it was a mostly neutral location due to the inability for the entities to effect it, it was noted that [[Annabelle Cane]] resided there, "spinning her webs."
+- [[Upton House]]([[MAG 181 - Ignorance]]): Though it was a mostly neutral location due to the inability for the entities to effect it, it was noted that [[Annabelle Cane]] resided there, "spinning her webs."
 
 # Ritual
 
-There ([[MAG 200: Last Words]]) is no record of a ritual for The Web. [[Peter Lukas]] speculates that it prefers the world as it is, where it can manipulate people against each other. It appears to actively dislike the post-[[The Change|Change]] world.
+There ([[MAG 200 - Last Words]]) is no record of a ritual for The Web. [[Peter Lukas]] speculates that it prefers the world as it is, where it can manipulate people against each other. It appears to actively dislike the post-[[The Change|Change]] world.
 
-In [[MAG 197: Connected]], it is revealed that The Web knows a successful ritual would ultimately lead to [[The Entities]]' deaths by starvation, because no new humans would be born in the post-[[The Change|Change]] world and [[the End]] would ultimately claim all life. In [[MAG 200]], [[Jonathan Sims|John]] explains that The Web purposefully orchestrated the [[Mass Ritual]] over centuries so it could spread into multiple new dimensions and realities.
+In [[MAG 197 - Connected]], it is revealed that The Web knows a successful ritual would ultimately lead to [[The Entities]]' deaths by starvation, because no new humans would be born in the post-[[The Change|Change]] world and [[the End]] would ultimately claim all life. In [[MAG 200]], [[Jonathan Sims|John]] explains that The Web purposefully orchestrated the [[Mass Ritual]] over centuries so it could spread into multiple new dimensions and realities.
 
 # Connection to other Entities
 

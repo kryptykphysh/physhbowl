@@ -19,7 +19,7 @@ Michael Shelley was one of [[Gertrude Robinson's]] archival assistants. Shelle
 
 | Voice Actor      | Luke Booys               |
 | ---------------- | ------------------------ |
-| First Appearance | [[MAG 99: Dust to Dust]] |
+| First Appearance | [[MAG 99 - Dust to Dust]] |
 # History
 
 As a child, Michael Shelley saw his friend Ryan be taken by [[The Spiral]] and this eventually drove him to work for [[The Magnus Institute]] as a young man. He was hired to replace [[Fiona Law]], one of [[Gertrude Robinson]]'s assistants who had recently been lost.
@@ -36,18 +36,18 @@ Michael believed he had gone mad when he beheld [[The Spiral]]'s [[Rituals|ritu
 
 Michael's age and the date of his death are unknown as there are contradictory statements about both.
 
-Michael was hired as a young man when he was "Far too young to have such a job". [[Eric Delano|Eric]] mentions working with him in [[MAG 154: Bloody Mary]], suggesting he was hired in the 1980s or 1990s at the latest. However, [[MAG 167: Curiosity]] states that he was hired to replace [[Fiona Law]], who officially passed away in 2003 from a failed transplant. In actuality, [[Fiona Law|Fiona]] was taken by [[The Coffin]] but it is unclear if this happened during, before, or after 2003.
+Michael was hired as a young man when he was "Far too young to have such a job". [[Eric Delano|Eric]] mentions working with him in [[MAG 154 - Bloody Mary]], suggesting he was hired in the 1980s or 1990s at the latest. However, [[MAG 167: Curiosity]] states that he was hired to replace [[Fiona Law]], who officially passed away in 2003 from a failed transplant. In actuality, [[Fiona Law|Fiona]] was taken by [[The Coffin]] but it is unclear if this happened during, before, or after 2003.
 
-Michael's death seems to have occurred between October 2009 and 2011 as [[Gertrude Robinson|Gertrude]] had lost all her assistants by 2011 and according to [[MAG 126: Sculptor's Tool]], [[The Great Twisting]] took place some time after October 2009. However, this is contradicted by the events detailed in MAG 167, which suggests he was part of [[The Distortion]] before the death of [[Agnes Montague]], which occurred in 2006.
+Michael's death seems to have occurred between October 2009 and 2011 as [[Gertrude Robinson|Gertrude]] had lost all her assistants by 2011 and according to [[MAG 126 - Sculptor's Tool]], [[The Great Twisting]] took place some time after October 2009. However, this is contradicted by the events detailed in MAG 167, which suggests he was part of [[The Distortion]] before the death of [[Agnes Montague]], which occurred in 2006.
 
 # Episode Appearances
 
-- [[MAG 99: Dust to Dust]]
-- [[MAG 101: Another Twist]] (Mentioned)
-- [[MAG 154: Bloody Mary]] (Mentioned)
-- [[MAG 167: Curiosity]] (Mentioned)
-- [[MAG 187: Checking Out]] (Mentioned)
-- [[MAG 188: Centre of Attention]] (Mentioned)
+- [[MAG 99 - Dust to Dust]]
+- [[MAG 101 - Another Twist]] (Mentioned)
+- [[MAG 154 - Bloody Mary]] (Mentioned)
+- [[MAG 167 - Curiosity]] (Mentioned)
+- [[MAG 187 - Checking Out]] (Mentioned)
+- [[MAG 188 - Centre of Attention]] (Mentioned)
 
 # Trivia
 

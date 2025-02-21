@@ -30,32 +30,32 @@ Many entities prey on isolated victims or isolate victims while they are torment
 
 ## Statements
 
-- [[MAG 13: Alone]] ([[Lukas Family]])
-- [[MAG 33: Boatswain's Call]] ([[Peter Lukas]])
-- [[MAG 48: Lost in the Crowd]] ([[The crowd]])
-- [[MAG 57: Personal Space]]
-- [[MAG 92: Nothing Beside Remains]] ([[Mordecai Lukas]])
-- [[MAG 108: Monologue]]
-- [[MAG 150: Cul-De-Sac]]
-- [[MAG 159: The Last]] ([[The Lonely]], [[Peter Lukas]])
-- [[MAG 170: Recollection]] ([[Domain]], [[Martin Blackwood]])
-- [[MAG 186: Quiet]] ([[Domain]], [[Martin Blackwood]])
+- [[MAG 13 - Alone]] ([[Lukas Family]])
+- [[MAG 33 - Boatswain's Call]] ([[Peter Lukas]])
+- [[MAG 48 - Lost in the Crowd]] ([[The crowd]])
+- [[MAG 57 - Personal Space]]
+- [[MAG 92 - Nothing Beside Remains]] ([[Mordecai Lukas]])
+- [[MAG 108 - Monologue]]
+- [[MAG 150 - Cul-De-Sac]]
+- [[MAG 159 - The Last]] ([[The Lonely]], [[Peter Lukas]])
+- [[MAG 170 - Recollection]] ([[Domain]], [[Martin Blackwood]])
+- [[MAG 186 - Quiet]] ([[Domain]], [[Martin Blackwood]])
 
 ## Other Appearances[[]]([[https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthe-magnus-archives.fandom.com%2Fwiki%2FThe_Lonely%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit]]
 
-- [[MAG 66: Held in Customs]] ([[A Disappearance]])
-- [[MAG 80: The Librarian]] ([[A Disappearance]])
-- [[MAG 100: I Guess You Had To Be There]] ([[partially]], [[Peter Lukas]])
-- [[MAG 123: Web Development]] ([[mentioned]], [[Peter Lukas]])
-- [[MAG 126: Sculptor's Tool]] ([[partially]], [[Peter Lukas]])
-- [[MAG 134: Time of Revelation]] ([[Martin Blackwood]], [[Peter Lukas]])
-- [[MAG 149: Concrete Jungle]] ([[partially]], [[Martin Blackwood]])
-- [[MAG 151: Big Picture]] ([[mentioned]], [[Peter Lukas]])
-- [[MAG 158: Panopticon]] ([[The Lonely]], [[Martin Blackwood]], [[Peter Lukas]])
-- [[MAG 181: Ignorance]] ([[Lonely painting]], [[mentioned]])
-- [[MAG 183: Monument]] ([[Martin's Domain]], [[mentioned]])
-- [[MAG 188: Centre of Attention]] ([[Domain]], [[mentioned]])
-- [[MAG 196: This Old House]] ([[Mentioned]])
+- [[MAG 66 - Held in Customs]] ([[A Disappearance]])
+- [[MAG 80 - The Librarian]] ([[A Disappearance]])
+- [[MAG 100 - I Guess You Had To Be There]] ([[partially]], [[Peter Lukas]])
+- [[MAG 123 - Web Development]] ([[mentioned]], [[Peter Lukas]])
+- [[MAG 126 - Sculptor's Tool]] ([[partially]], [[Peter Lukas]])
+- [[MAG 134 - Time of Revelation]] ([[Martin Blackwood]], [[Peter Lukas]])
+- [[MAG 149 - Concrete Jungle]] ([[partially]], [[Martin Blackwood]])
+- [[MAG 151 - Big Picture]] ([[mentioned]], [[Peter Lukas]])
+- [[MAG 158 - Panopticon]] ([[The Lonely]], [[Martin Blackwood]], [[Peter Lukas]])
+- [[MAG 181 - Ignorance]] ([[Lonely painting]], [[mentioned]])
+- [[MAG 183 - Monument]] ([[Martin's Domain]], [[mentioned]])
+- [[MAG 188 - Centre of Attention]] ([[Domain]], [[mentioned]])
+- [[MAG 196 - This Old House]] ([[Mentioned]])
 
 # Characters
 

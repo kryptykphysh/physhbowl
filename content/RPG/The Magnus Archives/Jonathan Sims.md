@@ -29,11 +29,11 @@ tags:
 
 | Voice Actor      | Jonathan Sims                      |
 | ---------------- | ---------------------------------- |
-| First Mention    | [[MAG 1: Angler Fish]]             |
-| First Appearance | [[MAG 1: Angler Fish]]             |
-| Statement(s)     | [[MAG 41: Too Deep]]               |
-|                  | [[MAG 81: A Guest For Mr. Spider]] |
-|                  | [[MAG 117: Testament]]             |
+| First Mention    | [[MAG 1 - Angler Fish]]             |
+| First Appearance | [[MAG 1 - Angler Fish]]             |
+| Statement(s)     | [[MAG 41 - Too Deep]]               |
+|                  | [[MAG 81 - A Guest For Mr. Spider]] |
+|                  | [[MAG 117 - Testament]]             |
 # Personality
 
 John initially comes across as rude and short-tempered. He is dismissive and condescending toward written statement givers as well as one of his assistants, [[Martin Blackwood]]. When faced with statement givers in person, John is initially rude and rejects their experiences as tricks of the mind. However, over time, he softens and offers genuine compassion to those that have been traumatised or scared by what they have experienced. He eventually admits that he, too, is afraid of the monsters and supernatural subjects of statements, but covers it up with a scornful exterior.
@@ -161,38 +161,38 @@ John has been marked in one way or another by every [[The Entities|Entity]]. Alm
 
 As the main character of the show, John appears in almost every episode - thus it is easier to simply list the episodes he _hasn't_ been heard in. Asterisks* mark episodes he still features prominently in as the subject; **bold** marks episodes where he is not even mentioned.
 
-- [[MAG 82: The Eyewitnesses]]
-- [[MAG 84: Possessive]]
-- [[MAG 86: Tucked In]]
-- [[MAG 88: Dig]]
-- [[MAG 90: Body Builder]]
-- [[MAG 95: Absent Without Leave]]
-- [[MAG 98: Lights Out]]
-- [[MAG 100: I Guess You Had To Be There]]
-- [[MAG 104: Sneak Preview]]
-- [[MAG 106: A Matter Of Perspective]]
-- [[MAG 108: Monologue]]
-- [[MAG 110: Creature Feature]]
-- [[MAG 112: Thrill of the Chase]]
-- [[MAG 120: Eye Contact*]]
-- [[MAG 134: Time of Revelation]]
-- [[MAG 138: The Architecture of Fear]]
-- [[MAG 142: Scrutiny*]]
-- [[MAG 144: Decrypted]]
-- [[MAG 149: Concrete Jungle]]
-- [[MAG 151: Big Picture]]
-- [[MAG 156: Reflection]]
-- [[MAG 186: Quiet]]
-- [[MAG 196: This Old House]]
+- [[MAG 82 - The Eyewitnesses]]
+- [[MAG 84 - Possessive]]
+- [[MAG 86 - Tucked In]]
+- [[MAG 88 - Dig]]
+- [[MAG 90 - Body Builder]]
+- [[MAG 95 - Absent Without Leave]]
+- [[MAG 98 - Lights Out]]
+- [[MAG 100 - I Guess You Had To Be There]]
+- [[MAG 104 - Sneak Preview]]
+- [[MAG 106 - A Matter Of Perspective]]
+- [[MAG 108 - Monologue]]
+- [[MAG 110 - Creature Feature]]
+- [[MAG 112 - Thrill of the Chase]]
+- [[MAG 120 - Eye Contact*]]
+- [[MAG 134 - Time of Revelation]]
+- [[MAG 138 - The Architecture of Fear]]
+- [[MAG 142 - Scrutiny*]]
+- [[MAG 144 - Decrypted]]
+- [[MAG 149 - Concrete Jungle]]
+- [[MAG 151 - Big Picture]]
+- [[MAG 156 - Reflection]]
+- [[MAG 186 - Quiet]]
+- [[MAG 196 - This Old House]]
 
 # Trivia
 
 - In official transcripts, [[The Archivist]]'s name is shortened to John. This was an intentional choice by author Jonathan Sims in order to create psychological distance between himself and the character who shares his name. However, both John and Jon are considered acceptable spellings.
-- John sings for just a few seconds in [[MAG 31: First Hunt]] at the 13:25-15:00 mark (differs depending on where you listen).
+- John sings for just a few seconds in [[MAG 31 - First Hunt]] at the 13:25-15:00 mark (differs depending on where you listen).
     - John's voice actor, Jonny Sims, was in the band [The Mechanisms](https://themechanisms.com/the-crew/) with fellow TMA voice actors Frank Voss ([[Basira Hussain]]), Jessica Law ([[Nikola Orsinov]]), and Tim Ledsam ([[Jordan Kennedy]]).
-- John says "I love you" to [[Martin Blackwood|Martin]] in [[MAG 161: Dwelling]]. Before that, [[The Admiral]] was the only character John had been recorded saying "I love you" to.
-- John is implied to be asexual in [[MAG 106: A Matter Of Perspective]] and has shown romantic interest in both men and women. Writer Jonny Sims has confirmed that [[The Archivist]] was written as asexual in the [Season 4 Q+A Part 1](https://play.acast.com/s/themagnusarchives/mag160.1-season4q-apart1) and on Twitter, but he is not sure what [[The Archivist]] himself would identify as since he is not the kind of person to openly talk about feelings or sexuality.
-- All characters refer to John as 'him' but the show notes for [[MAG 132: Entombed]] refer to John as 'they'. Jonny Sims has clarified on Twitter that the show notes are not written by him and this is not indicative of any deeper canon meaning, but as [[The Archivist]]'s gender will likely be unimportant to the plot, there is also nothing to contradict a non-binary interpretation of the character.
+- John says "I love you" to [[Martin Blackwood|Martin]] in [[MAG 161 - Dwelling]]. Before that, [[The Admiral]] was the only character John had been recorded saying "I love you" to.
+- John is implied to be asexual in [[MAG 106 - A Matter Of Perspective]] and has shown romantic interest in both men and women. Writer Jonny Sims has confirmed that [[The Archivist]] was written as asexual in the [Season 4 Q+A Part 1](https://play.acast.com/s/themagnusarchives/mag160.1-season4q-apart1) and on Twitter, but he is not sure what [[The Archivist]] himself would identify as since he is not the kind of person to openly talk about feelings or sexuality.
+- All characters refer to John as 'him' but the show notes for [[MAG 132 - Entombed]] refer to John as 'they'. Jonny Sims has clarified on Twitter that the show notes are not written by him and this is not indicative of any deeper canon meaning, but as [[The Archivist]]'s gender will likely be unimportant to the plot, there is also nothing to contradict a non-binary interpretation of the character.
 - In the season 2 Q&A, Jonny Sims speculates that [[The Archivist]] might enjoy reading non-fiction and watching documentaries in his spare time.
 - In D&D John would be a warlock who thinks he is a druid.
 - [[Gertrude Robinson]] and [[Jurgen Leitner]] are voiced by Jonny Sim's real-life parents, Sue Sims and Paul Sims.

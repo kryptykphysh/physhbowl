@@ -19,11 +19,11 @@ Basira Hussain is a police officer who has signed a [[Section 31]] form as she
 
 | Voice Actor      | Frank Voss                |
 | ---------------- | ------------------------- |
-| First Mention    | [[MAG 43: Section 31]]    |
-| First Appearance | [[MAG 43: Section 31]]    |
-| Statement(s)     | [[MAG 43: Section 31]]    |
-|                  | [[MAG 73: Police Lights]] |
-|                  | [[MAG 117: Testament]]    |
+| First Mention    | [[MAG 43 - Section 31]]    |
+| First Appearance | [[MAG 43 - Section 31]]    |
+| Statement(s)     | [[MAG 43 - Section 31]]    |
+|                  | [[MAG 73 - Police Lights]] |
+|                  | [[MAG 117 - Testament]]    |
 # Personality
 
 Basira initially presents herself in season 2 as isolated and fairly powerless, avoided by other police officers due to the stigma of the [[Section 31]] status and left without adequate support to properly investigate the murder of [[Gertrude Robinson]] (lacking even basic resources like a tape recorder to listen to the tapes found around her body). While this is a ruse to a degree, as Basira was using the tapes as to encourage her main suspect not to flee, by the end of the season she has witnessed the Metropolitan Police covering up _two_ other officers being killed by [[Avatar|avatars]], quitting because of this. She demonstrates an ability to conceal her feelings about people, as [[Jonathan Sims|John]] is surprised to learn that he was her prime suspect, but she does also come to genuinely like [[Jonathan Sims|John]] despite suspecting him of murder. 
@@ -99,59 +99,59 @@ They pursue [[Alice Daisy Tonner|Daisy]] together and eventually find her in a [
 # Episode Appearances
 
 **Bold** marks episodes where Basira has given a statement. Italic marks where Basira has read a statement.
-- **[[MAG 43: Section 31]]**
-- [[MAG 52: Exceptional Risk]]
-- [[MAG 64: Burial Rites]]
-- [[MAG 72: Takeaway]]
-- **[[MAG 73: Police Lights]]**
-- [[MAG 75: A Long Way Down]]
-- [[MAG 88: Dig]]
-- [[MAG 91: The Coming Storm]]
-- [[MAG 92: Nothing Beside Remains]]
-- [[MAG 95: Absent Without Leave]]
-- [[MAG 98: Lights Out]]
-- [[MAG 100: I Guess You Had To Be There]]
-- [[MAG 106: A Matter Of Perspective]]
-- [[MAG 108: Monologue]]
-- [[MAG 110: Creature Feature]]
-- *[[MAG 112: Thrill of the Chase]]*
-- [[MAG 114: Cracked Foundation]]
-- [[MAG 116: The Show Must Go On]]
-- **[[MAG 117: Testament]]**
-- [[MAG 118: The Masquerade]]
-- [[MAG 119: Stranger and Stranger]]
-- [[MAG 122: Zombie]]
-- [[MAG 123: Web Development]]
-- [[MAG 125: Civilian Casualties]]
-- [[MAG 127: Remains to be Seen]]
-- [[MAG 128: Heavy Goods]]
-- [[MAG 132: Entombed]]
-- [[MAG 133: Dead Horse]]
-- [[MAG 135: Dark Matter]]
-- [[MAG 140: The Movement of the Heavens]]
-- [[MAG 141: Doomed Voyage]]
-- [[MAG 143: Heart of Darkness]]
-- [[MAG 146: Threshold]]
-- [[MAG 147: Weaver]]
-- [[MAG 148: Extended Surveillance]]
-- [[MAG 151: Big Picture]]
-- [[MAG 155: Cost of Living]]
-- [[MAG 158: Panopticon]]
-- [[MAG 164: The Sick Village]] (Mentioned)
-- [[MAG 175: Epoch]] (Mentioned)
-- [[MAG 176: Blood Ties]]
-- [[MAG 177: Wonderland]]
-- [[MAG 178: The Processing Line]]
-- [[MAG 179: Accomplice]]
-- [[MAG 183: Monument]] (Mentioned)
-- [[MAG 188: Centre of Attention]] (Mentioned)
-- [[MAG 190: Scavengers]] (Mentioned)
-- [[MAG 192: An Appointment]] (Mentioned)
-- [[MAG 195: Adrift]]
-- [[MAG 197: Connected]]
-- [[MAG 198: Precipice]]
-- [[MAG 199: Seeing it Through]]
-- [[MAG 200: Last Words]]
+- **[[MAG 43 - Section 31]]**
+- [[MAG 52 - Exceptional Risk]]
+- [[MAG 64 - Burial Rites]]
+- [[MAG 72 - Takeaway]]
+- **[[MAG 73 - Police Lights]]**
+- [[MAG 75 - A Long Way Down]]
+- [[MAG 88 - Dig]]
+- [[MAG 91 - The Coming Storm]]
+- [[MAG 92 - Nothing Beside Remains]]
+- [[MAG 95 - Absent Without Leave]]
+- [[MAG 98 - Lights Out]]
+- [[MAG 100 - I Guess You Had To Be There]]
+- [[MAG 106 - A Matter Of Perspective]]
+- [[MAG 108 - Monologue]]
+- [[MAG 110 - Creature Feature]]
+- *[[MAG 112 - Thrill of the Chase]]*
+- [[MAG 114 - Cracked Foundation]]
+- [[MAG 116 - The Show Must Go On]]
+- **[[MAG 117 - Testament]]**
+- [[MAG 118 - The Masquerade]]
+- [[MAG 119 - Stranger and Stranger]]
+- [[MAG 122 - Zombie]]
+- [[MAG 123 - Web Development]]
+- [[MAG 125 - Civilian Casualties]]
+- [[MAG 127 - Remains to be Seen]]
+- [[MAG 128 - Heavy Goods]]
+- [[MAG 132 - Entombed]]
+- [[MAG 133 - Dead Horse]]
+- [[MAG 135 - Dark Matter]]
+- [[MAG 140 - The Movement of the Heavens]]
+- [[MAG 141 - Doomed Voyage]]
+- [[MAG 143 - Heart of Darkness]]
+- [[MAG 146 - Threshold]]
+- [[MAG 147 - Weaver]]
+- [[MAG 148 - Extended Surveillance]]
+- [[MAG 151 - Big Picture]]
+- [[MAG 155 - Cost of Living]]
+- [[MAG 158 - Panopticon]]
+- [[MAG 164 - The Sick Village]] (Mentioned)
+- [[MAG 175 - Epoch]] (Mentioned)
+- [[MAG 176 - Blood Ties]]
+- [[MAG 177 - Wonderland]]
+- [[MAG 178 - The Processing Line]]
+- [[MAG 179 - Accomplice]]
+- [[MAG 183 - Monument]] (Mentioned)
+- [[MAG 188 - Centre of Attention]] (Mentioned)
+- [[MAG 190 - Scavengers]] (Mentioned)
+- [[MAG 192 - An Appointment]] (Mentioned)
+- [[MAG 195 - Adrift]]
+- [[MAG 197 - Connected]]
+- [[MAG 198 - Precipice]]
+- [[MAG 199 - Seeing it Through]]
+- [[MAG 200 - Last Words]]
 # Trivia
 
 - Basira is voiced by Frank Voss who was in the band [The Mechanisms](https://themechanisms.com/the-crew/) with writer Jonny Sims and fellow voice actors Tim Ledsam ([[Jordan Kennedy]]) and Jessica Law ([[Nikola Orsinov]]).
@@ -159,6 +159,6 @@ They pursue [[Alice Daisy Tonner|Daisy]] together and eventually find her in a [
 - Basira's D&D class would be paladin.
 - Basira used to listen to [[Georgie Barker]]'s podcast "[[What the Ghost?]]". She loved the first two seasons but thinks it took a weird turn in season three.
 - Basira is shown repeatedly to have the ability to reason or brute force her way out of supernatural situations. This is shown when she chooses a direction and goes during [[The Unknowing]] or how she travels unaffected during [[The Change]]. This also shows a degree of separation from [[The Eye]], as [[The Eye]] is unable to understand information given to it.
-- In development, Basira's last name was Khan but it was changed to Hussain before recording started. A leftover from this can be heard in the credits of [[MAG 80: The Librarian]] which refer to her as "PC Basira Khan".
+- In development, Basira's last name was Khan but it was changed to Hussain before recording started. A leftover from this can be heard in the credits of [[MAG 80 - The Librarian]] which refer to her as "PC Basira Khan".
 - Basira's first name, as well as her surname "Hussain", are of Arabic and Persian origin.
     - Basira can mean wise or all-seeing in Arabic.

@@ -36,42 +36,42 @@ The Spiral is associated with fractal patterns, hallucinations, doubt of sanity,
 
 ## Statements
 
-- [[MAG 19: Confession]] ([[Father Burroughs]])
-- [[MAG 20: Desecrated Host]] ([[Father Burroughs]])
-- [[MAG 26: A Distortion]] ([[Michael Shelley]])
-- [[MAG 27: A Sturdy Lock]] ([[The Distortion]])
-- [[MAG 38: Lost and Found]] ([[The Fractal Pot]])
-- [[MAG 47: The New Door]] ([[Michael Shelley]]/[[The Distortion]], [[Helen Richardson]])
-- [[MAG 65: Binary]] ([[Sergey Ushanka]])
-- [[MAG 74: Fatigue]] ([[Michael Shelley]]/[[The Distortion]])
-- [[MAG 85: Upon the Stair]] ([[A Man Who Wasn't There]])
-- [[MAG 91: The Coming Storm]] ([[Partially; The Lichtenberg Figure]])
-- [[MAG 100: I Guess You Had To Be There]] ([[Partially; Robin Lennox's statement]])
-- [[MAG 101: Another Twist]] ([[Michael Shelley]]/[[Helen Richardson]]/[[The Distortion]], [[Gabriel]])
-- [[MAG 126: Sculptor's Tool]] ([[Gabriel]], [[The Distortion]] (mentioned))
-- [[MAG 141: Doomed Voyage]] (Partially; [[The Carpet]])
-- [[MAG 146: Threshold]] ([[The Distortion]])
-- [[MAG 177: Wonderland]] ([[Domain]], [[Dr. David]], [[Helen Richardson]]/[[The Distortion]])
-- [[MAG 183: Monument]] ([[Helen Richardson]]/[[The Distortion]], partial [[Domain]])
-- [[MAG 187: Checking Out]] ([[Domain]], [[statement]], [[Helen Richardson]]/[[The Distortion]])
+- [[MAG 19 - Confession]] ([[Father Burroughs]])
+- [[MAG 20 - Desecrated Host]] ([[Father Burroughs]])
+- [[MAG 26 - A Distortion]] ([[Michael Shelley]])
+- [[MAG 27 - A Sturdy Lock]] ([[The Distortion]])
+- [[MAG 38 - Lost and Found]] ([[The Fractal Pot]])
+- [[MAG 47 - The New Door]] ([[Michael Shelley]]/[[The Distortion]], [[Helen Richardson]])
+- [[MAG 65 - Binary]] ([[Sergey Ushanka]])
+- [[MAG 74 - Fatigue]] ([[Michael Shelley]]/[[The Distortion]])
+- [[MAG 85 - Upon the Stair]] ([[A Man Who Wasn't There]])
+- [[MAG 91 - The Coming Storm]] ([[Partially; The Lichtenberg Figure]])
+- [[MAG 100 - I Guess You Had To Be There]] ([[Partially; Robin Lennox's statement]])
+- [[MAG 101 - Another Twist]] ([[Michael Shelley]]/[[Helen Richardson]]/[[The Distortion]], [[Gabriel]])
+- [[MAG 126 - Sculptor's Tool]] ([[Gabriel]], [[The Distortion]] (mentioned))
+- [[MAG 141 - Doomed Voyage]] (Partially; [[The Carpet]])
+- [[MAG 146 - Threshold]] ([[The Distortion]])
+- [[MAG 177 - Wonderland]] ([[Domain]], [[Dr. David]], [[Helen Richardson]]/[[The Distortion]])
+- [[MAG 183 - Monument]] ([[Helen Richardson]]/[[The Distortion]], partial [[Domain]])
+- [[MAG 187 - Checking Out]] ([[Domain]], [[statement]], [[Helen Richardson]]/[[The Distortion]])
 
 ## Other Appearances
 
-- [[MAG 8: Burned Out]] ([[Partially; Ivo Lensik's father]])
-- [[MAG 32: Hive]] ([["Fools chasing fractals]]
-- [[MAG 46: Literary Heights]] ([[The Lichtenberg Figure]])
-- [[MAG 78: Distant Cousin]] ([[Michael Shelley]]/[[The Distortion]])
-- [[MAG 79: Hide and Seek]] ([[Michael Shelley]]/[[The Distortion]])
-- [[MAG 99: Dust to Dust]] ([[Michael Shelley]])
-- [[MAG 115: Taking Stock]] ([[Helen Richardson]]/[[The Distortion]])
-- [[MAG 131: Flesh]] ([[Helen Richardson]]/[[The Distortion]])
-- [[MAG 152: A Gravedigger's Envy]] ([[Helen Richardson]]/[[The distortion]])
-- [[MAG 160: The Eye Opens]] (Partially)
-- [[MAG 164: The Sick Village]] ([[Helen Richardson]]/[[The Distortion]])
-- [[MAG 166: The Worms]] ([[Helen Richardson]]/[[The Distortion]])
-- [[MAG 188: Centre of Attention]] ([[Michael Shelley]]/[[Helen Richardson]]/[[The Distortion]], mentioned)
-- [[MAG 190: Scavengers]] ([[Helen Richardson]]/[[The Distortion]], [[Domain]], mentioned)
-- [[MAG 200: Last Words]] (mentioned)
+- [[MAG 8 - Burned Out]] ([[Partially; Ivo Lensik's father]])
+- [[MAG 32 - Hive]] ([["Fools chasing fractals]]
+- [[MAG 46 - Literary Heights]] ([[The Lichtenberg Figure]])
+- [[MAG 78 - Distant Cousin]] ([[Michael Shelley]]/[[The Distortion]])
+- [[MAG 79 - Hide and Seek]] ([[Michael Shelley]]/[[The Distortion]])
+- [[MAG 99 - Dust to Dust]] ([[Michael Shelley]])
+- [[MAG 115 - Taking Stock]] ([[Helen Richardson]]/[[The Distortion]])
+- [[MAG 131 - Flesh]] ([[Helen Richardson]]/[[The Distortion]])
+- [[MAG 152 - A Gravedigger's Envy]] ([[Helen Richardson]]/[[The distortion]])
+- [[MAG 160 - The Eye Opens]] (Partially)
+- [[MAG 164 - The Sick Village]] ([[Helen Richardson]]/[[The Distortion]])
+- [[MAG 166 - The Worms]] ([[Helen Richardson]]/[[The Distortion]])
+- [[MAG 188 - Centre of Attention]] ([[Michael Shelley]]/[[Helen Richardson]]/[[The Distortion]], mentioned)
+- [[MAG 190 - Scavengers]] ([[Helen Richardson]]/[[The Distortion]], [[Domain]], mentioned)
+- [[MAG 200 - Last Words]] (mentioned)
 
 # Characters
 
@@ -93,14 +93,14 @@ The Spiral is associated with fractal patterns, hallucinations, doubt of sanity,
 
 - [[Sannikov Land]] (Zemlya Sannikova): An island north of Russia that doesn't exist, defined by impossibility and structures that should not be able to exist. It was the staging ground of The Spiral's ritual sometime between 2009 and 2011.
 - [[Wonderland House]]: The Spiral’s [[domain]] after [[The Change]]. It is a mental institute where a being known as [[Doctor David]] manipulates victims into believing that their mental health problems are made up for attention and berates them for it.
-- [[The Distortion]]: A manifestation of [[The Distortion]] in the post-[[The Change|change]] world that took the shape of a constantly shifting, impossible to navigate hotel. The hotel was destroyed by [[Jonathan Sims]] in [[MAG 187: Checking Out]].
-- [[An Unnamed Maze]] [[Domain]]: Similar to the one mentioned in [[MAG 100: I Guess You Had To Be There]]. [[Laverne]], [[Melanie King|Melanie's]] therapist, was trapped in it before she was rescued.
+- [[The Distortion]]: A manifestation of [[The Distortion]] in the post-[[The Change|change]] world that took the shape of a constantly shifting, impossible to navigate hotel. The hotel was destroyed by [[Jonathan Sims]] in [[MAG 187 - Checking Out]].
+- [[An Unnamed Maze]] [[Domain]]: Similar to the one mentioned in [[MAG 100 - I Guess You Had To Be There]]. [[Laverne]], [[Melanie King|Melanie's]] therapist, was trapped in it before she was rescued.
 
 # Ritual
 
 The Spiral's ritual is called "[[The Great Twisting]]", which took place in [[Sannikov Land]] (Zemlya Sannikova) sometime between 2009 and 2011. [[Gertrude Robinson]] stopped the ritual by sacrificing her assistant [[Michael Shelley]] to merge with [[The Distortion]], who then became [[Michael Shelley|Michael]]. The ritual failed as the unknowable being of [[The Distortion]] combined with a knowable being in the form of [[Michael Shelley]].
 
-[[Gertrude Robinson]] used the statement from [[MAG 126: Sculptor's Tool]] in her research to formulate the counter-ritual, presumably taking inspiration from [[Gabriel]] saying that [[The Distortion]] does not have a name and would be confused by having one.
+[[Gertrude Robinson]] used the statement from [[MAG 126 - Sculptor's Tool]] in her research to formulate the counter-ritual, presumably taking inspiration from [[Gabriel]] saying that [[The Distortion]] does not have a name and would be confused by having one.
 
 # Connections with other Entities
 
@@ -111,4 +111,4 @@ The Spiral's ritual is called "[[The Great Twisting]]", which took place in [[Sa
 - The Spiral's relationship with [[The Eye]] is unknown, but [[The Distortion]]'s relationship with Beholding seems to be based on its human element's opinions.
     - [[Michael Shelley|Michael]] helped the Archives to foil others' plans, later stating he wanted neither the [[Circus]] nor the Archives to "win", making it convenient for him to kill [[Jonathan Sims|John]] himself before [[The Stranger]] could.
     - [[Helen Richardson|Helen]], on the other hand, is revealed in Season 4 to be regularly helping the Archives.
-    - In [[MAG 187: Checking Out]] [[Jonathan Sims|John]] questions if [[Helen Richardson|Helen]] is working with [[Elias Bouchard|Elias]] to stop him from reversing [[The Change]], something she firmly denies.
+    - In [[MAG 187 - Checking Out]] [[Jonathan Sims|John]] questions if [[Helen Richardson|Helen]] is working with [[Elias Bouchard|Elias]] to stop him from reversing [[The Change]], something she firmly denies.

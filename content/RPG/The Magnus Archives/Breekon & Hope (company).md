@@ -13,9 +13,9 @@ tags:
 | Location | Nottingham, Newcastle |
 # Meta Information
 
-| First Mention    | [[MAG 2: Do Not Open]] |
+| First Mention    | [[MAG 2 - Do Not Open]] |
 | ---------------- | ---------------------- |
-| First Appearance | [[MAG 2: Do Not Open]] |
+| First Appearance | [[MAG 2 - Do Not Open]] |
 # History
 
 Sometime before 1993, Breekon & Hope was founded by [[Alfred Breekon]]. Breekon had intended to name his company "Breekon & Sons", but named it "Breekon & Hope" as a joke about his lack of children. This was regularly misinterpreted by clients who assumed that Breekon had a partner named Hope. Breekon & Hope was a successful company and had a shipping range of over 1100 kilometers.

@@ -29,25 +29,25 @@ The Slaughter is frequently associated with music, in particular various kinds o
 
 ## Statements
 
-- [[MAG 7: The Piper]] ([[The Piper]])
-- [[MAG 28: Skintight]] ([[Cambridge Military Hospital]])
-- [[MAG 42: Grifter's Bone]] ([[Alfred Grifter]], [[Grifter's Bone]])
-- [[MAG 76: The Smell of Blood]] ([[The Army Hospital train car]])
-- [[MAG 82: The Eyewitnesses]] ([[The maimed figure]])
-- [[MAG 95: Absent Without Leave]] ([[The Deserter]])
-- [[MAG 105: Total War]] ([[Charles Fleming]], [[The _Nemesis_]])
-- [[MAG 125: Civilian Casualties]] ([[An untitled paperback book]], [[Melanie King's surgery]])
-- [[MAG 137: Nemesis]] ([[The _Nemesis_]], [[The Risen War]])
-- [[MAG 163: In the Trenches]] ([[Domain]])
+- [[MAG 7 - The Piper]] ([[The Piper]])
+- [[MAG 28 - Skintight]] ([[Cambridge Military Hospital]])
+- [[MAG 42 - Grifter's Bone]] ([[Alfred Grifter]], [[Grifter's Bone]])
+- [[MAG 76 - The Smell of Blood]] ([[The Army Hospital train car]])
+- [[MAG 82 - The Eyewitnesses]] ([[The maimed figure]])
+- [[MAG 95 - Absent Without Leave]] ([[The Deserter]])
+- [[MAG 105 - Total War]] ([[Charles Fleming]], [[The _Nemesis_]])
+- [[MAG 125 - Civilian Casualties]] ([[An untitled paperback book]], [[Melanie King's surgery]])
+- [[MAG 137 - Nemesis]] ([[The _Nemesis_]], [[The Risen War]])
+- [[MAG 163 - In the Trenches]] ([[Domain]])
 
 ## Other Appearances
 
-- [[MAG 115: Taking Stock]] ([[Firearm artefact]], [[mentioned]])
-- [[MAG 116: The Show Must Go On]] ([[Partially; An unnamed avatar]])
-- [[MAG 117: Testament]] ([[Partially; Melanie King's statement]])
-- [[MAG 128: Heavy Goods]] ([[Knife artefact]], [[mentioned]])
-- [[MAG 181: Ignorance]] ([[Blood money artefact]], [[mentioned]])
-- [[MAG 200: Last Words]] ([[mentioned]])
+- [[MAG 115 - Taking Stock]] ([[Firearm artefact]], [[mentioned]])
+- [[MAG 116 - The Show Must Go On]] ([[Partially; An unnamed avatar]])
+- [[MAG 117 - Testament]] ([[Partially; Melanie King's statement]])
+- [[MAG 128 - Heavy Goods]] ([[Knife artefact]], [[mentioned]])
+- [[MAG 181 - Ignorance]] ([[Blood money artefact]], [[mentioned]])
+- [[MAG 200 - Last Words]] ([[mentioned]])
 
 # Characters
 

@@ -39,53 +39,53 @@ Deep water can be associated with The Buried, but only when the effect is descri
 
 ## Statements
 
-- [[MAG 2: Do Not Open]] ([[The Coffin]])
-- [[MAG 15: Lost Johns' Cave]] ([[The Cave]])
-- [[MAG 50: Foundations]] ([[George Gilbert Scott]])
-- [[MAG 61: Hard Shoulder]] ([[The Coffin]])
-- [[MAG 66: Held in Customs]] ([[The Box]])
-- [[MAG 71: Underground]] ([[The Underground]])
-- [[MAG 88: Dig]] ([[Leitner Book]])
-- [[MAG 97: We All Ignore the Pit]] ([[Bucoda]], [[Sunken Sky]])
-- [[MAG 99: Dust to Dust]] ([[Dust storm]])
-- [[MAG 129: Submerged]] ([[Flood]])
-- [[MAG 132: Entombed]] ([[The Coffin]])
-- [[MAG 142: Scrutiny]] ([[Hand]])
-- [[MAG 152: A Gravedigger's Envy]] ([[Hezekiah Wakely]])
-- [[MAG 166: The Worms]] ([[Domain]])
-- [[MAG 184: Like Ants]] ([[partial domain]])
+- [[MAG 2 - Do Not Open]] ([[The Coffin]])
+- [[MAG 15 - Lost Johns' Cave]] ([[The Cave]])
+- [[MAG 50 - Foundations]] ([[George Gilbert Scott]])
+- [[MAG 61 - Hard Shoulder]] ([[The Coffin]])
+- [[MAG 66 - Held in Customs]] ([[The Box]])
+- [[MAG 71 - Underground]] ([[The Underground]])
+- [[MAG 88 - Dig]] ([[Leitner Book]])
+- [[MAG 97 - We All Ignore the Pit]] ([[Bucoda]], [[Sunken Sky]])
+- [[MAG 99 - Dust to Dust]] ([[Dust storm]])
+- [[MAG 129 - Submerged]] ([[Flood]])
+- [[MAG 132 - Entombed]] ([[The Coffin]])
+- [[MAG 142 - Scrutiny]] ([[Hand]])
+- [[MAG 152 - A Gravedigger's Envy]] ([[Hezekiah Wakely]])
+- [[MAG 166 - The Worms]] ([[Domain]])
+- [[MAG 184 - Like Ants]] ([[partial domain]])
 
 ## Other Appearances
 
-- [[MAG 41: Too Deep]] ([[Seven Lamps of Architecture]])
-- [[MAG 79: Hide And Seek]] ([[Seven Lamps of Architecture]])
-- [[MAG 80: The Librarian]] ([[Seven Lamps of Architecture]])
-- [[MAG 128: Heavy Goods]] ([[The Coffin]])
-- [[MAG 158: Panopticon]] ([[Seven Lamps of Architecture]])
-- [[MAG 196: This Old House]] ([[Possible Avatar]], [[Burying Alive]])
+- [[MAG 41 - Too Deep]] ([[Seven Lamps of Architecture]])
+- [[MAG 79 - Hide And Seek]] ([[Seven Lamps of Architecture]])
+- [[MAG 80 - The Librarian]] ([[Seven Lamps of Architecture]])
+- [[MAG 128 - Heavy Goods]] ([[The Coffin]])
+- [[MAG 158 - Panopticon]] ([[Seven Lamps of Architecture]])
+- [[MAG 196 - This Old House]] ([[Possible Avatar]], [[Burying Alive]])
 
 # Characters
 
-- [["The Governor"]]([[MAG 50: Foundations]]): A figure described as short and wide; wears a tall black hat that reveals grey wisps of hair and carries around a black cane with an iron tip. His presence is made known by the jangling of keys. After hearing this jangling, Sampson Kempthorne experienced the sensation of walls closing in around him to the point that he could hardly breathe or move.
-- [[George Gilbert Scott]]([[MAG 50: Foundations]]): An architect who worked alongside Henry Roberts - who himself had studied under [[Robert Smirke]] - and George had consequentially studied some under him as well. Scott revised and drafted many buildings to produce designs that were described as claustrophobic and extremely impractical.
-- [[Karolina Górka]]([[MAG 71: Underground]]): Was trapped in an underground train, which continued on a never-ending route and got progressively dirtier and more crushed in by earth. Karolina woke up at Walthamstow Central after resigning herself to death in the train as dirt piled up around her. She decided it could not have been a dream because she was still covered in dirt when she woke. Left a great deal of dust behind after making her statement.
-- [[Enrique MacMillian]]([[MAG 88: Dig]]): After reading the _DIG_ book, he became seized with the urge to dig because, to him, "below" felt comforting while "above" felt overwhelming. Attempted to dig into the floor of the Head Archivist's office with his bare hands after seeing something below the floorboards that no one else saw.
-- [[Hezekiah Wakely]]([[MAG 152: A Gravedigger's Envy]]): A gravedigger who envied the dead's peacefulness at the bottom of graves. Was eventually buried alive and became an avatar for the Buried.
+- [["The Governor"]]([[MAG 50 - Foundations]]): A figure described as short and wide; wears a tall black hat that reveals grey wisps of hair and carries around a black cane with an iron tip. His presence is made known by the jangling of keys. After hearing this jangling, Sampson Kempthorne experienced the sensation of walls closing in around him to the point that he could hardly breathe or move.
+- [[George Gilbert Scott]]([[MAG 50 - Foundations]]): An architect who worked alongside Henry Roberts - who himself had studied under [[Robert Smirke]] - and George had consequentially studied some under him as well. Scott revised and drafted many buildings to produce designs that were described as claustrophobic and extremely impractical.
+- [[Karolina Górka]]([[MAG 71 - Underground]]): Was trapped in an underground train, which continued on a never-ending route and got progressively dirtier and more crushed in by earth. Karolina woke up at Walthamstow Central after resigning herself to death in the train as dirt piled up around her. She decided it could not have been a dream because she was still covered in dirt when she woke. Left a great deal of dust behind after making her statement.
+- [[Enrique MacMillian]]([[MAG 88 - Dig]]): After reading the _DIG_ book, he became seized with the urge to dig because, to him, "below" felt comforting while "above" felt overwhelming. Attempted to dig into the floor of the Head Archivist's office with his bare hands after seeing something below the floorboards that no one else saw.
+- [[Hezekiah Wakely]]([[MAG 152 - A Gravedigger's Envy]]): A gravedigger who envied the dead's peacefulness at the bottom of graves. Was eventually buried alive and became an avatar for the Buried.
 - [[Breekon and Hope|"Breekon and Hope (characters)"]]: Agents of [[The Stranger]] who became bound to [[The Coffin]].
 - "Man Whose Teeth Were Always Stained With Mud": An agent of the Buried who may have been an avatar, entombed a servant of [[The Web]] under [[Hill Top Road]] during a civil war.
 
 # Artefacts
 
 - [[The Coffin]]: Also known as The Pit, is a coffin that is usually locked and held closed with chains. The coffin is a gateway into The Buried, and screams, moans and scratching of wood can be heard from its victims when it rains or when objects are placed on the lid. 
-- _[[DIG]]([[MAG 88: Dig]]): A [[Leitner Book]] apparently filled with pages that read nothing but "DIG." It imbues its readers with a fascination with being covered in dirt and the untameable urge to dig. Could possibly also bestow its readers with the ability to see things of value beneath the earth's surface.
-- [[The Box]]([[MAG 66: Held in Customs]]): A box that traps a person inside it the morning after they touch it. Each time its prisoner feels any kind of hope of getting out, The Box seems to get smaller. Time moves differently inside The Box, its victims seemingly experiencing multiple days and nights within a 24 hour period. 
+- _[[DIG]]([[MAG 88 - Dig]]): A [[Leitner Book]] apparently filled with pages that read nothing but "DIG." It imbues its readers with a fascination with being covered in dirt and the untameable urge to dig. Could possibly also bestow its readers with the ability to see things of value beneath the earth's surface.
+- [[The Box]]([[MAG 66 - Held in Customs]]): A box that traps a person inside it the morning after they touch it. Each time its prisoner feels any kind of hope of getting out, The Box seems to get smaller. Time moves differently inside The Box, its victims seemingly experiencing multiple days and nights within a 24 hour period. 
 - [[The Seven Lamps of Architecture]]: A [[Leitner Book]] that, when read in full, causes walls to close in around the reader. When read near [[Robert Smirke]]'s architecture, the reader is able to change or move parts of the building.
 
 # Locations
 
 - The Buried: A separate, subterranean dimension that is absent of any life, with the exception of any victims sent there. Victims within the Buried will find themselves squeezed from all sides, with little chance of escape. It is the direct manifestation of the Entity itself, thus is capable of appearing on its own accord.
-- [[Bucoda, Washington]]([[MAG 97: We All Ignore the Pit]]): An American town where the Buried's ritual was attempted. It was destroyed by an earthquake after the ritual was interrupted.
-- [[The Field of Worms]]([[MAG 166: The Worms]]): A [[Domains|domain]] in the post-[[Change|The Change]] world that appears as an open field with thin, vertical tunnels leading deep into the earth. In these tunnels are 'worms', once human, now only able to crawl slowly upward and be pushed down by the eventual rain.
+- [[Bucoda, Washington]]([[MAG 97 - We All Ignore the Pit]]): An American town where the Buried's ritual was attempted. It was destroyed by an earthquake after the ritual was interrupted.
+- [[The Field of Worms]]([[MAG 166 - The Worms]]): A [[Domains|domain]] in the post-[[Change|The Change]] world that appears as an open field with thin, vertical tunnels leading deep into the earth. In these tunnels are 'worms', once human, now only able to crawl slowly upward and be pushed down by the eventual rain.
 
 # Ritual
 

@@ -28,29 +28,29 @@ It is noted by [[Oliver Banks]] that The End will be the last entity to remain
 
 ## Statements
 
-- [[MAG 11: Dreamer]] ([[Antonio Blake/Oliver Banks]])
-- [[MAG 29: Cheating Death]] ([[Death]])
-- [[MAG 43: Section 31]] ([[Suicide case]])
-- [[MAG 62: First Edition]] ([[Catalogue of the Trapped Dead]])
-- [[MAG 64: Burial Rites]] ([[Death]])
-- [[MAG 70: Book Of The Dead]]
-- [[MAG 94: Dead Woman Walking]] ([[Jane Doe]], [[Georgie Barker]])
-- [[MAG 113: Breathing Room]] ([[Justin Gough]])
-- [[MAG 121: Far Away]] ([[Oliver Banks]])
-- [[MAG 155: Cost of Living]] ([[Tova McHugh]])
-- [[MAG 168: Roots]] ([[Domain]], [[Oliver Banks]])
-- [[MAG 180: Moving On]] ([[Domain]])
+- [[MAG 11 - Dreamer]] ([[Antonio Blake/Oliver Banks]])
+- [[MAG 29 - Cheating Death]] ([[Death]])
+- [[MAG 43 - Section 31]] ([[Suicide case]])
+- [[MAG 62 - First Edition]] ([[Catalogue of the Trapped Dead]])
+- [[MAG 64 - Burial Rites]] ([[Death]])
+- [[MAG 70 - Book Of The Dead]]
+- [[MAG 94 - Dead Woman Walking]] ([[Jane Doe]], [[Georgie Barker]])
+- [[MAG 113 - Breathing Room]] ([[Justin Gough]])
+- [[MAG 121 - Far Away]] ([[Oliver Banks]])
+- [[MAG 155 - Cost of Living]] ([[Tova McHugh]])
+- [[MAG 168 - Roots]] ([[Domain]], [[Oliver Banks]])
+- [[MAG 180 - Moving On]] ([[Domain]])
 
 ## Other Appearances
 
-- [[MAG 32: Hive]] ([[Possibly]], [[Oliver Banks]])
-- [[MAG 42: Grifter's Bone]] ([[Partially]], [[Oliver Banks]])
-- [[MAG 111: Family Business]] ([[Catalogue of the Trapped Dead]])
-- [[MAG 146: Threshold]] ([[Partially]], [[unseen extracted statement]])
-- [[MAG 154: Bloody Mary]] ([[Catalogue of the Trapped Dead]])
-- [[MAG 189: Peers]] ([[Partially]], [[Georgie Barker]])
-- [[MAG 190: Scavengers]] ([[Partially]], [[Georgie Barker]])
-- [[MAG 191: What We Lose]] ([[Partially]], [[Georgie Barker]])
+- [[MAG 32 - Hive]] ([[Possibly]], [[Oliver Banks]])
+- [[MAG 42 - Grifter's Bone]] ([[Partially]], [[Oliver Banks]])
+- [[MAG 111 - Family Business]] ([[Catalogue of the Trapped Dead]])
+- [[MAG 146 - Threshold]] ([[Partially]], [[unseen extracted statement]])
+- [[MAG 154 - Bloody Mary]] ([[Catalogue of the Trapped Dead]])
+- [[MAG 189 - Peers]] ([[Partially]], [[Georgie Barker]])
+- [[MAG 190 - Scavengers]] ([[Partially]], [[Georgie Barker]])
+- [[MAG 191 - What We Lose]] ([[Partially]], [[Georgie Barker]])
 
 # Characters
 
@@ -64,7 +64,7 @@ It is noted by [[Oliver Banks]] that The End will be the last entity to remain
 - [[Justin Gough]]: A man who suffered carbon monoxide poisoning and died, only to reanimate shortly after speaking of terrible visions and a debt incurred. He could enter a sleeping state in which he could kill other sleeping people through carbon monoxide poisoning.
 - [[Tova McHugh]]: A woman who, after a near-death experience, gained the ability to steal the life of others in order to extend her own life. The more loved and influential [[Tova McHugh|McHugh's]] victims were, the more time there was before [[Tova McHugh|McHugh]] needed to take another life.
 - A man who was found in his home still alive after suffering multiple gunshots wounds to the face. He attempted to shoot himself again and again but failed to die, eventually being taken away by paramedics and being officially reported dead. He may have been another Death as indicated by the presence of numerous domino sets in his home.
-- An [[MAG 146: Threshold|"unnamed woman"]] who wakes up in a freshly-dug grave every year on her birthday.
+- An [[MAG 146 - Threshold|"unnamed woman"]] who wakes up in a freshly-dug grave every year on her birthday.
 - [[Dr. Margaret Tellison]]: A physician who used the [[Catalogue of the Trapped Dead]] to trap spirits or ghosts for financial gain. Killed by [[Mary Keay]] in 1955.
 - [[Mary Keay]]: [[Mary Keay]] was not a dedicated follower of the End but did dabble in its power. Her most notable use of it was her use of the [[Catalogue of the Trapped Dead]] to become an undead entity.
 

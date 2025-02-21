@@ -25,10 +25,10 @@ They were once members of [[The Circus of the Other]]]], though their history s
 | Voice Actor      | Martin Corcoran (Breekon)                     |
 | ---------------- | --------------------------------------------- |
 |                  | Steven Violich (Hope)                         |
-| First Mention    | [[MAG 2: Do Not Open]]                        |
-| First Appearance | [[MAG 35: Old Passages]]                      |
-| Statement(s)     | [[MAG 96: Return to Sender]] (Alfred Breekon) |
-|                  | [[MAG 128: Heavy Goods]] (Breekon)            |
+| First Mention    | [[MAG 2 - Do Not Open]]                        |
+| First Appearance | [[MAG 35 - Old Passages]]                      |
+| Statement(s)     | [[MAG 96 - Return to Sender]] (Alfred Breekon) |
+|                  | [[MAG 128 - Heavy Goods]] (Breekon)            |
 # Description
 
 Breekon and Hope are well over six feet tall and very imposing. Their faces are hard and stony, and striking one of them feels like hitting solid wood while their flesh feels like hard rubber. [[Alfred Breekon]] describes them as seeming solid and strangely heavy. They usually adopt exaggerated Cockney accents when speaking English, but can also use cartoonish Russian accents if preferred. When speaking Russian, their words are coloured by crude, rural accents.
@@ -92,22 +92,22 @@ After [[The Change]]: Breekon is working as a janitor in a [[The Stanger|Strang
 # Episode Appearances
 
 **Bold** marks episodes where Breekon and/or Hope have given a statement.
-- [[MAG 2: Do Not Open]]
-- [[MAG 20: Desecrated Host]] (Mentioned)
-- [[MAG 35: Old Passages]]
-- [[MAG 37: Burnt Offering]] (Mentioned)
-- [[MAG 44: Tightrope]]
-- [[MAG 54: Still Life]]
-- [[MAG 61: Hard Shoulder]]
-- [[MAG 78: Distant Cousin]]
-- [[MAG 83: Drawing A Blank]] (Mentioned)
-- [[MAG 93: Contaminant]]
-- [[MAG 96: Return to Sender]]
-- [[MAG 99: Dust to Dust]]
-- [[MAG 101: Another Twist]]
-- [[MAG 119: Stranger and Stranger]]
-- [[MAG 120: Eye Contact]]
-- **[[MAG 128: Heavy Goods]]** (Breekon only)
-- [[MAG 134: Time of Revelation]] (Mentioned, Breekon only)
-- [[MAG 182: Wellbeing]] (Breekon only)
-- [[MAG 192: An Appointment]] (Mentioned)
+- [[MAG 2 - Do Not Open]]
+- [[MAG 20 - Desecrated Host]] (Mentioned)
+- [[MAG 35 - Old Passages]]
+- [[MAG 37 - Burnt Offering]] (Mentioned)
+- [[MAG 44 - Tightrope]]
+- [[MAG 54 - Still Life]]
+- [[MAG 61 - Hard Shoulder]]
+- [[MAG 78 - Distant Cousin]]
+- [[MAG 83 - Drawing A Blank]] (Mentioned)
+- [[MAG 93 - Contaminant]]
+- [[MAG 96 - Return to Sender]]
+- [[MAG 99 - Dust to Dust]]
+- [[MAG 101 - Another Twist]]
+- [[MAG 119 - Stranger and Stranger]]
+- [[MAG 120 - Eye Contact]]
+- **[[MAG 128 - Heavy Goods]]** (Breekon only)
+- [[MAG 134 - Time of Revelation]] (Mentioned, Breekon only)
+- [[MAG 182 - Wellbeing]] (Breekon only)
+- [[MAG 192 - An Appointment]] (Mentioned)

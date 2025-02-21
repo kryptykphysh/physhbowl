@@ -9,7 +9,7 @@ tags:
 > - [[Jurgen Leitner]], [[MAG 80]]_
 
 > _“These things... these forces, they are our fear. Deep fears. Primordial. Always looking for ways to grow and spread.”  
-> - [[Gerard Keay]], [[MAG 111: Family Business]])_
+> - [[Gerard Keay]], [[MAG 111 - Family Business]])_
 
 [[The Entities]], also called the **Fears**, the **Powers**, the **Dread Powers**, and **The Things That Were Fear** are the principle antagonists of The Magnus Archives, and the phenomena that more mundane and earthly antagonists serve.
 
@@ -41,7 +41,7 @@ These classifications are much like colours, infinite fears that can be grouped
 - The fear of small spaces, suffocating, drowning, being buried alive. Fear of everything crashing down around/on oneself. Fear of being trapped without enough space.
 - Manifests as caves, dirt, financial issues, heavy rain, underground transport, tight spaces such as coffins.
 - Artifacts associated with The Buried: [[The Coffin]], [[The Box]], [[_DIG]],_ [[_Seven Lamps of Architecture_]].
-- Known avatars and servants of The Buried: [["The Governor”]]([[MAG 50:_Foundations]]), [[Enrique MacMillian]]([[MAG 88: Dig]]), [[Hezekiah Wakely]]([[MAG 152]]).
+- Known avatars and servants of The Buried: [["The Governor”]]([[MAG 50:_Foundations]]), [[Enrique MacMillian]]([[MAG 88 - Dig]]), [[Hezekiah Wakely]]([[MAG 152]]).
 - The Buried's ritual is called the Sunken Sky.
 - This entity was two in Sims' first draft of the Fears: Breathless and Close.
 
@@ -169,7 +169,7 @@ These classifications are much like colours, infinite fears that can be grouped
 - The fear of being controlled or trapped, especially being unaware of one's own entrapment. The fear of being forced to do things against one's own will, of being manipulated. Also the fear of spiders.
 - Manifests as spiders, spider webs, web-like patterns, puppets.
 - Artefacts associated with [[The Web]]: [[The Web Table]], _[[A Guest for Mr. Spider]]_, 蜘蛛が食べている _(kumo ga tabete iru)_. 
-- Known avatars and servants of [[The Web]]: [[Annabelle Cane]], [[Emma Harvey]]([[MAG 167: Curiosity]]), [[Neil Lagorio]], [[Raymond Fielding]].
+- Known avatars and servants of [[The Web]]: [[Annabelle Cane]], [[Emma Harvey]]([[MAG 167 - Curiosity]]), [[Neil Lagorio]], [[Raymond Fielding]].
 - According to [[Peter Lukas]], [[The Web]] has never attempted a ritual, presumably because it likes or accepts the world as it is. It is also possible that The Web never attempted a ritual because it was more focused on using [[The Mass Ritual]] to escape to other universes than having a ritual of its own.
 - [[The Web]] first appeared as Weaver, before [[The Entities]] gained definite articles.
 
@@ -178,7 +178,7 @@ These classifications are much like colours, infinite fears that can be grouped
 ### [[The Extinction]]
 
 - Also called The Terrible Change, The Future Without Us, The World Is Always Ending.
-- A new entity hypothesized by [[Adelard Dekker]] to be currently emerging. As of [[MAG 175: Epoch]], it is confirmed to exist, although whether it is on the same level as the other Entities or the existential threat [[Adelard Dekker|Dekker]] feared remains unclear.
+- A new entity hypothesized by [[Adelard Dekker]] to be currently emerging. As of [[MAG 175 - Epoch]], it is confirmed to exist, although whether it is on the same level as the other Entities or the existential threat [[Adelard Dekker|Dekker]] feared remains unclear.
 - The fear of catastrophic change, destruction of nature, destruction of human skin and tissue, the destruction of humanity itself and its replacement by something different; all of this especially via mankind's own causing.
 - Manifests through human technology such as computers, code, and radio, and seems to present horrifying visions of what humans could become, or what could become of humans.
 - Most [[Avatar|avatars]] agree that they would like to prevent The Extinction from emerging if possible.
@@ -197,11 +197,11 @@ The Entities can manifest as a variety of objects possessing anomalous propertie
 
 People can slip into a form of extra-dimensional space when influenced by a Fear. These spaces do not function under regular logic and the passage of time can also be distorted. These spaces can be delineated by a threshold or simply manifest spontaneously around a person. Escape can be achieved by physically exiting the manifestation, or by a change in the person’s mental or emotional state. Examples include:
 
-- The abattoir in [[MAG 30: Killing Floor]]
-- The old part of town in [[MAG 48: Lost in the Crowd]]
-- The coffin in [[MAG 132: Entombed]]
-- The cul-de-sac in [[MAG 150: Cul-De-Sac]]
-- The amusement park in [[MAG 156: Reflection]]
+- The abattoir in [[MAG 30 - Killing Floor]]
+- The old part of town in [[MAG 48 - Lost in the Crowd]]
+- The coffin in [[MAG 132 - Entombed]]
+- The cul-de-sac in [[MAG 150 - Cul-De-Sac]]
+- The amusement park in [[MAG 156 - Reflection]]
 
 ## People
 
@@ -217,8 +217,8 @@ Some beings, such as the [[NotThem]], [[Vampire|vampires]], etc, possess human
 
 # Rituals
 
-Most entities have their own '[[Rituals|ritual]]', a symbolic act that, if completed, will allow the entity to merge with reality, changing the fabric of the world as it exerts its will and nature upon that reality. These [[Rituals|rituals]] have the potential to bring other closely-tied entities along with it. It requires centuries for each Entity to build up the power needed for its [[Riutals|ritual]], and if it is stopped, it cannot try again until it rebuilds that power base. No [[Rituals|ritual]] had ever succeeded as of [[MAG 159: The Last]].
+Most entities have their own '[[Rituals|ritual]]', a symbolic act that, if completed, will allow the entity to merge with reality, changing the fabric of the world as it exerts its will and nature upon that reality. These [[Rituals|rituals]] have the potential to bring other closely-tied entities along with it. It requires centuries for each Entity to build up the power needed for its [[Riutals|ritual]], and if it is stopped, it cannot try again until it rebuilds that power base. No [[Rituals|ritual]] had ever succeeded as of [[MAG 159 - The Last]].
 
-In [[MAG 160: The Eye Opens]], [[Jonah Magnus]] reveals why: The entities are too closely connected to be summoned individually; they cannot be fully separated from each other due to overlap and opposing binaries. For example, the line between [[The Spiral]] and [[The Stranger]] can be blurred, and a world with only [[the Buried]] cannot exist because [[The Buried]] needs the contrast of open spaces to exist. A [[Rituals|ritual]] attempting to summon a single entity will inevitably collapse under its weight. The only way to successfully complete a [[Rituals|ritual]] is to summon every entity at once.
+In [[MAG 160 - The Eye Opens]], [[Jonah Magnus]] reveals why: The entities are too closely connected to be summoned individually; they cannot be fully separated from each other due to overlap and opposing binaries. For example, the line between [[The Spiral]] and [[The Stranger]] can be blurred, and a world with only [[the Buried]] cannot exist because [[The Buried]] needs the contrast of open spaces to exist. A [[Rituals|ritual]] attempting to summon a single entity will inevitably collapse under its weight. The only way to successfully complete a [[Rituals|ritual]] is to summon every entity at once.
 
 [[Jonah Magnus]] devises such a [[Rituals|ritual]] using [[Jonathan Sims]] as a lynchpin. After being marked by every entity in his role as [[Archivist]], he is made to recite an incantation to "open the door" and summon every entity at once. The reason an [[Archivist]] is needed for the [[Rituals|ritual]] is that the [[Archivist]] functions as a _living_ _archive_, not only recording events but embodying them. The power of events that involve the [[Archivist]] being marked by each of the Entities is enough to summon them, while also not splitting them up. 

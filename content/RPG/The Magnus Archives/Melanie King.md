@@ -21,11 +21,11 @@ Melanie King is a paranormal investigator who runs the _[[Ghost Hunt UK]]_ You
 
 | Voice Actor      | Lydia Nicholas                 |
 | ---------------- | ------------------------------ |
-| First Mention    | [[MAG 28: Skintight]]          |
-| First Appearance | [[MAG 28: Skintight]]          |
-| Statement(s)     | [[MAG 28: Skintight]]          |
-|                  | [[MAG 76: The Smell of Blood]] |
-|                  | [[MAG 117: Testament]]         |
+| First Mention    | [[MAG 28 - Skintight]]          |
+| First Appearance | [[MAG 28 - Skintight]]          |
+| Statement(s)     | [[MAG 28 - Skintight]]          |
+|                  | [[MAG 76 - The Smell of Blood]] |
+|                  | [[MAG 117 - Testament]]         |
 # Personality
 
 Melanie's personality has had major shifts over the course of her time with the Magnus Institute; several traits remain consistent however, including her pride, need for autonomy, and dry sense of humour.
@@ -104,47 +104,47 @@ They find out about [[Jonathan Sims|John]] and [[Martin Blackwood|Martin's]] ret
 
 **Bold** marks episodes where Melanie given a statement. *Italic* marks episodes where Melanie has read a statement.
 
-- **[[MAG 28: Skintight]]
-- [[MAG 63: The End of the Tunnel]]
-- **[[MAG 76: The Smell of Blood]]**
-- *[[MAG 84: Possessive]]*
-- [[MAG 86: Tucked In]]
-- [[MAG 88: Dig]]
-- [[MAG 92: Nothing Beside Remains]]
-- [[MAG 98: Lights Out]]
-- [[MAG 100: I Guess You Had To Be There]]
-- [[MAG 102: Nesting Instinct]]
-- *[[MAG 106: A Matter Of Perspective]]*
-- [[MAG 110: Creature Feature]]
-- [[MAG 113: Breathing Room]]
-- **[[MAG 117: Testament]]**
-- [[MAG 118: The Masquerade]]
-- [[MAG 123: Web Development]]
-- [[MAG 125: Civilian Casualties]]
-- [[MAG 131: Flesh]]
-- [[MAG 136: The Puppeteer]]
-- [[MAG 146: Threshold]]
-- [[MAG 147: Weaver]]
-- [[MAG 149: Concrete Jungle]]
-- [[MAG 150: Cul-De-Sac]]
-- [[MAG 155: Cost of Living]]
-- [[MAG 157: Rotten Core]]
-- [[MAG 164: The Sick Village]] (mentioned)
-- [[MAG 177: Wonderland]] (mentioned)
-- [[MAG 180: Moving On]] (mentioned)
-- [[MAG 188: Centre of Attention]] (mentioned)
-- [[MAG 189: Peers]]
-- [[MAG 190: Scavengers]]
-- [[MAG 191: What We Lose]]
-- [[MAG 192: An Appointment]] (mentioned)
-- [[MAG 194: Parting]]
-- [[MAG 195: Adrift]] (mentioned)
-- [[MAG 198: Precipice]]
-- [[MAG 199: Seeing it Through]]
-- [[MAG 200: Last Words]]
+- **[[MAG 28 - Skintight]]
+- [[MAG 63 - The End of the Tunnel]]
+- **[[MAG 76 - The Smell of Blood]]**
+- *[[MAG 84 - Possessive]]*
+- [[MAG 86 - Tucked In]]
+- [[MAG 88 - Dig]]
+- [[MAG 92 - Nothing Beside Remains]]
+- [[MAG 98 - Lights Out]]
+- [[MAG 100 - I Guess You Had To Be There]]
+- [[MAG 102 - Nesting Instinct]]
+- *[[MAG 106 - A Matter Of Perspective]]*
+- [[MAG 110 - Creature Feature]]
+- [[MAG 113 - Breathing Room]]
+- **[[MAG 117 - Testament]]**
+- [[MAG 118 - The Masquerade]]
+- [[MAG 123 - Web Development]]
+- [[MAG 125 - Civilian Casualties]]
+- [[MAG 131 - Flesh]]
+- [[MAG 136 - The Puppeteer]]
+- [[MAG 146 - Threshold]]
+- [[MAG 147 - Weaver]]
+- [[MAG 149 - Concrete Jungle]]
+- [[MAG 150 - Cul-De-Sac]]
+- [[MAG 155 - Cost of Living]]
+- [[MAG 157 - Rotten Core]]
+- [[MAG 164 - The Sick Village]] (mentioned)
+- [[MAG 177 - Wonderland]] (mentioned)
+- [[MAG 180 - Moving On]] (mentioned)
+- [[MAG 188 - Centre of Attention]] (mentioned)
+- [[MAG 189 - Peers]]
+- [[MAG 190 - Scavengers]]
+- [[MAG 191 - What We Lose]]
+- [[MAG 192 - An Appointment]] (mentioned)
+- [[MAG 194 - Parting]]
+- [[MAG 195 - Adrift]] (mentioned)
+- [[MAG 198 - Precipice]]
+- [[MAG 199 - Seeing it Through]]
+- [[MAG 200 - Last Words]]
 # Trivia
 
 - Melanie was named after Stephen King.
-- Melanie starting her recording with a little clap in [[MAG 86: Tucked In]] was a decision made by Lydia Nicholas, her voice actor.
+- Melanie starting her recording with a little clap in [[MAG 86 - Tucked In]] was a decision made by Lydia Nicholas, her voice actor.
 - Melanie's D&D class would be a ranger.
 - Lydia Nicholas stated in a RQ stream that Melanie's favourite game would be Among Us.

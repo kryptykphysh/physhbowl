@@ -27,9 +27,9 @@ tags:
 | Voice Actor      | Imogen Harris              |
 | ---------------- | -------------------------- |
 |                  | Luke Booys                 |
-| First Mention    | [[MAG 26: A Distortion]]   |
-| First Appearance | [[MAG 47: The New Door]]   |
-| Statement(s)     | [[MAG 101: Another Twist]] |
+| First Mention    | [[MAG 26 - A Distortion]]   |
+| First Appearance | [[MAG 47 - The New Door]]   |
+| Statement(s)     | [[MAG 101 - Another Twist]] |
 # Description
 
 The Distortion’s appearance and identity is flexible in nature. They represent the fear that comes from gaslighting and manipulation, and in particular the fear caused by being uncertain whether one's own judgements of a person, idea, or situation can be trusted. They keep this nature hidden as part of their deception and it is unclear whether there is a specific motivation behind their actions.
@@ -118,42 +118,42 @@ The hotel collapses after Helen is destroyed. [[Martin Blackwood|Martin]] is sur
 
 **Bold** marks episodes where The Distortion has given a statement.
 
-- [[MAG 26: A Distortion]]
-- [[MAG 27: A Sturdy Lock]]
-- [[MAG 40: Human Remains]] (mentioned)
-- [[MAG 47: The New Door]]
-- [[MAG 48: Lost in the Crowd]] (mentioned)
-- [[MAG 74: Fatigue]]
-- [[MAG 78: Distant Cousin]]
-- [[MAG 79: Hide and Seek]]
-- [[MAG 80: The Librarian]] (mentioned)
-- [[MAG 82: The Eyewitnesses]] (mentioned)
-- [[MAG 85: Upon the Stair]] (mentioned)
-- [[MAG 89: Twice as Bright]] (mentioned)
-- [[MAG 92: Nothing Beside Remains]] (mentioned)
-- [[MAG 99: Dust to Dust]] (mentioned)
-- **[[MAG 101: Another Twist]]**
-- [[MAG 102: Nesting Instinct]] (Mentioned)
-- [[MAG 115: Taking Stock]]
-- [[MAG 120: Eye Contact]] (mentioned)
-- [[MAG 126: Sculptor's Tool]] (mentioned)
-- [[MAG 131: Flesh]]
-- [[MAG 143: Heart of Darkness]]
-- [[MAG 146: Threshold]]
-- [[MAG 151: Big Picture]] (mentioned)
-- [[MAG 152: A Gravedigger's Envy]]
-- [[MAG 157: Rotten Core]]
-- [[MAG 160: The Eye Opens]] (mentioned)
-- [[MAG 164: The Sick Village]]
-- [[MAG 166: The Worms]]
-- [[MAG 174: The Great Beast]]
-- [[MAG 177: Wonderland]]
-- [[MAG 183: Monument]]
-- [[MAG 187: Checking Out]]
-- [[MAG 188: Centre of Attention]] (mentioned)
-- [[MAG 190: Scavengers]] (mentioned)
-- [[MAG 195: Adrift]] (mentioned)
-- [[MAG 199: Seeing it Through]] (mentioned)
+- [[MAG 26 - A Distortion]]
+- [[MAG 27 - A Sturdy Lock]]
+- [[MAG 40 - Human Remains]] (mentioned)
+- [[MAG 47 - The New Door]]
+- [[MAG 48 - Lost in the Crowd]] (mentioned)
+- [[MAG 74 - Fatigue]]
+- [[MAG 78 - Distant Cousin]]
+- [[MAG 79 - Hide and Seek]]
+- [[MAG 80 - The Librarian]] (mentioned)
+- [[MAG 82 - The Eyewitnesses]] (mentioned)
+- [[MAG 85 - Upon the Stair]] (mentioned)
+- [[MAG 89 - Twice as Bright]] (mentioned)
+- [[MAG 92 - Nothing Beside Remains]] (mentioned)
+- [[MAG 99 - Dust to Dust]] (mentioned)
+- **[[MAG 101 - Another Twist]]**
+- [[MAG 102 - Nesting Instinct]] (Mentioned)
+- [[MAG 115 - Taking Stock]]
+- [[MAG 120 - Eye Contact]] (mentioned)
+- [[MAG 126 - Sculptor's Tool]] (mentioned)
+- [[MAG 131 - Flesh]]
+- [[MAG 143 - Heart of Darkness]]
+- [[MAG 146 - Threshold]]
+- [[MAG 151 - Big Picture]] (mentioned)
+- [[MAG 152 - A Gravedigger's Envy]]
+- [[MAG 157 - Rotten Core]]
+- [[MAG 160 - The Eye Opens]] (mentioned)
+- [[MAG 164 - The Sick Village]]
+- [[MAG 166 - The Worms]]
+- [[MAG 174 - The Great Beast]]
+- [[MAG 177 - Wonderland]]
+- [[MAG 183 - Monument]]
+- [[MAG 187 - Checking Out]]
+- [[MAG 188 - Centre of Attention]] (mentioned)
+- [[MAG 190 - Scavengers]] (mentioned)
+- [[MAG 195 - Adrift]] (mentioned)
+- [[MAG 199 - Seeing it Through]] (mentioned)
 # Trivia
 
 - Different forms of The Distortion have different relationships with identity and the idea of personhood. While Helen repeatedly affirms her identity, even going so far as to correct [[Jonathan Sims|John]] when he refers to her as The Distortion and insisting he call her Helen, Michael rejects identity at every opportunity and asserts that it is something unattainable to him. This difference is further reflected in their respective relationships to it/its pronouns; despite Michael's proneness to antagonise [[JOnathan Sims|John]] and act violently toward him, only Helen speaks out against [[Jonathan Sims|John's]] repeated, derogatory use of "it".

@@ -22,11 +22,11 @@ Gertrude Robinson was the Head Archivist of the [[Magnus Institute]] before [
 
 | Voice Actor      | Sue Sims               |
 | ---------------- | ---------------------- |
-| First Mention    | [[MAG 1: Angler Fish]] |
-| First Appearance | [[MAG 44: Tightrope]]  |
+| First Mention    | [[MAG 1 - Angler Fish]] |
+| First Appearance | [[MAG 44 - Tightrope]]  |
 # Description
 
-Gertrude is described as "an old woman, probably in her fifties or sixties, wearing reading glasses and grey hair curled into a tight bun." In [[MAG 162: A Cosy Cabin]], [[Timothy Stoker]] describes her as "like a hundred years old and more cardigan than woman."
+Gertrude is described as "an old woman, probably in her fifties or sixties, wearing reading glasses and grey hair curled into a tight bun." In [[MAG 162 - A Cosy Cabin]], [[Timothy Stoker]] describes her as "like a hundred years old and more cardigan than woman."
 
 Gertrude was ruthless and effective in dealing with monsters and followers of [[The Entities]]. Her demonstrations of violence and threats made her feared by many associated with the paranormal. She is noted to not have a strong sense of allegiance to her own entity. She was more concerned with thwarting the people acting on behalf of the entities than with accessing the greater powers.
 
@@ -38,7 +38,7 @@ Gertrude became the Head Archivist of [[The Magnus Institute]] around 1965. She
 
 She picked [[Eric Delano]] and [[Emma Harvey]] to be her assistants but also inherited [[Angus Stacey]]'s last surviving assistant: [[Fiona Law]].
 
-Around 1970, Gertrude began actively working against [[The Cult of the Lightless Flame]], who was using [[Agnes Montague]] for the first attempt at a [[Rituals|Ritual]] that she had encountered. She began researching a way to stop them and at some point during or after 1974, she found a tin box containing some of [[Agnes Montague|Agnes']] hair in the ashes of the house on [[Hill Top Road]]. [[The Web]] manipulated Gertrude into performing what she believed to be a counter-ritual. She constructed a ritual circle in the Scottish Highlands, but when performed, the ritual allowed [[The Web]] to bind Gertrude and [[Agnes Montague]] to each other on a metaphysical level. Gertrude maintained the ritual site for years, adding [[The Desolation|Desolation]] symbology to ward off negative side effects against herself until it was broken in [[MAG 37: Burnt Offering]]. Ultimately, this binding prevented [[The Desolation|The Desolation’s]] ritual, as [[Agnes montague|Agnes]] could not fulfil her destiny while bound to Gertrude. [[The Cult of the Lightless Flame]] feared that outright killing Gertrude would be catastrophic for [[Agnes Montague|Agnes]]. Therefore, more often than not, the cult ended up protecting Gertrude from agents of other entities as they waited for her to die of old age.
+Around 1970, Gertrude began actively working against [[The Cult of the Lightless Flame]], who was using [[Agnes Montague]] for the first attempt at a [[Rituals|Ritual]] that she had encountered. She began researching a way to stop them and at some point during or after 1974, she found a tin box containing some of [[Agnes Montague|Agnes']] hair in the ashes of the house on [[Hill Top Road]]. [[The Web]] manipulated Gertrude into performing what she believed to be a counter-ritual. She constructed a ritual circle in the Scottish Highlands, but when performed, the ritual allowed [[The Web]] to bind Gertrude and [[Agnes Montague]] to each other on a metaphysical level. Gertrude maintained the ritual site for years, adding [[The Desolation|Desolation]] symbology to ward off negative side effects against herself until it was broken in [[MAG 37 - Burnt Offering]]. Ultimately, this binding prevented [[The Desolation|The Desolation’s]] ritual, as [[Agnes montague|Agnes]] could not fulfil her destiny while bound to Gertrude. [[The Cult of the Lightless Flame]] feared that outright killing Gertrude would be catastrophic for [[Agnes Montague|Agnes]]. Therefore, more often than not, the cult ended up protecting Gertrude from agents of other entities as they waited for her to die of old age.
 
 Of her assistants, Gertrude trusted [[Emma Harvey]] in particular, unaware of the fact that she was experimenting on [[Fiona Law]]'s survivability. Her experiments ultimately went too far and [[Fiona Law|Fiona]] was consumed by [[The Coffin]]. Gertrude still did not suspect [[Emma Harvey|Emma]] and hired [[Michael Shelley]] to replace [[Fiona Law|Fiona]]. [[Eric Delano]] eventually went missing two years after the birth of [[Gerard Keay]] and Gertrude hired [[Sarah Carpenter]] to replace him.
 
@@ -74,10 +74,10 @@ She planned to distract [[Elias Bouchard]] from her action by setting fire to [[
 
 The exact date of Gertrude Robinson's death is unclear as there are several conflicting accounts:
 
-- In [[MAG 11: Dreamer]], [[Oliver Banks]] details his March 12, 2015 dream in which her death is foretold, suggesting she would die shortly after this date.
-- In [[MAG 25: Growing Dark]], [[Jonathan Sims]] says, "according to the official file, May 15, 2015 was the day Gertrude Robinson, my predecessor, passed away." Notably, MAG 25 takes place before Gertrude's body is found.
+- In [[MAG 11 - Dreamer]], [[Oliver Banks]] details his March 12, 2015 dream in which her death is foretold, suggesting she would die shortly after this date.
+- In [[MAG 25 - Growing Dark]], [[Jonathan Sims]] says, "according to the official file, May 15, 2015 was the day Gertrude Robinson, my predecessor, passed away." Notably, MAG 25 takes place before Gertrude's body is found.
 - [[MAG 87]] is recorded by Gertrude on April 4, 2015, and she sounds recently wounded as she says, "I had hoped I’d have a chance to recover. I can still barely stand." [[Jonathan Sims]] remarks that it was recorded "only a year or so before she died", meaning her death would have occurred in 2016.
-- In [[MAG 158: Panopticon]], [[Elias Bouchard|Elias]] shot her during [[The Dark]]'s ritual which, according to [[MAG 143: Heart of Darkness]], took place March 13–20, 2015.
+- In [[MAG 158 - Panopticon]], [[Elias Bouchard|Elias]] shot her during [[The Dark]]'s ritual which, according to [[MAG 143: Heart of Darkness]], took place March 13–20, 2015.
 
 # Known Powers
 
@@ -89,23 +89,23 @@ As [[The Archivist]], Gertrude has a similar capacity for powers as [[Jonathan S
 # Recordings
 
 Gertrude's body is found in a room containing all of the statements that she personally recorded. These tapes are impounded by the police as evidence, but [[Jonathan Sims]] convinces [[Basira Hussain]] to let him listen to a few of them. When [[Basira Hussain|Basira]] resigns from the police force, she takes the tapes with her and gives them to [[Jonathan Sims|John]]. Shortly thereafter, [[Elias Bouchard|Elias]] brings the tapes into his office. The statements recorded by Gertrude Robinson and listened to by [[Jonathan Sims]] are as follows:
-- [[MAG 44: Tightrope]] - Statement from [[Yuri Utkin]] regarding a visit to "[[Another Circus]]."
-- [[MAG 53: Crusader]] - Statement from [[Walter Heller]] regarding the Serapeum of Alexandria.
-- [[MAG 62: First Edition]] - Statement from [[Mary Keay]] regarding a book capable of containing the spirits of the dead.
-- [[MAG 77: The Kind Mother]] - Statement from [[Lucy Cooper]] when her mother was replaced by the [[NotThem]]. Gertrude mentions [[The Stranger]] during her summary.
-- [[MAG 87: The Uncanny Valley]] - Statement from [[Sebastian Skinner]] about an encounter with forces of [[The Stranger]]. This recording notes was made less than a year before she died and indicates she had been fighting against the other [[The Entities|Powers]], dealing a significant blow to [[The Desolation]].
-- [[MAG 99: Dust to Dust]] - Statement from [[Robert E. Geiger]] about a man possessed by a dust storm in Boise City, Oklahoma. Gertrude discusses her plans to stop the ritual of [[The Buried]] and this recording also reveals that [[Michael Shelley|Michael]] used to be one of her assistants.
-- [[MAG 116: The Show Must Go On]] - Statement from [[Abraham Janssen]] about the last attempted [[The Unknowing|Unknowing]].
-- [[MAG 130: Meat]] - Statement from [[Lucia Wright]] about an attempt by [[Avatar]]s of [[The Flesh]] to conduct [[The Last Feast]] ritual.
-- [[MAG 137: Nemesis]] - Statement from [[Wallis Turner]] regarding [[The Slaughter]]'s failed attempt at a [[Risen War]] on board the HMS [[Nemesis]].
-- [[MAG 145: Infectious Doubts]] - Statement from [[Arthur Nolan]] regarding [[The Cult of the Lightless Flame]]'s attempts to raise [[Agnes Montague]] to be capable of carrying out the ritual of [[The Desolation]].
-- [[MAG 154: Bloody Mary]] - Statement of [[Eric Delano]] regarding his life and escape from [[The Magnus Institute]].
+- [[MAG 44 - Tightrope]] - Statement from [[Yuri Utkin]] regarding a visit to "[[Another Circus]]."
+- [[MAG 53 - Crusader]] - Statement from [[Walter Heller]] regarding the Serapeum of Alexandria.
+- [[MAG 62 - First Edition]] - Statement from [[Mary Keay]] regarding a book capable of containing the spirits of the dead.
+- [[MAG 77 - The Kind Mother]] - Statement from [[Lucy Cooper]] when her mother was replaced by the [[NotThem]]. Gertrude mentions [[The Stranger]] during her summary.
+- [[MAG 87 - The Uncanny Valley]] - Statement from [[Sebastian Skinner]] about an encounter with forces of [[The Stranger]]. This recording notes was made less than a year before she died and indicates she had been fighting against the other [[The Entities|Powers]], dealing a significant blow to [[The Desolation]].
+- [[MAG 99 - Dust to Dust]] - Statement from [[Robert E. Geiger]] about a man possessed by a dust storm in Boise City, Oklahoma. Gertrude discusses her plans to stop the ritual of [[The Buried]] and this recording also reveals that [[Michael Shelley|Michael]] used to be one of her assistants.
+- [[MAG 116 - The Show Must Go On]] - Statement from [[Abraham Janssen]] about the last attempted [[The Unknowing|Unknowing]].
+- [[MAG 130 - Meat]] - Statement from [[Lucia Wright]] about an attempt by [[Avatar]]s of [[The Flesh]] to conduct [[The Last Feast]] ritual.
+- [[MAG 137 - Nemesis]] - Statement from [[Wallis Turner]] regarding [[The Slaughter]]'s failed attempt at a [[Risen War]] on board the HMS [[Nemesis]].
+- [[MAG 145 - Infectious Doubts]] - Statement from [[Arthur Nolan]] regarding [[The Cult of the Lightless Flame]]'s attempts to raise [[Agnes Montague]] to be capable of carrying out the ritual of [[The Desolation]].
+- [[MAG 154 - Bloody Mary]] - Statement of [[Eric Delano]] regarding his life and escape from [[The Magnus Institute]].
 - [MAG 158: Panopticon]] - A short recording of Gertrude's murder by [[Elias Bouchard]].
-- [[MAG 161: Dwelling]] - A recording made by Gertrude to explain the cosmology of the world and the role of [[The Archivist]] to her successor.
-- [[MAG 162: A Cosy Cabin]] - A recording of a conversation between Gertrude and [[Gerard Keay]], where Gertrude says that she believes if a ritual is successful in fully manifesting an [[The Entities|Entity]], its effects would be irreversible.
-- [[MAG 167: Curiosity]]
-- [[MAG 192: An Appointment]] (mentioned)
-- [[MAG 200: Last Words]] (mentioned)
+- [[MAG 161 - Dwelling]] - A recording made by Gertrude to explain the cosmology of the world and the role of [[The Archivist]] to her successor.
+- [[MAG 162 - A Cosy Cabin]] - A recording of a conversation between Gertrude and [[Gerard Keay]], where Gertrude says that she believes if a ritual is successful in fully manifesting an [[The Entities|Entity]], its effects would be irreversible.
+- [[MAG 167 - Curiosity]]
+- [[MAG 192 - An Appointment]] (mentioned)
+- [[MAG 200 - Last Words]] (mentioned)
 # Trivia
 
 - Gertrude is voiced by the mother of Jonny Sims.

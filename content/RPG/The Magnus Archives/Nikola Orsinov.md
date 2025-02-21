@@ -20,8 +20,8 @@ tags:
 
 | Voice Actor      | Jessica Law                       |
 | ---------------- | --------------------------------- |
-| First Mention    | [[MAG 83: Drawing A Blank]]       |
-| First Appearance | [[MAG 97: We All Ignore the Pit]] |
+| First Mention    | [[MAG 83 - Drawing A Blank]]       |
+| First Appearance | [[MAG 97 - We All Ignore the Pit]] |
 # History
 
 Before being transformed by [[The Stranger]], Nikola Orsinov was [Joseph Grimaldi](https://en.wikipedia.org/wiki/Joseph_Grimaldi) (born 18 December 1778), an English actor and entertainer who was in his time the most famous clown in London. At some point (presumably after his retirement and descent into poverty in 1823) Grimaldi grew to resent his life and wandered into [[The Circus of the Other]]. [[The Circus of the Other|The Circus']] ringmaster, [[Gregor Orsinov]], created Nikola from what was left of Grimaldi to serve as the lead dancer for a future attempt at [[The Unknowing]].
@@ -43,17 +43,17 @@ On August 6th-7th, 2017, Nikola and her agents began [[The Unknowing]] at the [[
 Nikola Orsinov has not been seen since the destruction of the [[House of Wax]]. After extracting a statement from [[Breekon & Hope|Breekon]], [[Jonathan Sims|John]] believes Orsinov was destroyed in the explosion. He later restates this with greater certainty.
 
 # Episode Appearances
-- [[MAG 83: Drawing A Blank]]
-- [[MAG 87: The Uncanny Valley]] (Possibly, going as 'Megan' in the statement)
-- [[MAG 89: Twice as Bright]] (mentioned)
-- [[MAG 93: Contaminant]] (mentioned)
-- [[MAG 97: We All Ignore the Pit]]
-- [[MAG 99: Dust to Dust]] (mentioned)
-- [[MAG 101: Another Twist]]
-- [[MAG 104: Sneak Preview]]
-- [[MAG 118: The Masquerade]]
-- [[MAG 119: Stranger and Stranger]]
-- [[MAG 165: Revolutions]] (mentioned)
+- [[MAG 83 - Drawing A Blank]]
+- [[MAG 87 - The Uncanny Valley]] (Possibly, going as 'Megan' in the statement)
+- [[MAG 89 - Twice as Bright]] (mentioned)
+- [[MAG 93 - Contaminant]] (mentioned)
+- [[MAG 97 - We All Ignore the Pit]]
+- [[MAG 99 - Dust to Dust]] (mentioned)
+- [[MAG 101 - Another Twist]]
+- [[MAG 104 - Sneak Preview]]
+- [[MAG 118 - The Masquerade]]
+- [[MAG 119 - Stranger and Stranger]]
+- [[MAG 165 - Revolutions]] (mentioned)
 # Trivia
 
 - [[Joseph Grimaldi]] was a real-life entertainer who lived in the late 18th century. He was an English actor, comedian, and dancer who rose to fame during the Regency era.

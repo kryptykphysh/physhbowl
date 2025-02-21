@@ -37,31 +37,31 @@ The Desolation is worshipped by [[The Cult of the Lightless Flame]]. Cult membe
 
 ## Statements
 
-- [[MAG 8: Burned Out]] ([[Scorch marks]])
-- [[MAG 12: First Aid]] ([[Diego Molina]])
-- [[MAG 37: Burnt Offering]] ([[Gertrude's counter ritual]])
-- [[MAG 43: Section 31]] ([[Diego Molina]])
-- [[MAG 55: Pest Control]] ([[Arthur Nolan]])
-- [[MAG 59: Recluse]] ([[Agnes Montague]])
-- [[MAG 67: Burning Desire]] ([[Agnes Montague]])
-- [[MAG 89: Twice as Bright]] ([[Gwydir Forest]], [[Jude Perry]], [[Agnes Montague]], [[Cult of the Lightless Flame]])
-- [[MAG 100: I Guess You Had To Be There]] ([[partially]], [[burning ghost]])
-- [[MAG 107: Third Degree]] ([[Burning train carriage]])
-- [[MAG 139: Chosen]] ([[Agnes Montague]], [[Cult of the Lightless Flame]])
-- [[MAG 145: Infectious Doubts]] ([[Agnes Montague]], [[Arthur Nolan]])
-- [[MAG 169: Fire Escape]] ([[Domain]], [[Jude Perry]])
-- [[MAG 179: Accomplice]] ([[Domain]])
+- [[MAG 8 - Burned Out]] ([[Scorch marks]])
+- [[MAG 12 - First Aid]] ([[Diego Molina]])
+- [[MAG 37 - Burnt Offering]] ([[Gertrude's counter ritual]])
+- [[MAG 43 - Section 31]] ([[Diego Molina]])
+- [[MAG 55 - Pest Control]] ([[Arthur Nolan]])
+- [[MAG 59 - Recluse]] ([[Agnes Montague]])
+- [[MAG 67 - Burning Desire]] ([[Agnes Montague]])
+- [[MAG 89 - Twice as Bright]] ([[Gwydir Forest]], [[Jude Perry]], [[Agnes Montague]], [[Cult of the Lightless Flame]])
+- [[MAG 100 - I Guess You Had To Be There]] ([[partially]], [[burning ghost]])
+- [[MAG 107 - Third Degree]] ([[Burning train carriage]])
+- [[MAG 139 - Chosen]] ([[Agnes Montague]], [[Cult of the Lightless Flame]])
+- [[MAG 145 - Infectious Doubts]] ([[Agnes Montague]], [[Arthur Nolan]])
+- [[MAG 169 - Fire Escape]] ([[Domain]], [[Jude Perry]])
+- [[MAG 179 - Accomplice]] ([[Domain]])
 
 ## Other Appearances
 
-- [[MAG 5: Thrown Away]] ([[Partially]], [[burnt paper]])
-- [[MAG 19: Confession]] ([[Partially]], [[smoke and heat]])
-- [[MAG 32: Hive]] ([[Partially]], [[Arthur Nolan]])
-- [[MAG 87: The Uncanny Valley]] ([[Jude Perry]])
-- [[MAG 167: Curiosity]] ([[Partially]], [[Agnes Montague]], [[burning man]])
-- [[MAG 171: The Gardener]] ([[Mentioned]], [[Arthur Nolan]])
-- [[MAG 196: This Old House]] ([[ Agnes Montague]], [[mentioned]])
-- [[MAG 200: Last Words]] ([[mentioned]])
+- [[MAG 5 - Thrown Away]] ([[Partially]], [[burnt paper]])
+- [[MAG 19 - Confession]] ([[Partially]], [[smoke and heat]])
+- [[MAG 32 - Hive]] ([[Partially]], [[Arthur Nolan]])
+- [[MAG 87 - The Uncanny Valley]] ([[Jude Perry]])
+- [[MAG 167 - Curiosity]] ([[Partially]], [[Agnes Montague]], [[burning man]])
+- [[MAG 171 - The Gardener]] ([[Mentioned]], [[Arthur Nolan]])
+- [[MAG 196 - This Old House]] ([[ Agnes Montague]], [[mentioned]])
+- [[MAG 200 - Last Words]] ([[mentioned]])
 
 # Characters
 
@@ -78,7 +78,7 @@ The Desolation is worshipped by [[The Cult of the Lightless Flame]]. Cult membe
 # Locations
 
 - Jude Perry's [[Domains|domain]] in the post-[[The Change|Change]] world: A building that constantly burns, with families trapped within, unable to escape. Arthur Nolan was noted to exist within this building.
-- [[The Furnace]]([[MAG 179: Accomplice]]) A Desolation aligned domain in the post-[[The Change|Change]] world where inhabitants are forced to shovel carts full of the things they love into a furnace.
+- [[The Furnace]]([[MAG 179 - Accomplice]]) A Desolation aligned domain in the post-[[The Change|Change]] world where inhabitants are forced to shovel carts full of the things they love into a furnace.
 
 # Ritual
 
@@ -95,6 +95,6 @@ In 2006 [[Agnes Montague|Agnes]] was afflicted with doubt and realized she may b
     - When [[Gertrude Robinson]] discovered and attempted to counter the Desolation's ritual, [[The Web]] metaphysically bound her to [[Agnes Montague]], thus stalling their ritual.
     - [[Agnes montague|Agnes]] was placed under the care of [[Raymond Fielding]] at [[Hill Top Road]]. While there she thwarts [[Raymond Fielding|Raymond's]] attempt to trap [[Ronald Sinclair]] and eventually burns the house down.
     - While the house is still strongly connected to [[The Web]], The Desolation seems to have also left its mark on the place.
-    - In [[MAG 196: This Old House]], [[The Web]] seems displeased that [[Agnes Montague|Agnes]] burnt down [[Hill Top Road]].
-    - In [[MAG 67: Burning Desire]], [[Agnes Montague|Agnes]] burns a cobweb, and another agent of The Desolation held a box filled with spiders.
-    - In [[MAG 147: Weaver]], [[Alice Daisy Tonner|Daisy]] mentions that [[The Web]] "doesn't get on great with fire", according to [[Jonathan Sims|John]], hence why they used magnesium flares when searching [[Hill Top Road]].
+    - In [[MAG 196 - This Old House]], [[The Web]] seems displeased that [[Agnes Montague|Agnes]] burnt down [[Hill Top Road]].
+    - In [[MAG 67 - Burning Desire]], [[Agnes Montague|Agnes]] burns a cobweb, and another agent of The Desolation held a box filled with spiders.
+    - In [[MAG 147 - Weaver]], [[Alice Daisy Tonner|Daisy]] mentions that [[The Web]] "doesn't get on great with fire", according to [[Jonathan Sims|John]], hence why they used magnesium flares when searching [[Hill Top Road]].

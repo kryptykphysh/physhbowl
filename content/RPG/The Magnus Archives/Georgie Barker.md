@@ -22,9 +22,9 @@ She naturally has a slight Scouse accent that she at one point took great pains 
 
 | Voice Actor      | Sasha Sienna                       |
 | ---------------- | ---------------------------------- |
-| First Mention    | [[MAG 28: Skintight]]              |
-| First Appearance | [[MAG 81: A Guest For Mr. Spider]] |
-| Statment(s)      | [[MAG 94: Dead Woman Walking]]     |
+| First Mention    | [[MAG 28 - Skintight]]              |
+| First Appearance | [[MAG 81 - A Guest For Mr. Spider]] |
+| Statment(s)      | [[MAG 94 - Dead Woman Walking]]     |
 # History
 
 During her first year of university at Oxford, she and her friend Alex encountered a group of people in the Medical Sciences Building who were supposedly protesters but appeared to have all collapsed on the floor. The only person sitting up was a woman that Alex knew as one of the cadavers used in anatomy classes. The dead woman whispered something to Alex, who then joined the rest of the group in lying motionless on the floor. She whispered to Georgie, who tried not to hear, but she was unable to block out the phrase: "The moment that you die will feel exactly the same as this one."
@@ -39,7 +39,7 @@ She eventually started the _[[What The Ghost?]]_ podcast and befriended [[Mel
 
 In 2017 she lets [[Jonathan Sims]] live in her apartment while he is suspected of murdering [[Jurgen Leitner]], and at least once during that time she lies to the police about his whereabouts.
 
-As of [[MAG 157: Rotten Core]], Georgie and [[Melanie King|Melanie]] are romantically involved and living together.
+As of [[MAG 157 - Rotten Core]], Georgie and [[Melanie King|Melanie]] are romantically involved and living together.
 
 ## Season Five
 
@@ -53,41 +53,41 @@ Once [[Jonathan Sims|Jon]], [[Martin Blackwood|Martin]], and [[Basira Hussain|B
 
 # Recurring Nightmares
 
-Since giving her statement to [[Jonathan Sims|John]] in [[MAG 94: Dead Woman Walking]], Georgie has recurring dreams about being in a dissection room. Unlike most characters with recurring nightmares, Georgie does not appear to be scared or upset by hers. She just looks right back at the watcher in pity.
+Since giving her statement to [[Jonathan Sims|John]] in [[MAG 94 - Dead Woman Walking]], Georgie has recurring dreams about being in a dissection room. Unlike most characters with recurring nightmares, Georgie does not appear to be scared or upset by hers. She just looks right back at the watcher in pity.
 
 # Episode Appearances
 
 **Bold** marks episodes where Georgie has given a statement.
 
-- [[MAG 28: Skintight]] (mentioned)
-- [[MAG 63: The End of the Tunnel]] (mentioned)
-- [[MAG 81: A Guest For Mr. Spider]]
-- [[MAG 83: Drawing A Blank]]
-- [[MAG 85: Upon the Stair]]
-- [[MAG 87: The Uncanny Valley]]
-- [[MAG 93: Contaminant]]
-- **[[MAG 94: Dead Woman Walking]]**
-- [[MAG 99: Dust to Dust]]
-- [[MAG 106: A Matter Of Perspective]] (mentioned)
-- [[MAG 120: Eye Contact]] (mentioned)
-- [[MAG 121: Far Away]]
-- [[MAG 122: Zombie]]
-- [[MAG 145: Infectious Doubts]]
-- [[MAG 149: Concrete Jungle]]
-- [[MAG 157: Rotten Core]]
-- [[MAG 164: The Sick Village]] (mentioned)
+- [[MAG 28 - Skintight]] (mentioned)
+- [[MAG 63 - The End of the Tunnel]] (mentioned)
+- [[MAG 81 - A Guest For Mr. Spider]]
+- [[MAG 83 - Drawing A Blank]]
+- [[MAG 85 - Upon the Stair]]
+- [[MAG 87 - The Uncanny Valley]]
+- [[MAG 93 - Contaminant]]
+- **[[MAG 94 - Dead Woman Walking]]**
+- [[MAG 99 - Dust to Dust]]
+- [[MAG 106 - A Matter Of Perspective]] (mentioned)
+- [[MAG 120 - Eye Contact]] (mentioned)
+- [[MAG 121 - Far Away]]
+- [[MAG 122 - Zombie]]
+- [[MAG 145 - Infectious Doubts]]
+- [[MAG 149 - Concrete Jungle]]
+- [[MAG 157 - Rotten Core]]
+- [[MAG 164 - The Sick Village]] (mentioned)
 - [[What The Ghost? - The Devil's Dance]]
-- [[MAG 177: Wonderland]] (mentioned)
-- [[MAG 180: Moving On]] (mentioned)
-- [[MAG 189: Peers]]
-- [[MAG 190: Scavengers]]
-- [[MAG 191: What We Lose]]
-- [[MAG 192: An Appointment]]
-- [[MAG 194: Parting]] (mentioned)
-- [[MAG 195: Adrift]] (mentioned)
-- [[MAG 198: Precipice]]
-- [[MAG 199: Seeing it Through]]
-- [[MAG 200: Last Words]]
+- [[MAG 177 - Wonderland]] (mentioned)
+- [[MAG 180 - Moving On]] (mentioned)
+- [[MAG 189 - Peers]]
+- [[MAG 190 - Scavengers]]
+- [[MAG 191 - What We Lose]]
+- [[MAG 192 - An Appointment]]
+- [[MAG 194 - Parting]] (mentioned)
+- [[MAG 195 - Adrift]] (mentioned)
+- [[MAG 198 - Precipice]]
+- [[MAG 199 - Seeing it Through]]
+- [[MAG 200 - Last Words]]
 - [[What The Ghost? - Highgate Cemetery]]
 # Trivia
 

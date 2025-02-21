@@ -43,28 +43,28 @@ While [[The Buried]] also manifests as deep water, it will usually have a focu
 
 ## Statements
 
-- [[MAG 4: Page Turner]] ([[Ex Altiora]])
-- [[MAG 21: Freefall]] ([[The Fairchilds]])
-- [[MAG 46: Literary Heights]] ([[Ex Altiora]], [[Michael Crew]])
-- [[MAG 51: High Pressure]] ([[Simon Fairchild]])
-- [[MAG 75: A Long Way Down]] ([[Michael Crew]])
-- [[MAG 91: The Coming Storm]] ([[Ex Altiora]], [[Michael Crew]])
-- [[MAG 106: A Matter Of Perspective]] ([[Jan Kilbride]])
-- [[MAG 124: Left Hanging]] ([[Simon Fairchild]])
-- [[MAG 141: Doomed Voyage]] ([[Storm]], [["huge shape]]
-- [[MAG 151: Big Picture]] ([[Simon Fairchild]])
-- [[MAG 174: The Great Beast]] ([[Domain]], [[Simon Fairchild]])
-- [[MAG 195: Adrift]] ([[Domain]])
-- [[MAG 198: Precipice]] ([[Domain]])
+- [[MAG 4 - Page Turner]] ([[Ex Altiora]])
+- [[MAG 21 - Freefall]] ([[The Fairchilds]])
+- [[MAG 46 - Literary Heights]] ([[Ex Altiora]], [[Michael Crew]])
+- [[MAG 51 - High Pressure]] ([[Simon Fairchild]])
+- [[MAG 75 - A Long Way Down]] ([[Michael Crew]])
+- [[MAG 91 - The Coming Storm]] ([[Ex Altiora]], [[Michael Crew]])
+- [[MAG 106 - A Matter Of Perspective]] ([[Jan Kilbride]])
+- [[MAG 124 - Left Hanging]] ([[Simon Fairchild]])
+- [[MAG 141 - Doomed Voyage]] ([[Storm]], [["huge shape]]
+- [[MAG 151 - Big Picture]] ([[Simon Fairchild]])
+- [[MAG 174 - The Great Beast]] ([[Domain]], [[Simon Fairchild]])
+- [[MAG 195 - Adrift]] ([[Domain]])
+- [[MAG 198 - Precipice]] ([[Domain]])
 
 ## Other Appearances
 
-- [[MAG 17: The Boneturner's Tale]] ([[Michael Crew]], mentioned)
-- [[MAG 57: Personal Space]] ([[Jan Kilbride]], [[The Fairchilds]], mentioned)
-- [[MAG 89: Twice as Bright]] ([[The Fairchilds]], [[Michael Crew]], mentioned)
-- [[MAG 97: We All Ignore the Pit]] ([[Jan Kilbride]], [[Jackson Ellis]])
-- [[MAG 183: Monument]] (Possible Partial Domain)
-- [[MAG 184: Like Ants]] (Possible Partial Domain)
+- [[MAG 17 - The Boneturner's Tale]] ([[Michael Crew]], mentioned)
+- [[MAG 57 - Personal Space]] ([[Jan Kilbride]], [[The Fairchilds]], mentioned)
+- [[MAG 89 - Twice as Bright]] ([[The Fairchilds]], [[Michael Crew]], mentioned)
+- [[MAG 97 - We All Ignore the Pit]] ([[Jan Kilbride]], [[Jackson Ellis]])
+- [[MAG 183 - Monument]] (Possible Partial Domain)
+- [[MAG 184 - Like Ants]] (Possible Partial Domain)
 
 # Characters
 
@@ -77,14 +77,14 @@ While [[The Buried]] also manifests as deep water, it will usually have a focu
 # Locations
 
 - The Vast: A separate, void-like dimension that is absent of any life, with the exception of any victims sent there. Victims within the Vast will find themselves either surrounded by endless sky or sinking through oceanic depths, with little chance of escape. It is the direct manifestation of the Entity itself, but it is unknown if it can appear on its own.
-- [[The Great Beast]]([[MAG 174: The Great Beast]]): [[Simon Fairchild]]'s [[Domain]] in the post-[[The Change|Change]] world. It consists of a huge creature made of people clinging to each other, as it slowly walks over a large area with people living in it, scared of the colossal being casting a shadow over them.
-- [[The Ocean]]([[MAG 195: Adrift]]): A [[Domain]] of the Vast with possible aspects of [[The Dark]] and [[The Lonely]]. A victim is infinitely drowning in it with an unknown creature swimming around them. When they break the surface they find the ocean goes on forever and allow themselves to drown again.
-- [[The Precipice]]([[MAG 198: Precipice]]): A [[Domain]] of the Vast. The inhabitants climb a rickety, rusted iron ladder until they eventually realize that they do not know which way is up or down.
+- [[The Great Beast]]([[MAG 174 - The Great Beast]]): [[Simon Fairchild]]'s [[Domain]] in the post-[[The Change|Change]] world. It consists of a huge creature made of people clinging to each other, as it slowly walks over a large area with people living in it, scared of the colossal being casting a shadow over them.
+- [[The Ocean]]([[MAG 195 - Adrift]]): A [[Domain]] of the Vast with possible aspects of [[The Dark]] and [[The Lonely]]. A victim is infinitely drowning in it with an unknown creature swimming around them. When they break the surface they find the ocean goes on forever and allow themselves to drown again.
+- [[The Precipice]]([[MAG 198 - Precipice]]): A [[Domain]] of the Vast. The inhabitants climb a rickety, rusted iron ladder until they eventually realize that they do not know which way is up or down.
 
 # Artefacts
 
 - [[Ex Altiora]]: A [[List of Books|Leitner]] written in Latin that tells the story of a town jumping off a cliff in the face of destruction by an unfathomable creature. Smells of ozone and induces vertigo. 
-- [[A Strange Book of Astronomy]]: An unnamed book that [[Emma Harvey]]([[MAG 167: Curiosity]]) used on [[Sarah Carpenter]]([[lMAG 167: Curiosity]]) in one of several attempts to break her. The book left the reflection's of "uncanny" constellations within her eyes long after she had attempted to used the book to chart the stars. She is described as nearly having been "lost to the cosmos."
+- [[A Strange Book of Astronomy]]: An unnamed book that [[Emma Harvey]]([[MAG 167 - Curiosity]]) used on [[Sarah Carpenter]]([[lMAG 167: Curiosity]]) in one of several attempts to break her. The book left the reflection's of "uncanny" constellations within her eyes long after she had attempted to used the book to chart the stars. She is described as nearly having been "lost to the cosmos."
 
 # Ritual
 

@@ -22,13 +22,13 @@ tags:
 
 | Voice Actor      | Alexander J. Newall       |
 | ---------------- | ------------------------- |
-| First Mention    | [[MAG 1: Angler Fish]]    |
-| First Appearance | [[MAG 22: Colony]]        |
-| Statement(s)     | [[MAG 22: Colony]]        |
-|                  | [[MAG 40: Human Remains]] |
-|                  | [[MAG 117: Testament]]    |
-|                  | [[MAG 170: Recollection]] |
-|                  | [[MAG 186: Quiet]]        |
+| First Mention    | [[MAG 1 - Angler Fish]]    |
+| First Appearance | [[MAG 22 - Colony]]        |
+| Statement(s)     | [[MAG 22 - Colony]]        |
+|                  | [[MAG 40 - Human Remains]] |
+|                  | [[MAG 117 - Testament]]    |
+|                  | [[MAG 170 - Recollection]] |
+|                  | [[MAG 186 - Quiet]]        |
 # Personality
 
 Martin initially comes off as nervous and unassuming, and frequently takes on a nurturing role among the archival staff. He is an avid tea-drinker and regularly offers cups to his co-workers, especially [[Jonathan Sims|John]], of whom he is very fond. Although Martin cares very deeply for the people around him, he is a notably lonely person. Despite his efforts to make friends, he is not regarded well by his co-workers due to his poor work performance and is not known to have positive ties to anyone outside of the Archives.
@@ -39,9 +39,9 @@ Martin is not known to use a specific label for his sexual orientation, but is a
 
 # Description
 
-In [[MAG 22: Colony]], Martin describes himself as "not exactly the smallest guy in the world" when talking about climbing through a small basement window, and he is implied to be less skinny than [[Melanie king|Melanie]].
+In [[MAG 22 - Colony]], Martin describes himself as "not exactly the smallest guy in the world" when talking about climbing through a small basement window, and he is implied to be less skinny than [[Melanie king|Melanie]].
 
-While taunting [[Jonathan Sims|John]] in [[MAG 165: Revolutions]], [[Not-Sasha]] describes Martin as looking "very comfortable" and "positively roomy".
+While taunting [[Jonathan Sims|John]] in [[MAG 165 - Revolutions]], [[Not-Sasha]] describes Martin as looking "very comfortable" and "positively roomy".
 
 Martin is stated to look almost exactly like his father, whose appearance is unknown.
 
@@ -125,7 +125,7 @@ Martin and [[Jonathan Sims|John]] flee the [[The Magnus Institute|Institute]] an
 
 After [[The Change]], he and [[Jonthan Sims|John]] shelter in the cabin for an indeterminate amount of time. They eventually leave and head toward the [[The Magnus Institute|Institute]], looking for a way to undo [[The Change]].
 
-In [[MAG 200: Last Words]], [[Jonathan Sims|John]] kills [[Jonah Magnus]] and becomes the pupil of [[The Eye]]. Martin follows him and after a last-ditch debate, stabs [[Jonathan Sims|John]] to release the powers into new worlds. Once the world has returned to normal, neither [[Jonathan Sims|John]] nor Martin are found in the rubble of the panopticon and it is unclear what has become of them.
+In [[MAG 200 - Last Words]], [[Jonathan Sims|John]] kills [[Jonah Magnus]] and becomes the pupil of [[The Eye]]. Martin follows him and after a last-ditch debate, stabs [[Jonathan Sims|John]] to release the powers into new worlds. Once the world has returned to normal, neither [[Jonathan Sims|John]] nor Martin are found in the rubble of the panopticon and it is unclear what has become of them.
 
 # Known Powers
 
@@ -140,8 +140,8 @@ Martin has the majority of his screen time in season five, where the narrative f
 
 # Trivia
 
-- Martin Blackwood is named after horror writer Algernon Blackwood and Martin Corcoran, who voices [[Dr. Lionel Elliot]]([[MAG 34: Anatomy Class]]) and [[Breekon & Hope|Breekon]].
-- Martin appears to know some amount of Polish, as evidenced in [[MAG 12: First Aid]].
+- Martin Blackwood is named after horror writer Algernon Blackwood and Martin Corcoran, who voices [[Dr. Lionel Elliot]]([[MAG 34 - Anatomy Class]]) and [[Breekon & Hope|Breekon]].
+- Martin appears to know some amount of Polish, as evidenced in [[MAG 12 - First Aid]].
 - Martin is the last surviving assistant from the trio of season one. The other two were [[Sasha James]] and [[Timothy Stoker]].
 - Martin's D&D class would be bard with no instrument.
 - Martin enjoys most teas, but has a particular distaste for oolong after his mother regularly served it to him as a way of avoiding unpleasant conversations.
@@ -151,7 +151,7 @@ Martin has the majority of his screen time in season five, where the narrative f
 - Martin's poetry is available as [bonus content](http://rustyquill.com/patreon-content-explorer/) on the [Rusty Quill Patreon](https://www.patreon.com/rustyquill). It is written by Anil Godigamuwe, Rusty Quill's community manager, and Jonny has described it as 'aggressively mediocre'.
     - For the Rusty Quill Gaming & Giving 2019 charity livestream, Anil wrote a poem in just a few hours and Alex J. Newall, Martin's voice actor, [recited it on stream](https://m.twitch.tv/clip/SpookySnappyMarjoramPicoMause).
 - Jonny Sims has stated in the season two Q&A that Martin is Not Going to be Okay.
-- In [[MAG 79: Hide and Seek]], Martin calls himself "Martin K. Blackwood" in a recording but in [[MAG 164: The Sick Village]] it is revealed that he actually has no middle name.
-- In [[MAG 196: This Old House]], [[Annabelle Cane]] mentioned that Martin had the potential to become part of [[The Web]] due to his abilities to subtly manipulate people and only avoided it by becoming part of [[The Lonely]].
-- In [[MAG 198: Precipice]], Martin says that he enjoys rowing, and feels he is rather good at it.
+- In [[MAG 79 - Hide and Seek]], Martin calls himself "Martin K. Blackwood" in a recording but in [[MAG 164: The Sick Village]] it is revealed that he actually has no middle name.
+- In [[MAG 196 - This Old House]], [[Annabelle Cane]] mentioned that Martin had the potential to become part of [[The Web]] due to his abilities to subtly manipulate people and only avoided it by becoming part of [[The Lonely]].
+- In [[MAG 198 - Precipice]], Martin says that he enjoys rowing, and feels he is rather good at it.
 - In the MAG Retrospective published after Season 5, Jonny Sims said that he always has imagined Martin as a bigger guy, and that he would beat his voice actor Alexander J. Newall in a physical fight.

@@ -22,9 +22,9 @@ tags:
 
 | Voice Actor      | Carrie Cohen              |
 | ---------------- | ------------------------- |
-| First Mention    | [[MAG 4: Page Turner]]    |
-| First Appearance | [[MAG 62: First Edition]] |
-| Statement(s)     | [[MAG 62: First Edition]] |
+| First Mention    | [[MAG 4 - Page Turner]]    |
+| First Appearance | [[MAG 62 - First Edition]] |
+| Statement(s)     | [[MAG 62 - First Edition]] |
 # Description
 
 Mary Keay is described as a very old woman. Prior to her first death, she had a full head of hair and no tattoos, but, after her death, she is described as having a clean-shaven head and skin completely covered in "closely written words" in Sanskrit.
@@ -53,7 +53,7 @@ At some point, Mary opened '[[Pinhole Books]],' a shop in Morden, London that sp
 
 Sometime in 2008, she was found dead of a supposed overdose; although she had been partially flayed. Pieces of her skin were hanging nearby, covered in Sanskrit. [[Gerard Keay|Gerard]] was tried for her murder, but he was acquitted when an important piece of evidence was ruled inadmissible.
 
-As explained by [[Gerard Keay|Gerard]] in [[MAG 111: Family Business]], Mary's death was self-inflicted, as she died while attempting to complete a ritual to take control of the [[Catalogue of the Trapped Dead]]. After [[Gerard Keay|Gerard's]] arrest, Mary manifested and somehow removed the book from the evidence lockup, while contaminating all the rest of the evidence against [[Gerard Keay|Gerard]]. Through this ritual, she was able to project herself into the world, and "continue her work."
+As explained by [[Gerard Keay|Gerard]] in [[MAG 111 - Family Business]], Mary's death was self-inflicted, as she died while attempting to complete a ritual to take control of the [[Catalogue of the Trapped Dead]]. After [[Gerard Keay|Gerard's]] arrest, Mary manifested and somehow removed the book from the evidence lockup, while contaminating all the rest of the evidence against [[Gerard Keay|Gerard]]. Through this ritual, she was able to project herself into the world, and "continue her work."
 
 [[Pinhole Books]] closed officially after her death.
 
@@ -66,10 +66,10 @@ In 2013, [[Gerard Keay|Gerard]] gives the [[Catalogue of the Trapped Dead]] to 
 # Episode Appearances
 
 **Bold** marks episodes where Mary has made a statement.
-- [[MAG 4: Page Turner]]
-- [[MAG 23: Schwartzwald]] (mentioned)
-- [[MAG 35: Old Passages]] (mentioned)
-- **[[MAG 62: First Edition]]**
-- [[MAG 111: Family Business]]
-- [[MAG 137: Nemesis]] (mentioned)
-- [[MAG 154: Bloody Mary]]
+- [[MAG 4 - Page Turner]]
+- [[MAG 23 - Schwartzwald]] (mentioned)
+- [[MAG 35 - Old Passages]] (mentioned)
+- **[[MAG 62 - First Edition]]**
+- [[MAG 111 - Family Business]]
+- [[MAG 137 - Nemesis]] (mentioned)
+- [[MAG 154 - Bloody Mary]]
