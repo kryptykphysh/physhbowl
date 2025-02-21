@@ -30,38 +30,38 @@ The Hunt is one of [[The Entities]]. It is one of the most primal powers, the a
 - [[MAG 9: A Father's Love]] ([[Julia Montauk]])
 - [[MAG 10: Vampire Killer]] ([[Trevor Herbert]], [[Vampires]])
 - [[MAG 31: First Hunt]] ([[Werewolf]])
-- [[MAG 43: Section 31]] ([[Alice "Daisy" Tonner]])
+- [[MAG 43: Section 31]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
 - [[MAG 56: Children of the Night]] ([[Trevor Herbert]])
-- [[MAG 61: Hard Shoulder]] ([[Alice "Daisy" Tonner]])
-- [[MAG 82: The Eyewitnesses]] ([[Calvin Benchley]], [[Alice "Daisy" Tonner]])
+- [[MAG 61: Hard Shoulder]] ([[Alice Daisy Tonner]])
+- [[MAG 82: The Eyewitnesses]] ([[Calvin Benchley]], [[Alice Daisy Tonner|Alice "Daisy" Tonner]])
 - [[MAG 107: Third Degree]] ([[Trevor Herbert]], [[Julia Montauk]])
 - [[MAG 109: Nightfall]] ([[Trevor Herbert]], [[Julia Montauk]])
 - [[MAG 112: Thrill of the Chase]] ([[Murder Club]])
-- [[MAG 119: Stranger and Stranger]] ([[Alice "Daisy" Tonner]])
+- [[MAG 119: Stranger and Stranger]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
 - [[MAG 133: Dead Horse]] ([[The Everchase]], [[Vampires]])
 - [[MAG 176: Blood Ties]] ([[Domain]], [[Trevor Herbert]])
 
 ## Other Appearances
 
 - [[MAG 36: Taken Ill]] ([[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 91: The Coming Storm]] ([[Alice "Daisy" Tonner]])
-- [[MAG 92: Nothing Beside Remains]] ([[Alice "Daisy" Tonner]])
+- [[MAG 91: The Coming Storm]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 92: Nothing Beside Remains]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
 - [[MAG 111: Family Business]] ([[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 118: The Masquerade]] ([[Alice "Daisy" Tonner]])
-- [[MAG 132: Entombed]] ([[Alice "Daisy" Tonner]])
-- [[MAG 153: Love Bombing]] ([[Alice "Daisy" Tonner]], [[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 158: Panopticon]] ([[Alice "Daisy" Tonner]], [[Trevor Herbert]], [[Julia Montauk]])
-- [[MAG 179: Accomplice]] ([[Alice "Daisy" Tonner]])
+- [[MAG 118: The Masquerade]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 132: Entombed]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
+- [[MAG 153: Love Bombing]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]], [[Trevor Herbert]], [[Julia Montauk]])
+- [[MAG 158: Panopticon]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]], [[Trevor Herbert]], [[Julia Montauk]])
+- [[MAG 179: Accomplice]] ([[Alice Daisy Tonner|Alice "Daisy" Tonner]])
 - [[MAG 190: Scavengers]] ([[Domain mentioned]])
 - [[MAG 191:What We Lose]] ([[Domain mentioned]])
-- [[MAG 195: Adrift]] ([[Basira Hussain]], [[Alice "Daisy" Tonner]])
+- [[MAG 195: Adrift]] ([[Basira Hussain]], [[Alice Daisy Tonner|Alice "Daisy" Tonner]])
 - [[MAG 196: This Old House]] ([[Possible avatar]])
 - [[MAG 200: Last Words]] ([[mentioned]])
 
 # Characters
 
 - Hunters: Avatars adept at finding and killing monsters and Avatars with a predatory, feral savagery. Hunters often feel a sense of satisfaction when hunting, with some viewing this feeling as a kind of addiction. The need to Hunt is also sometimes described as being able to feel or sense "blood," guiding them towards victims, giving Hunters a predatory bloodlust. Hunters seem to have the ability to injure and kill Avatars of other entities using conventional methods, able to tear apart other avatars with their bare hands or using conventional weapons like knives and guns. As a result, Hunters are often hired or coerced into serving other Entities.
-- [[Alice "Daisy" Tonner]]
+- [[Alice Daisy Tonner|Alice "Daisy" Tonner]]
 - [[Trevor Herbert]]
 - [[Julia Montauk]]
 - [[Basira Hussain]]: Though she never became a full hunter she was extremely close and was still heavily tied to the Hunt.
@@ -82,10 +82,10 @@ The Hunt's ritual is potentially called the Everchase. Little is currently know
 # Connections to other Entities
 
 - [[Adelard Dekker]] mentions that if an avatar of [[The End]] becomes strong enough, only a Hunter could defeat it (and he finds them too unpredictable to make that his first choice).
-- [[Alice "Daisy" Tonner|Daisy Tonner]] spends a significant amount of time killing mannequins belonging to [[The Stranger]] while she is forced to work for [[The Eye]] via [[Elias Bouchard|Elias]].
+- [[Alice Daisy Tonner|Daisy Tonner]] spends a significant amount of time killing mannequins belonging to [[The Stranger]] while she is forced to work for [[The Eye]] via [[Elias Bouchard|Elias]].
 - When necessary, an avatar of [[The Slaughter]] can defend a place or group of people from other Entities. However, while Hunters thrive on the role, avatars of The Slaughter seem to devolve into constant rage and unhappiness (at least in the case of [[Melanie King]]).
 # Trivia
 
 - [[Jonathan Sims|Jonny Sims]] cites [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne) as "a little bit of an influence" on the development of the Hunt as a concept.
-- Police officers seem especially prone to the Hunt, notably [[Alice "Daisy" Tonner|Daisy Tonner]] and [[MAG 92: Nothing Beside Remains|other Section 31 officers]].
+- Police officers seem especially prone to the Hunt, notably [[Alice Daisy Tonner|Daisy Tonner]] and [[MAG 92: Nothing Beside Remains|other Section 31 officers]].
 - According to [[MAG 200: Last Words|MAG 200]], the Hunt was part of the "original" Fear, from which the other Entities split off from as humanity evolved.

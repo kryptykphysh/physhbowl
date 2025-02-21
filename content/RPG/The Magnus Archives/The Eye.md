@@ -102,7 +102,7 @@ Technically, every episode deals with the Eye as its influence is felt throughou
     - [[Timothy Stoker]]
     - [[Basira Hussain]]
     - [[Melanie King]]
-    - [[Alice "Daisy" Tonner]]
+    - [[Alice Daisy Tonner|Alice "Daisy" Tonner]]
     - [[Michael Shelley]] (prior to being merged with [[The Distortion]])
     - [[Eric Delano]]
     - [[Emma Harvey]]

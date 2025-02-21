@@ -99,7 +99,7 @@ They hand the recording to the police and [[Elias Bouchard|Elias]] is put in jai
 
 ## Season Four
 
-After [[The Unknowing]] has been stopped, [[Timothy Stoker|Tim]] is dead, [[Alice "Daisy" Tonner|Daisy]] is missing, and [[Jonathan Sims|John]] is in a medically impossible coma. It seems unlikely that he will ever wake up and Martin grieves for him. He is left working with [[Basira Hussain|Basira]] and [[Melanie King|Melanie]] under [[Peter Lukas]].
+After [[The Unknowing]] has been stopped, [[Timothy Stoker|Tim]] is dead, [[Alice Daisy Tonner|Daisy]] is missing, and [[Jonathan Sims|John]] is in a medically impossible coma. It seems unlikely that he will ever wake up and Martin grieves for him. He is left working with [[Basira Hussain|Basira]] and [[Melanie King|Melanie]] under [[Peter Lukas]].
 
 About two months after [[The Unknowing]], Martin’s mother passes away and he feels as though he has nothing left to live for. In late 2017, he teams up with [[Peter Lukas|Peter]], agreeing to work for him in if he keeps the others safe. He tells himself that it is to protect the others but he thinks it might also just be a good way to get himself killed.
 

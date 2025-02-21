@@ -27,7 +27,7 @@ For 200 years, [[The Magnus Institute]] has quietly collected statements like th
 
 How will your team combat them, when simply coming to understand these dark forces threatens to bring you under their influence? Because when you stare into the archives, something starts to stare back.
 
-Work alongside [[Jonathan Sims|Jonathan]] and [[Martin Blackwood|Martin]], [[Basira Hussain|Basira]], [[Alice "Daisy" Tonner|Daisy]], and the rest of the staff of [[The Magnus Institute]], or create your own branch of investigators. Encounter the [[NotThem]], the [[Anglerfish]], or [[The Man Upon the Stair]]. Learn the truth of the books of [[Jurgen Leitner]], the [[The Coffin|coffin]] that is also a pit, and [[The People’s Church of the Divine Host]].
+Work alongside [[Jonathan Sims|Jonathan]] and [[Martin Blackwood|Martin]], [[Basira Hussain|Basira]], [[Alice Daisy Tonner|Daisy]], and the rest of the staff of [[The Magnus Institute]], or create your own branch of investigators. Encounter the [[NotThem]], the [[Anglerfish]], or [[The Man Upon the Stair]]. Learn the truth of the books of [[Jurgen Leitner]], the [[The Coffin|coffin]] that is also a pit, and [[The People’s Church of the Divine Host]].
 ### _The Magnus Archives Roleplaying Game_ includes:
 
 - Complete rules tailored for a story-based tabletop roleplaying experience in the eerie world of the popular The Magnus Archives horror podcast.

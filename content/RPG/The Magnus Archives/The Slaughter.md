@@ -58,7 +58,7 @@ The Slaughter is frequently associated with music, in particular various kinds o
 - [[The Piper]]: An aspect of the Slaughter that appears during wartime. It appears as a heavily scarred, three-faced man with many hands holding weapons, playing musical instruments, or saluting. It plays its pipes before a battle and only those fated to die in the upcoming attack can hear its tune. Rarely some who hear its music will survive to spread the word of Slaughter but will die when the larger conflict ends.
 - An unnamed [[Avatar]] of the Slaughter that interrupted [[The Stranger]]'s ritual in 1787 by killing the main dancer with a cannon. Its interruption of the ritual was also supported by a group of faceless soldiers.
 - A [[maimed figure]] whose whispers instill a permanent inclination for violence in others.
-- [[Calvin Benchley]], who was whispered to by the maimed figure as a child, and eventually killed by [[Alice "Daisy" Tonner]].
+- [[Calvin Benchley]], who was whispered to by the maimed figure as a child, and eventually killed by [[Alice Daisy Tonner|Alice "Daisy" Tonner]].
 
 # Artefacts
 

@@ -97,4 +97,4 @@ In 2006 [[Agnes Montague|Agnes]] was afflicted with doubt and realized she may b
     - While the house is still strongly connected to [[The Web]], The Desolation seems to have also left its mark on the place.
     - In [[MAG 196: This Old House]], [[The Web]] seems displeased that [[Agnes Montague|Agnes]] burnt down [[Hill Top Road]].
     - In [[MAG 67: Burning Desire]], [[Agnes Montague|Agnes]] burns a cobweb, and another agent of The Desolation held a box filled with spiders.
-    - In [[MAG 147: Weaver]], [[Alice "Daisy" Tonner|Daisy]] mentions that [[The Web]] "doesn't get on great with fire", according to [[Jonathan Sims|John]], hence why they used magnesium flares when searching [[Hill Top Road]].
+    - In [[MAG 147: Weaver]], [[Alice Daisy Tonner|Daisy]] mentions that [[The Web]] "doesn't get on great with fire", according to [[Jonathan Sims|John]], hence why they used magnesium flares when searching [[Hill Top Road]].

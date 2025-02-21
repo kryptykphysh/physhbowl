@@ -92,7 +92,7 @@ These classifications are much like colours, infinite fears that can be grouped
 - The fear of being watched, exposed, followed, having secrets exposed. Can also pertain to the drive to know and understand, even if your discoveries might destroy you.
 - Manifests as eyes, security cameras, a creature or figure that keeps constant watch. Often manifests in libraries and books.
 - Artefacts associated with The Eye: The Hand Mirror, security camera instruction manual, Rock Eye.
-- Known avatars and servants of The Eye: Magnus Institute Archivists ([[Angus Stacey]], [[Gertrude Robinson]], [[Jonathan Sims]]), [[Jonah Magnus]] ([[Richard Mendelson]], [[James Wright]], [[Elias Bouchard]]), archival assistants ([[Alice "Daisy" Tonner]], [[Basira Hussain]], [[Emma Harvey]], [[Eric Delano]], [[Fiona Law]], [[Martin Blackwood]], [[Melanie King]], [[Sasha James]], [[Timothy Stoker]]), [[Gerard Keay]].
+- Known avatars and servants of The Eye: Magnus Institute Archivists ([[Angus Stacey]], [[Gertrude Robinson]], [[Jonathan Sims]]), [[Jonah Magnus]] ([[Richard Mendelson]], [[James Wright]], [[Elias Bouchard]]), archival assistants ([[Alice Daisy Tonner]], [[Basira Hussain]], [[Emma Harvey]], [[Eric Delano]], [[Fiona Law]], [[Martin Blackwood]], [[Melanie King]], [[Sasha James]], [[Timothy Stoker]]), [[Gerard Keay]].
 - [[The Eye]]'s ritual is called [[The Watcher's Crown]].
 
 ### [[The Flesh]]
@@ -113,7 +113,7 @@ These classifications are much like colours, infinite fears that can be grouped
 - Takes hold of apparently "normal" people after they are exposed to the need for The Hunt. Self-proclaimed monster hunters might become 'Hunters' and proceed to develop a need to hunt and kill monsters.
 - It is less able to affect humans due to our self-removal from the food chain.
 - Artefacts associated with The Hunt: _[[The Stalwart Hunters' Almanac]]_ (suspected).
-- Known avatars and servants of The Hunt: [[Alice "Daisy" Tonner]], [[Julia Montauk]], [[Robert Montauk]], [[Trevor Herbert,]] [[Basira Hussain]].
+- Known avatars and servants of The Hunt: [[Alice Daisy Tonner]], [[Julia Montauk]], [[Robert Montauk]], [[Trevor Herbert,]] [[Basira Hussain]].
 - The Hunt's ritual is called The Everchase. Daisy suggests that the Hunt is too caught up in the chase to ever reach the end of its ritual if it has an end at all.
 - In Jonathan Sims' first list of what would become the Entities, this one was called Fang.
 

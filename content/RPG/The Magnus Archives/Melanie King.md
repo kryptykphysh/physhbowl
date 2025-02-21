@@ -78,7 +78,7 @@ While [[Martin Blackwood|Martin]] distracts [[Elias Bouchard|Elias]] in the Arch
 
 When [[The Flesh]] attacks the Archives two months before [[Jonathan Sims|John's]] return, Melanie single-handedly protects the others using a knife.
 
-Upon [[Jonathan Sims|John's]] return to the [[The Magnus Institute|Institute]] after awakening from his coma, Melanie reacts violently and attacks him, accusing him of being to blame for [[Timothy Stoker|Tim's]] and [[Alice "Daisy" Tonner|Daisy's]] deaths when stopping [[The Unknowing]].
+Upon [[Jonathan Sims|John's]] return to the [[The Magnus Institute|Institute]] after awakening from his coma, Melanie reacts violently and attacks him, accusing him of being to blame for [[Timothy Stoker|Tim's]] and [[Alice Daisy Tonner|Daisy's]] deaths when stopping [[The Unknowing]].
 
 [[Jonathan Sims|John's]] powers let him realise the ghost bullet Melanie mentioned is still lodged inside her leg, above the tibia. The bullet is "pumping violence into her", infecting her with [[The Slaughter]]. He and [[Basira Hussain|Basira]] decide to do surgery on her while she is asleep to remove the bullet, as she is currently too violent to react well to being asked. [[Jonathan Sims|John]], who can see the bullet and something rotten inside her, removes the bullet. However, she wakes during the procedure and panics, stabbing [[Jonathan Sims|John]]. She later asks Basira to apologize to [[Jonathan Sims|John]] for her, and notes that she is now able to cry again.
 
@@ -86,7 +86,7 @@ Melanie walks in on [[Jonathan Sims|John]] trying to chop off his finger in an a
 
 Some time later, [[Jonathan Sims|John]] catches Melanie on her way out the Archives and accidentally compels her to say she's going to therapy. [[Georgie Barker]] accompanies her. In therapy, Melanie explicitly states she does not want the sessions to be recorded.
 
-Melanie is with [[Alice "Daisy" Tonner|Daisy]] and [[Basira Hussain|Basira]] when they confront [[Jonathan Sims|John]] about his 'eating habits.' She accompanies the group as they investigate [[Hill Top Road|the house on Hill Top Road]]. While there, she admits to trying to be more open with her feelings. Melanie and the other ladies seem to be having a good time together.
+Melanie is with [[Alice Daisy Tonner|Daisy]] and [[Basira Hussain|Basira]] when they confront [[Jonathan Sims|John]] about his 'eating habits.' She accompanies the group as they investigate [[Hill Top Road|the house on Hill Top Road]]. While there, she admits to trying to be more open with her feelings. Melanie and the other ladies seem to be having a good time together.
 
 Continuing her journey of personal growth, Melanie seeks out [[Jonathan Sims|John]] to tell him she will no longer be doing work at the Archives. She cannot be a part of it anymore, as the [[The Magnus Institute|Institute]] is working for [[The Eye]]. She admits to initially being paranoid about a potentially evil therapist.
 

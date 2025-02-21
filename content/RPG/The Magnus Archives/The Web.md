@@ -121,7 +121,7 @@ In [[MAG 197: Connected]], it is revealed that The Web knows a successful ritua
     - When [[Gertrude Robinson]] discovered and attempted to counter [[The Desolation]]'s ritual, The Web metaphysically bound her to [[Agnes Montague]], thus stalling the counter-ritual.
     - [[Agnes Montague|Agnes']] presence in a man's home burnt a cobweb.
     - During a vague ceremony just before [[Agnes Montagues|Agnes'] death, another agent of [[The Desolation]] held a box filled with spiders.
-    - [[Alice "Daisy" Tonner|Daisy]] brings magnesium flares when searching [[Hill Top Road]] after [[Jonathan Sims|John]] mentions that The Web is averse to fire.
+    - [[Alice Daisy Tonner|Daisy]] brings magnesium flares when searching [[Hill Top Road]] after [[Jonathan Sims|John]] mentions that The Web is averse to fire.
     - While [[Hill Top Road|105 Hill Top Road]] is strongly connected to The Web, [[The Desolation]] seems to have also left its mark on the place.
         - This may be why a young [[Agnes Montague|Agnes]] was placed under the care of [[Raymond Fielding]] at [[Hill Top Road]]. While there, she thwarts [[Raymond Fielding|Raymond's]] attempt to trap [[Ronald Sinclair]] and eventually burns the house down.
     - Despite their antagonistic relationship, The Web's plan to escape through [[The Gap in Reality]] ended up involving [[The Desolation]], as [[The Gap in Reality|The Gap]] was only wide enough to be useful after [[Agnes Montague]] burnt down the house on [[Hill Top Road]].

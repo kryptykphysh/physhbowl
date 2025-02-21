@@ -85,7 +85,7 @@ Like many other academic organizations, the Institute has several departments. T
 - [[Peter Lukas]] - Former Head of the Institute (from 2017-2018)
 - [[Martin Blackwood]] - Assistant to Head of Institute
 - [[Rosie Zampano]] - Assistant to Head of Institute
-- [[Alice "Daisy" Tonner]] - Former Institute and Archives Security (reported to [[Elias Bouchard|Elias]])
+- [[Alice Daisy Tonner|Alice "Daisy" Tonner]] - Former Institute and Archives Security (reported to [[Elias Bouchard|Elias]])
 
 ## Archives
 
@@ -98,7 +98,7 @@ Like many other academic organizations, the Institute has several departments. T
 ### Assistants
 
 - [[Basira Hussain]] - Assistant to [[Jonathan Sims]]
-- [[Alice "Daisy" Tonner]] - Assistant to [[Jonathan Sims]]
+- [[Alice Daisy Tonner|Alice "Daisy" Tonner]] - Assistant to [[Jonathan Sims]]
 - [[Michael Shelley]] - Former Assistant to [[Gertrude Robinson]]
 - [[Eric Delano]] - Former Assistant to [[Gertrude Robinson]]
 - [[Emma Harvey]] - Assistant to [[Gertrude Robinson]]
