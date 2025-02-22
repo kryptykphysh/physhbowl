@@ -14,8 +14,8 @@ Intro
 
 # Meta Info
 
-| [Audio]() | [Transcript]() | [[Content Warnings]] |
-| --------- | -------------- | -------------------- |
+| [Audio]() | [Transcript](https://snarp.github.io/magnus_archives_transcripts/episode/014.html) | [[Content Warnings]] |
+| --------- | ---------------------------------------------------------------------------------- | -------------------- |
 # Navigation
 ## Last Episode
 
