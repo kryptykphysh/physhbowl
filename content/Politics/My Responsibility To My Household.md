@@ -16,6 +16,6 @@ The **bare fucking minimum** I can do is to practice, "intolerance to intoleranc
 
 You don't owe me an explanation of why you think Nazi salutes are just someone's expression of freedom of speech. Likewise, I don't owe you an explanation of why you need to get the fuck out of my house before I throw you out. Still, you got one. Fuck Nazis.
 ![[nazis.png]]
-Much of the thinking above done by greater brains than mine in *The Open Society and Its Enemies, Karl Popper, 1945.
+Much of the thinking above done by greater brains than mine in *The Open Society and Its Enemies, Karl Popper, 1945*.
 
 Also, props to Tom Morello for the image. I don't think he'd object to this being used here.
