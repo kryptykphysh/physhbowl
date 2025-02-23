@@ -41,7 +41,7 @@ Many entities prey on isolated victims or isolate victims while they are torment
 - [[MAG 170 - Recollection]] ([[Domain]], [[Martin Blackwood]])
 - [[MAG 186 - Quiet]] ([[Domain]], [[Martin Blackwood]])
 
-## Other Appearances[[]]([[https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthe-magnus-archives.fandom.com%2Fwiki%2FThe_Lonely%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit]]
+## Other Appearances
 
 - [[MAG 66 - Held in Customs]] ([[A Disappearance]])
 - [[MAG 80 - The Librarian]] ([[A Disappearance]])
