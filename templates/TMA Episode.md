@@ -1,4 +1,4 @@
-Intro
+# Pre-Statement
 # Case Number
 
 # Audio By
@@ -10,7 +10,7 @@ Intro
 # Date of Event
 
 # Locations
-- 1
+- 
 
 # Meta Info
 
@@ -21,7 +21,7 @@ Intro
 
 ## Next Episode
 
-# Pre-Statement
+## Release Date
 
 # Statement
 

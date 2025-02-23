@@ -57,7 +57,7 @@ Technically, every episode deals with the Eye as its influence is felt throughou
 - [[MAG 194 - Parting]] ([[Statement]])
 - [[MAG 200 - Last Words]] ([[Jonah Magnus]], [[The Archivist]])
 
-### Other Appearances[[]]([[https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthe-magnus-archives.fandom.com%2Fwiki%2FThe_Eye%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit]]
+## Other Appearances
 
 - [[MAG 4 - Page Turner]] ([[Mary Keay]])
 - [[MAG 39 - Infestation]] ([[Jonathan Sims]])
