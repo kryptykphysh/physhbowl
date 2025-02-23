@@ -6,7 +6,7 @@ tags:
 ---
 Breekon and Hope are a pair of beings who appear as human men and are frequently seen delivering arcane or esoteric objects for the delivery company, [[Breekon & Hope (company)|Breekon & Hope]], from which their names derive. When speaking English, they usually adopt exaggerated Cockney accents. They are often seen wearing featureless uniforms.
  
-They were once members of [[The Circus of the Other]]]], though their history stretches back further than that to at least the 1800s, possibly earlier. During the 1990s, they took orders from the Circus’s ringmaster, [[Gregor Orsinov]]. Later they worked for [[Nikola Orsinov]], helping with her preparations for [[The Unknowing]]. During the ritual, Hope was killed by [[Alice Daisy Tonner|Daisy Tonner]], and Breekon fed her to [[The Coffin]] in retaliation. Breekon later delivered the coffin to [[The Magnus Institute]], looking for revenge. He was expelled from the [[The Magnus Insitute|Institute]] after having a statement extracted from him by [[Jonathan Sims]].
+They were once members of [[The Circus of the Other]], though their history stretches back further than that to at least the 1800s, possibly earlier. During the 1990s, they took orders from the Circus’s ringmaster, [[Gregor Orsinov]]. Later they worked for [[Nikola Orsinov]], helping with her preparations for [[The Unknowing]]. During the ritual, Hope was killed by [[Alice Daisy Tonner|Daisy Tonner]], and Breekon fed her to [[The Coffin]] in retaliation. Breekon later delivered the coffin to [[The Magnus Institute]], looking for revenge. He was expelled from the [[The Magnus Insitute|Institute]] after having a statement extracted from him by [[Jonathan Sims]].
 # Affiliation
 - [[The Stranger]]
 # Biographical Information
