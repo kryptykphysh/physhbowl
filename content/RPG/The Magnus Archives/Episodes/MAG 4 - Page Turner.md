@@ -72,7 +72,7 @@ In the police reports, [[Timothy Stoker|Tim]] found that [[Mary Keay|Mary]]'s 
     - [[Mary Keay]]'s death occurred as she was attempting to bind herself to the [[Catalogue of the Trapped Dead]], a book of [[The End]]. This explains her shaven, tattooed appearance. She and her son, [[Gerard Keay|Gerard]], frequently deal with [[Jurgen Leitner|Leitner]] books and artefacts in [[Mary Keay|Mary's]] [[Pinhole Books]] bookstore.
     - [[Mary Keay]]'s book which drops animal bones, known only as the Sanskrit poetry book, is connected to [[The Flesh]].
 - **Related Episodes:**
-    - [[MAG 17 - The Boneturner's Tale]]: [[The Bone Turner's Tale]] is left by [[Michael Crew]] in a library drop box.
+    - [[MAG 17 - The Boneturner's Tale]]: [[The Boneturner's Tale]] is left by [[Michael Crew]] in a library drop box.
     - [[MAG 46 - Literary Heights]]: [[Ex Altiora]] is acquired by [[Michael Crew]] and used to bind the [[Lichtenberg Figure]].
     - Further References see: [[List of Books]]
 - The "incident in 1994" was the destruction of [[Jurgen Leitner]]'s library, the work of several entities attacking his home. As a result, the library was burned to the ground.
