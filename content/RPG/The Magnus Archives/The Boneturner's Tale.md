@@ -3,6 +3,7 @@ title: The Boneturner's Tale
 draft: false
 tags:
   - tma
+  - artefact
 ---
 _This article is about the artefact, you may be looking for [[MAG 17 - The Boneturner's Tale|the episode]]_.
 

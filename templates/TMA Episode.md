@@ -9,6 +9,8 @@
 
 # Date of Event
 
+# Date of Recording
+
 # Locations
 - 
 
