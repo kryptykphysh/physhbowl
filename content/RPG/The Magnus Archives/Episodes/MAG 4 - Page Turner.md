@@ -1,4 +1,4 @@
-Statement of Dominic Swain, regarding a book briefly in his possession in the winter of 2012.
+Statement of [[Dominic Swain]], regarding a book briefly in his possession in the winter of 2012.
 ![[Mag_4_Page_turner.webp]]
 *Art by [all-spare-parts](https://all-spare-parts.tumblr.com/) on tumblr*
 # Case Number
@@ -6,7 +6,7 @@ Statement of Dominic Swain, regarding a book briefly in his possession in the wi
 # Audio By
 [[Jonathan Sims]]
 # Author
-Dominic Swain
+[[Dominic Swain]]
 # Date of Statement
 2013-06-28
 # Date of Event
@@ -59,7 +59,7 @@ In the police reports, [[Timothy Stoker|Tim]] found that [[Mary Keay|Mary]]'s 
 - **Related Entities:**
     - [[The Vast]]
     - [[The Eye]]
-    - [[The End] (minor)
+    - [[The End]] (minor)
 
 - **Related Beings:**
     - [[Michael Crew]] is a recurring [[Avatar]] of [[The Vast]].

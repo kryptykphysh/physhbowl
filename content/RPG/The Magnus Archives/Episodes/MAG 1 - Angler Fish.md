@@ -1,4 +1,4 @@
-Statement of Nathan Watts regarding an encounter on Old Fishmarket Close, Edinburgh.
+Statement of [[Nathan Watts]] regarding an encounter on Old Fishmarket Close, Edinburgh.
 
 ![[Mag_1.webp]]
 # Case Number
@@ -6,7 +6,7 @@ Statement of Nathan Watts regarding an encounter on Old Fishmarket Close, Edinbu
 # Audio By
 [[Jonathan Sims]]
 # Author
-Nathan Watts
+[[Nathan Watts]]
 # Date of Statement
 2012-04-22
 # Date of Event
