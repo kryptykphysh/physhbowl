@@ -54,7 +54,7 @@ Two years later, in late 2007, [[Christof Rudenko|Christof]]'s mother's health d
     - [[The Flesh]]
     - [[The Corruption]]
 - **Related Episodes:**
-    - [[MAG 130 - Meat"): [[Gertrude Robinson]] mentions this case, suggesting it was caused by 'esoteric fallout' from [[Gertrude Robinson|Gertrude's]] disruption of [[The Flesh]]'s ritual, 'The Last Feast', in Istanbul sometime earlier in 2007.
+    - [[MAG 130 - Meat]]: [[Gertrude Robinson]] mentions this case, suggesting it was caused by 'esoteric fallout' from [[Gertrude Robinson|Gertrude's]] disruption of [[The Flesh]]'s [[Rituals|ritual]], '[[The Last Feast]]', in Istanbul sometime earlier in 2007.
 - [[Toby Carlisle]] shares a last name with [[Benjamin Carlisle]] in [[MAG 58 - Trail Rations]].
 # Pre-Statement
 
