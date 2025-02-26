@@ -16,6 +16,7 @@ tags:
 | Date of Death  | After [[The Change]]        |
 | Cause of Death | Shot by [[Basira Hussain]]  |
 | Place of Death | Furnace [[Domains\|Domain]] |
+
 # Meta Information
 
 | Voice Actor      | Fay Roberts                  |
