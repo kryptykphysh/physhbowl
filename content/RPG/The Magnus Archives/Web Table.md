@@ -41,9 +41,9 @@ Later statements reveal it as being an embodiment of [[The Web.]] [[Adelard De
 - [[MAG 3 - Across the Street]]
 - [[MAG 8 - Burned Out]]
 - **[[MAG 35 - Old Passages]]**
-- **[[MAG 36: Taken Ill]]**
-- **[[MAG 39: Infestation]]**
-- **[[MAG 51: High Pressure]]**
-- [[MAG 59: Recluse]]
-- **[[MAG 78: Distant Cousin]]**
-- [[MAG 79: Hide and Seek]]
+- **[[MAG 36 - Taken Ill]]**
+- **[[MAG 39 - Infestation]]**
+- **[[MAG 51 - High Pressure]]**
+- [[MAG 59 - Recluse]]
+- **[[MAG 78 - Distant Cousin]]**
+- [[MAG 79 - Hide and Seek]]
