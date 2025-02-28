@@ -8,7 +8,10 @@ tags:
   - dnd
   - anticapitalist
 ---
- I tried to get a couple of AI agents to collate all the scandals and shitfuckery Hasbro and Wizards of the Coast have done over the past few years, but it proved almost impossible to get any output from them that expressed an opinion or disapproval. So, because I can't be arsed writing it myself, here's a milquetoast, "objective and factual," breakdown from an AI source:
+ I tried to get a couple of AI agents to collate all the scandals and shitfuckery Hasbro and Wizards of the Coast have done over the past few years, but it proved almost impossible to get any output from them that expressed an opinion or disapproval. So, because I can't be arsed writing it myself, here's a milquetoast, "objective and factual," breakdown from an AI source.
+ 
+ Alternatively, you can listen to [DND's lead designer on why 5E fell apart](https://youtu.be/aeQOVk-FDPI?si=2umlQKUY4LXbVcTW)
+ 
  > Dungeons & Dragons, a beloved tabletop RPG, has seen a surge in popularity in recent years. However, behind the scenes, controversies involving its parent companies, Hasbro and Wizards of the Coast (WotC), have sparked concern and outrage among fans. Are these controversies just growing pains, or are they indicative of deeper issues that could threaten the game's future?  
 >
 > One of the most significant controversies revolves around the **Open Game License (OGL)**. The OGL allowed third-party creators to publish content compatible with D&D, fostering a vibrant ecosystem of supplements and adventures. WotC's attempt to revise the OGL in late 2022/early 2023 was met with fierce opposition. The proposed changes were seen as restrictive and aimed at maximizing profits, potentially stifling creativity and harming the third-party market that had become integral to D&D's success. The backlash was significant, with many creators threatening to move to other systems. While WotC eventually backtracked somewhat, the damage to their reputation was considerable.  
