@@ -60,7 +60,7 @@ A light bulb goes out as [[Jonathan Sims|John]] is talking and [[Nikola Orsinov
 - **Related Entity:** [[The Buried]], [[The Vast]], and [[The Stranger]].
     - What [[Jackson Ellis]] witnessed appears to be [[The Sunken Sky]], [[The Buried]]'s [[Rituals|ritual]].
     - The old woman [[Jackson Ellis|Jackson]] sees at the end is [[Gertrude Robinson]], who has been investigating [[The Buried]]'s ritual. The young man with her is likely [[Jan Kilbride]], who she ultimately kills and dismembers before throwing into the Pit. His connection to [[The Vast]] causes [[The Sunken Sky]] to fail.
-T   - [[Jackson Ellis|Jackson]]’s immunity to the ritual may mean he was previously marked by [[The Vast]]—this would be consistent with his feeling out of place in Bucoda, WA, a stronghold of [[The Buried]], and would explain the interaction with the old man in the diner.
+    - [[Jackson Ellis|Jackson]]’s immunity to the ritual may mean he was previously marked by [[The Vast]]—this would be consistent with his feeling out of place in Bucoda, WA, a stronghold of [[The Buried]], and would explain the interaction with the old man in the diner.
 
 # Trivia
 

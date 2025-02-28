@@ -31,7 +31,7 @@ Assorted live statements
 
 ## [[Celia|Lynne Hammond]]
 
-[[Celia|Lynne Hammond]](https://the-magnus-archives.fandom.com/wiki/Celia "Celia"), interviewed by [[Martin Blackwood|Martin]], recalls a ghost she saw about a year ago in her flat in Clapton. She had been awoken several previous nights by a burning smell, but returned to sleep after realising there was no fire. The ghost took the appearance of a young woman on fire, and did not last long enough for Lynne to call the police. The apparition reached out to her, and was able to burn her, then disappeared. The appearances stopped once she moved from the flat.
+[[Celia|Lynne Hammond]], interviewed by [[Martin Blackwood|Martin]], recalls a ghost she saw about a year ago in her flat in Clapton. She had been awoken several previous nights by a burning smell, but returned to sleep after realising there was no fire. The ghost took the appearance of a young woman on fire, and did not last long enough for Lynne to call the police. The apparition reached out to her, and was able to burn her, then disappeared. The appearances stopped once she moved from the flat.
 
 [[Celia|Lynne]] has misunderstood the [[The Magnus Institute|Institute's]] purpose, and expects payment for her statement, [[Martin Blackwood|Martin]] explains that the [[The Magnus Institute|Institute]] does not pay for statements and awkwardly gave her some small change out of his own pocket.
 
