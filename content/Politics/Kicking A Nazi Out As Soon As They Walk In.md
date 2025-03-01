@@ -1,5 +1,5 @@
 ---
-title: How to publish Obsidian notes with Quartz on GitHub Pages
+title: Kicking A Nazi Out As Soon As They Walk In
 draft: false
 tags:
   - antifascist
