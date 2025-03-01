@@ -15,7 +15,7 @@ Statement of [[Elias Bouchard]], regarding the dreams of [[Jonathan Sims]], He
 ## Last Episode
 [[MAG 119 - Stranger and Stranger|Stranger and Stranger]]
 ## Next Episode
-[[MAG 121 - Far Away|Far Away]]
+[[Season 4 Trailer]]
 ## Release Date
 2018-09-27
 # Statement

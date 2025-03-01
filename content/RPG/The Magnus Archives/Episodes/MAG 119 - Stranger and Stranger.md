@@ -17,7 +17,7 @@
 2018-09-20
 # Unknown
 
-The Unknowing has begun, and the strangers are beginning their dance.
+[[The Unknowing]] has begun, and the strangers are beginning their dance.
 
 [[Jonathan Sims|John]] encounters [[Sarah Baldwin]], then [[Daniel Rawlings]] speaking in [[Sarah Baldwin|Sarah's]] voice, two people who have been taken by [[The Stranger]]. [[Jonathan Sims|John]] is convinced by [[Sarah Baldwin|Sarah]] that she is "Tim", and he gives her the detonator without knowing what it is.
 
@@ -41,7 +41,7 @@ There is an explosion and the tape cuts off.
 
 # Continuity
 
-- **Related Entity:** The Stranger
+- **Related Entity:** [[The Stranger]]
 
 # Trivia
 
