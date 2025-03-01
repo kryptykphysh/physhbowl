@@ -77,9 +77,9 @@ The Stranger is one of [[The Entities]]. It is the fear of things that are almos
 
 # Characters
 
-- [[NotThem:]] A creature (possibly several) that can kill a person and then take over their life. They will appear human, but with a different physical appearance than their victim. All photos and memories of the victim will alter to match its changed appearance, leading the victim's friends and family to believe no change has occurred and the NotThem is actually their loved one. Some records, such as magnetic tape, polaroid photos, and certain individuals' memories are resistant to this change.
+- [[NotThem]]: A creature (possibly several) that can kill a person and then take over their life. They will appear human, but with a different physical appearance than their victim. All photos and memories of the victim will alter to match its changed appearance, leading the victim's friends and family to believe no change has occurred and the NotThem is actually their loved one. Some records, such as magnetic tape, polaroid photos, and certain individuals' memories are resistant to this change.
 
-- [[Breekon & Hope]]: A pair of beings currently working as deliverymen that primarily deliver artefacts. The pair have had various other jobs, accents and identities in the past, and took their current names from [[Alfred Breekon]], the man who originally ran the delivery company 'Breekon and Hope'. They are affiliated with [[The Circus of the Other]] and partook in [[The Unknowing]].
+- [[Breekon & Hope]]: A pair of beings currently working as deliverymen that primarily deliver artefacts. The pair have had various other jobs, accents and identities in the past, and took their current names from [[Alfred Breekon]], the man who originally ran the delivery company 'Breekon and Hope'. They are affiliated with [[Circus of the Other|The Circus of the Other]] and partook in [[The Unknowing]].
 - [[Gregor Orsinov]]: Former ringmaster of [[The Circus of the Other]]. He created [[Nikola Orsinov]] by combining the skin of the [[Joseph Grimaldi]] and a mannequin.
 - [[Nikola Orsinov]]: A living mannequin wearing human skin. After being created she killed [[Gregor Orsinov]] and took over as the ringmaster of the circus, taking the position of lead dancer for [[The Unknowing]].
 - [[Nikolai Dennikin]]: Former calliophone player for [[The Circus of the Other]].
