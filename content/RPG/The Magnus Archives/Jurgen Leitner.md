@@ -11,8 +11,9 @@ He went into hiding after the destruction of his library in 1994 and eventually 
 - George Icarus
 # Biographical Information
 
-| Status         | Deceased                                 |
+|                |                                          |
 | -------------- | ---------------------------------------- |
+| Status         | Deceased                                 |
 | Gender         | Male                                     |
 | Pronouns       | He/Him                                   |
 | Place of Birth | Norway                                   |
@@ -21,8 +22,9 @@ He went into hiding after the destruction of his library in 1994 and eventually 
 | Place of Death | [[The Magnus Institute]]                 |
 # Meta Information
 
-| Voice Actor      | Paul Sims                 |
-| ---------------- | ------------------------- |
+|                  |                            |
+| ---------------- | -------------------------- |
+| Voice Actor      | Paul Sims                  |
 | First Mention    | [[MAG 4 - Page Turner]]    |
 | First Appearance | [[MAG 79 - Hide and Seek]] |
 | Statement(s)     | [[MAG 80 - The Librarian]] |

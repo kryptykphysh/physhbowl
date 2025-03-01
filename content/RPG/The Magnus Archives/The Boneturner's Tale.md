@@ -18,9 +18,9 @@ _The Boneturner's Tale_ is either written from the perspective of a pilgrim in�
 The book's exact effects are unknown, but after a time appears to distort the reader's appearance and give them control over the structure of bones.
 
 It also seems to cause other books in its vicinity to bleed.
-# Known Owners[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthe-magnus-archives.fandom.com%2Fwiki%2FThe_Boneturner%2527s_Tale%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
+# Known Owners
 
 - [[Jurgen Leitner]]
-- [[Michael Crew]] ([[MAG 17 - The Boneturner's Tale"]])
+- [[Michael Crew]] ([[MAG 17 - The Boneturner's Tale]])
 - Chiswick Public Library
 - [[Jared Hopworth]] ([[MAG 17 - The Boneturner's Tale]]))

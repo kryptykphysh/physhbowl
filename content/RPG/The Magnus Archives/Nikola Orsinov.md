@@ -10,16 +10,18 @@ tags:
 - "Megan" (possibly)
 # Biographical Information
 
-| Gender         | Ambiguous/Undefined/Plastic             |
+|                |                                         |
 | -------------- | --------------------------------------- |
+| Gender         | Ambiguous/Undefined/Plastic             |
 | Pronouns       | As Orsinov: She/It, As Grimaldi: He/Him |
 | Date of Death  | 7th August 2017                         |
 | Cause of Death | Explosion                               |
 | Place of Death | House of Wax Museum, Great Yarmouth     |
 # Meta Information
 
-| Voice Actor      | Jessica Law                       |
-| ---------------- | --------------------------------- |
+|                  |                                    |
+| ---------------- | ---------------------------------- |
+| Voice Actor      | Jessica Law                        |
 | First Mention    | [[MAG 83 - Drawing A Blank]]       |
 | First Appearance | [[MAG 97 - We All Ignore the Pit]] |
 # History

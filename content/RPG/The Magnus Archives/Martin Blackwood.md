@@ -13,15 +13,17 @@ tags:
 - In a relationship with [[Jonathan Sims]]
 # Biographical Information
 
-| Status        | Unknown |
+|               |         |
 | ------------- | ------- |
+| Status        | Unknown |
 | Gender        | Male    |
 | Pronouns      | He/Him  |
 | Date of Birth | 1987    |
 # Meta Information
 
-| Voice Actor      | Alexander J. Newall       |
-| ---------------- | ------------------------- |
+|                  |                            |
+| ---------------- | -------------------------- |
+| Voice Actor      | Alexander J. Newall        |
 | First Mention    | [[MAG 1 - Angler Fish]]    |
 | First Appearance | [[MAG 22 - Colony]]        |
 | Statement(s)     | [[MAG 22 - Colony]]        |

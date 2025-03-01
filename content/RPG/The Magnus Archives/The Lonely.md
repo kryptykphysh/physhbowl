@@ -45,23 +45,23 @@ Many entities prey on isolated victims or isolate victims while they are torment
 
 - [[MAG 66 - Held in Customs]] ([[A Disappearance]])
 - [[MAG 80 - The Librarian]] ([[A Disappearance]])
-- [[MAG 100 - I Guess You Had To Be There]] ([[partially]], [[Peter Lukas]])
-- [[MAG 123 - Web Development]] ([[mentioned]], [[Peter Lukas]])
-- [[MAG 126 - Sculptor's Tool]] ([[partially]], [[Peter Lukas]])
+- [[MAG 100 - I Guess You Had To Be There]] (partially, [[Peter Lukas]])
+- [[MAG 123 - Web Development]] (mentioned, [[Peter Lukas]])
+- [[MAG 126 - Sculptor's Tool]] (partially, [[Peter Lukas]])
 - [[MAG 134 - Time of Revelation]] ([[Martin Blackwood]], [[Peter Lukas]])
-- [[MAG 149 - Concrete Jungle]] ([[partially]], [[Martin Blackwood]])
-- [[MAG 151 - Big Picture]] ([[mentioned]], [[Peter Lukas]])
+- [[MAG 149 - Concrete Jungle]] (partially, [[Martin Blackwood]])
+- [[MAG 151 - Big Picture]] (mentioned, [[Peter Lukas]])
 - [[MAG 158 - Panopticon]] ([[The Lonely]], [[Martin Blackwood]], [[Peter Lukas]])
-- [[MAG 181 - Ignorance]] ([[Lonely painting]], [[mentioned]])
-- [[MAG 183 - Monument]] ([[Martin's Domain]], [[mentioned]])
-- [[MAG 188 - Centre of Attention]] ([[Domain]], [[mentioned]])
-- [[MAG 196 - This Old House]] ([[Mentioned]])
+- [[MAG 181 - Ignorance]] ([[Lonely Painting]], mentioned)
+- [[MAG 183 - Monument]] ([[Martin's Domain]], mentioned)
+- [[MAG 188 - Centre of Attention]] ([[Domain]], mentioned)
+- [[MAG 196 - This Old House]] (Mentioned)
 
 # Characters
 
 - [[Martin Blackwood]]: Groomed by [[Peter Lukas]] to serve the Lonely, as he required someone with the ability to bridge the gap between the Lonely and [[The Eye]] in order to utilise the power of [[Jonah Magnus]]' [[The Panopticon|panopticon]].
 - The [[Lukas Family]] worships the Lonely.
-    - [[Peter Lukas]]: Captain of _The Tundra_ and a particularly noteworthy [[avatar]] of the Lonely.
+    - [[Peter Lukas]]: Captain of _[[The Tundra]]_ and a particularly noteworthy [[avatar]] of the Lonely.
     - [[Mordechai Lukas]]: A member of the [[Lukas Family]], who knew [[Jonah Magnus]].
     - [[Conrad Lukas]]: A member of the [[Lukas Family]], who was responsible for the isolation study making up [[Carter Chilcott]]'s portion of the [[Daedalus]] mission.
     - [[Evan Lukas]]: A member of the [[Lukas Family]], set to be engaged to [[Naomi Herne]] before his untimely death.
@@ -94,7 +94,7 @@ Many entities prey on isolated victims or isolate victims while they are torment
 - Like [[The Fairchilds]] with [[The Vast]], the Lukases have been serving their entity for at least two centuries. However, "Fairchild" is apparently an assumed name, whereas the Lukases marry "spooky singles" and bear children with them.
     - While speaking with [[Martin Blackwood]], [[Simon Fairchild]], an avatar of [[The Vast]], implies that the Lonely and [[The Vast]] may have a mutually beneficial relationship, based on the grounds that being alone often makes the space you're in feel larger and very empty, while, conversely, the larger a space you're in, the easier it is to feel alone.
 - The Lonely, [[The Desolation]], and [[The Dark]] are all associated with cults. The [[Lukas Family]] is described by [[Evan Lukas]] as very "religious", [[The Desolation]] has [[The Cult of the Lightless Flame]], and [[The Dark]] has [[The People's Church of the Divine Host]]. Additionally, the descriptions of locations (particularly churches) magically changing to other locations appear to be connected to both the Lonely and [[The Dark]].
-    - The [[Lukas Family]] teamed up with both The Fairchilds and [[The People's Church of the Divine Host]] to send their avatars and victims to space aboard _[[The Daedalus]]._
+    - The [[Lukas Family]] teamed up with both the [[Fairchild Family|Fairchilds]] and [[The People's Church of the Divine Host]] to send their [[Avatars]] and victims to space aboard the _[[Daedalus]]._
 - The Lonely and [[The Buried]] seem to have several features in common. In [[MAG 13]], [[Naomi Herne]] describes the second half of her experience in ways more commonly associated with [[The Buried]]: thick fog pressing in and making it hard to breathe, open graves trying to suck her in, frequent mentions of dirt and pressure, and lost time/memories. In [[MAG 48]], [[Andrea Nunis]] describes being thirsty and hot in a manner reminiscent of the suffering from [[The Buried]] in [[MAG 66]] and [[MAG 132]]. (And, interestingly, [[Peter Lukas]] appears in [[MAG 66]] at the end of Vincent's ordeal.)
     - Conversely, [[MAG 2]], [[MAG 15]], [[MAG 71]], and [[MAG 129]] all describe ways [[The Buried]] isolated the statement givers, such as [[Joshua]] living completely alone in a large building, [[Laura and Kulbir]] being separated from their sisters, and several lone travellers being taken on the night train by [[The Buried]].
     - Anchors also seem to be effective in defeating both the Lonely and [[The Buried]]. [[Andrea Nunis|Andrea]] survives her experience by thinking of her mother as [[Gerry]] advised in a way similar to Kulbir's anchoring to his grandfather via the knife.

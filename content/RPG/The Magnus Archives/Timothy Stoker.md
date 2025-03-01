@@ -95,9 +95,7 @@ Italic marks episodes where Tim has read a statement. **Bold** marks where Ti
 - [[MAG 186: Quiet]] (mentioned)
 - [[MAG 192: An Appointment]] (mentioned)
 - [[MAG 200: Last Words]] (mentioned)
-
 # Trivia
-
 - Tim is attracted to both men and women.
 - Timothy Stoker was named after horror writer Bram Stoker and Tim Ledsam, who voices [[Jordan Kennedy]].
 - Tim is the second assistant of the original trio to die. His last words were, "I know."

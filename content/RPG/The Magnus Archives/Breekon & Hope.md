@@ -11,20 +11,22 @@ They were once members of [[The Circus of the Other]], though their history str
 - [[The Stranger]]
 # Biographical Information
 
-| Gender         | Appear male                                                |
-| -------------- | ---------------------------------------------------------- |
-| Pronouns       | As a pair: Plural They/Them, As individuals: He/Him        |
-| Date of Death  | 7th August 2017 (Hope)                                     |
-|                | Post-[[[The Change|Change]] (Breekon)                     |
-| Cause of Death | Killed by [[Alice Daisy Tonner|Daisy]] (Hope)             |
-|                | Killed by [[Jonathan Sims]] after [[The Change]] (Breekon) |
-| Place of Death | [[House of Wax]], Great Yarmouth (Hope)                    |
-|                | [[St. Bleedings Centre for Wellbeing]] (Breekon)           |
+|                |                                                            |                    |
+| -------------- | ---------------------------------------------------------- | ------------------ |
+| Gender         | Appear male                                                |                    |
+| Pronouns       | As a pair: Plural They/Them, As individuals: He/Him        |                    |
+| Date of Death  | 7th August 2017 (Hope)                                     |                    |
+|                | Post-[[[The Change                                         | Change]] (Breekon) |
+| Cause of Death | Killed by [[Alice Daisy Tonner                             | Daisy]] (Hope)     |
+|                | Killed by [[Jonathan Sims]] after [[The Change]] (Breekon) |                    |
+| Place of Death | [[House of Wax]], Great Yarmouth (Hope)                    |                    |
+|                | [[St. Bleedings Centre for Wellbeing]] (Breekon)           |                    |
 # Meta Information
 
-| Voice Actor      | Martin Corcoran (Breekon)                     |
-| ---------------- | --------------------------------------------- |
-|                  | Steven Violich (Hope)                         |
+|                  |                                                |
+| ---------------- | ---------------------------------------------- |
+| Voice Actor      | Martin Corcoran (Breekon)                      |
+|                  | Steven Violich (Hope)                          |
 | First Mention    | [[MAG 2 - Do Not Open]]                        |
 | First Appearance | [[MAG 35 - Old Passages]]                      |
 | Statement(s)     | [[MAG 96 - Return to Sender]] (Alfred Breekon) |

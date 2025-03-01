@@ -51,14 +51,14 @@ It is thought to be the newest of the entities, born from the fear created by th
 - [[MAG 171 - The Gardener]] ([[Jared Hopworth]], [[Domain]])
 - [[MAG 178 - The Processing Line]] ([[Domain]])
 
-## Other appearances[[]]([[https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthe-magnus-archives.fandom.com%2Fwiki%2FThe_Flesh%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit"]])
+## Other appearances
 
-- [[MAG 4 - Page Turner]] ([[Partial]], [[Sanskrit poetry book about dying animals]])
-- [[MAG 20 - Desecrated Host]] ([[Suspected]], [[cannibalism]])
-- [[MAG 35 - Old Passages]] ([[Partial]], [[Sanskrit poetry book about dying animals and a tunnel built by Robert Smirke]])
-- [[MAG 62 - First Edition]] ([[Partial]], [[Sanskrit poetry book about dying animals]])
-- [[MAG 91 - The Coming Storm]] ([[Partial]], [[The Boneturner's Tale]])
-- [[MAG 199 - Seeing it Through]] ([[Angela]], [[domain]], [[mentioned]])
+- [[MAG 4 - Page Turner]] (Partial, [[Sanskrit poetry book about dying animals]])
+- [[MAG 20 - Desecrated Host]] (Suspected, cannibalism)
+- [[MAG 35 - Old Passages]] (Partial, [[Sanskrit poetry book about dying animals]] and a tunnel built by [[Robert Smirke]])
+- [[MAG 62 - First Edition]] (Partial, [[Sanskrit poetry book about dying animals]])
+- [[MAG 91 - The Coming Storm]] (Partial, [[The Boneturner's Tale]])
+- [[MAG 199 - Seeing it Through]] ([[Angela]], [[Domains|domain]], mentioned)
 
 # Characters
 

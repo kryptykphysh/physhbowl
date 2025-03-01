@@ -19,16 +19,18 @@ tags:
 - In a relationship with [[Martin Blackwood]]
 # Biographical Information
 
-| Status         | Unknown         |
+|                |                 |
 | -------------- | --------------- |
+| Status         | Unknown         |
 | Gender         | Male            |
 | Pronouns       | He/Him          |
 | Date of Birth  | circa 1987      |
 | Place of Birth | Bournemouth, UK |
 # Meta Information
 
-| Voice Actor      | Jonathan Sims                      |
-| ---------------- | ---------------------------------- |
+|                  |                                     |
+| ---------------- | ----------------------------------- |
+| Voice Actor      | Jonathan Sims                       |
 | First Mention    | [[MAG 1 - Angler Fish]]             |
 | First Appearance | [[MAG 1 - Angler Fish]]             |
 | Statement(s)     | [[MAG 41 - Too Deep]]               |

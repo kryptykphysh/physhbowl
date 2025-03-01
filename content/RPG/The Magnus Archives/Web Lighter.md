@@ -14,11 +14,8 @@ tags:
 # Last Known Location
 Lent to [[Georgie Barker]]
 # Description
-
 A golden Zippo lighter with a spiderweb design.
-
 # History
-
 The lighter is delivered to [[The Magnus Institute]] by [[Breekon & Hope]] in [[MAG 35 - Old Passages]]. [[Jonathan Sims|John]] is out of his office when they arrive so [[Martin Blackwood]] receives the package in his stead. He places it in [[Jonathan Sims|John's]] desk and tells [[Jonathan Sims|John]] about it.
 
 [[Jonathan Sims|John]] forgets about the delivery and does not open it until the next week, when [[Timothy Stoker]] asks about it in [[MAG 36 - Taken Ill]].
@@ -35,8 +32,7 @@ In [[MAG 162 - A Cosy Cabin]], Martin mentions the lighter in passing.
 
 In [[MAG 197 - Connected]], [[Annabelle Cane]] reveals that the lighter is an anchor of The Web’s power that has allowed The Web and its [[Tape Recorders]] to track [[Jonathan Sims|John]]. She also intends for it to be used to blow up The Archives as part of her plan to move [[The Entities]] to a new dimension.
 
-In [[MAG 199 - Seeing it Through]], [[Jonathan Sims|John]] steps out of the tunnels to have a smoke, and uses the lighter. [[Georgie Barker|Georgie]] joins him, mentioning she took up smoking again, and asks if she can hang onto the lighter. [[Jonathan Sims|John]] absently agrees.
-
+In [[MAG 199 - Seeing it Through]], [[Jonathan Sims|John]] steps out of the tunnels to have a smoke, and uses the lighter. [[Georgie Barker|Georgie]] joins him, mentioning she took up smoking again, and asks if she can hang onto the lighter. [[Jonathan Sims|John]] absently agrees
 # Episode Appearances
 - [[MAG 35 - Old Passages]]
 - [[MAG 36 - Taken Ill]]

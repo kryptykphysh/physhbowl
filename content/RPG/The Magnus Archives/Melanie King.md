@@ -13,14 +13,16 @@ Melanie King is a paranormal investigator who runs the _[[Ghost Hunt UK]]_ You
 - [[Cult in the Post-Change World]] (Joint Leader)(former)
 # Biographical Information
 
-| Status   | Alive   |
+|          |         |
 | -------- | ------- |
+| Status   | Alive   |
 | Gender   | Female  |
 | Pronouns | She/her |
 # Meta Information
 
-| Voice Actor      | Lydia Nicholas                 |
-| ---------------- | ------------------------------ |
+|                  |                                 |
+| ---------------- | ------------------------------- |
+| Voice Actor      | Lydia Nicholas                  |
 | First Mention    | [[MAG 28 - Skintight]]          |
 | First Appearance | [[MAG 28 - Skintight]]          |
 | Statement(s)     | [[MAG 28 - Skintight]]          |

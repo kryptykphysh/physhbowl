@@ -13,8 +13,9 @@ Elias earned a [third class honours degree](https://en.wikipedia.org/wiki/Briti
 - [[The Eye]]
 # Biographical Information
 
-| Gender         | Male                                                  |
+|                |                                                       |
 | -------------- | ----------------------------------------------------- |
+| Gender         | Male                                                  |
 | Pronouns       | He/Him                                                |
 | Date of Death  | (Original Elias) 1996                                 |
 |                | ([[Jonah Magnus\|Jonah]]) Post-[[The Change\|Change]] |
@@ -23,15 +24,15 @@ Elias earned a [third class honours degree](https://en.wikipedia.org/wiki/Briti
 | Place of Death | ([[Jonah Magnus\|Jonah]]) [[The Panopticon]]          |
 # Meta Information
 
-
-| Voice Actor      | Ben Meredith                                                       |
-| ---------------- | ------------------------------------------------------------------ |
-| First Mention    | [[MAG 1 - Angler Fish]]                                             |
-| First Appearance | [[MAG 17 - The Boneturner's Tale]]                                  |
-| Statement(s)     | [[MAG 40 - Human Remains]]                                          |
+|                  |                                                                   |
+| ---------------- | ----------------------------------------------------------------- |
+| Voice Actor      | Ben Meredith                                                      |
+| First Mention    | [[MAG 1 - Angler Fish]]                                           |
+| First Appearance | [[MAG 17 - The Boneturner's Tale]]                                |
+| Statement(s)     | [[MAG 40 - Human Remains]]                                        |
 |                  | [[MAG 82 - The Eyewitnesses]] on behalf of [[Alice Daisy Tonner]] |
-|                  | [[MAG 120 - Eye Contact]]                                           |
-|                  | [[MAG 193 - A Stern Look]]                                          |
+|                  | [[MAG 120 - Eye Contact]]                                         |
+|                  | [[MAG 193 - A Stern Look]]                                        |
 # Description
 
 In [[MAG 192 - An Appointment]], during her job interview, [[Rosie Zampano|Rosie]] describes Elias Bouchard as seeming far too young for his role and having an old-fashioned haircut. She says his eyes are "cold and grey, and somehow so much older." In [[MAG 82: The Eyewitnesses]], [[Alice Daisy Tonner|Daisy]] calls him a "weird little freak".

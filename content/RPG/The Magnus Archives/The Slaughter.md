@@ -35,19 +35,19 @@ The Slaughter is frequently associated with music, in particular various kinds o
 - [[MAG 76 - The Smell of Blood]] ([[The Army Hospital train car]])
 - [[MAG 82 - The Eyewitnesses]] ([[The maimed figure]])
 - [[MAG 95 - Absent Without Leave]] ([[The Deserter]])
-- [[MAG 105 - Total War]] ([[Charles Fleming]], [[The _Nemesis_]])
-- [[MAG 125 - Civilian Casualties]] ([[An untitled paperback book]], [[Melanie King's surgery]])
-- [[MAG 137 - Nemesis]] ([[The _Nemesis_]], [[The Risen War]])
-- [[MAG 163 - In the Trenches]] ([[Domain]])
+- [[MAG 105 - Total War]] ([[Charles Fleming]], The _[[Nemesis]]_)
+- [[MAG 125 - Civilian Casualties]] ([[An untitled paperback book]], [[Melanie King]]'s surgery)
+- [[MAG 137 - Nemesis]] (The _[[Nemesis]]_, [[The Risen War]])
+- [[MAG 163 - In the Trenches]] ([[Domains|Domain]])
 
 ## Other Appearances
 
-- [[MAG 115 - Taking Stock]] ([[Firearm artefact]], [[mentioned]])
-- [[MAG 116 - The Show Must Go On]] ([[Partially; An unnamed avatar]])
-- [[MAG 117 - Testament]] ([[Partially; Melanie King's statement]])
-- [[MAG 128 - Heavy Goods]] ([[Knife artefact]], [[mentioned]])
-- [[MAG 181 - Ignorance]] ([[Blood money artefact]], [[mentioned]])
-- [[MAG 200 - Last Words]] ([[mentioned]])
+- [[MAG 115 - Taking Stock]] ([[Firearm artefact]], mentioned)
+- [[MAG 116 - The Show Must Go On]] (Partially; An unnamed [[Avatars|avatar]])
+- [[MAG 117 - Testament]] (Partially; [[Melanie King]]'s statement)
+- [[MAG 128 - Heavy Goods]] ([[Slaughter Knife|Knife artefact]], mentioned)
+- [[MAG 181 - Ignorance]] ([[Blood Money]] [[Artefacts|artefact]], mentioned)
+- [[MAG 200 - Last Words]] (mentioned)
 
 # Characters
 
@@ -62,10 +62,10 @@ The Slaughter is frequently associated with music, in particular various kinds o
 
 # Artefacts
 
-- A knife that drives the holder to kill anyone in sight before turning it upon themselves.
+- [[Slaughter Knife]]: A knife that drives the holder to kill anyone in sight before turning it upon themselves.
 - A train car from the 11th US Army Hospital train, which perpetually smells of blood. Opening the car reveals a pool of blood covering the floor of the car and a body bag, as well as the hostile spirit of a WWII medic driven mad by Slaughter.
 - An old paperback book capable of driving an entire village to slaughter each other by any means necessary.
-- A firearm of some sort sold to [[The Magnus Institute]] by [[Mikaele Salesa]]. Has a wooden handle with splinters that can infect people with the Slaughter's influence.
+- [[Slaughter Gun]]: A firearm of some sort sold to [[The Magnus Institute]] by [[Mikaele Salesa]]. Has a wooden handle with splinters that can infect people with [[The Slaughter]]'s influence.
 - [[Blood Money]]: A "leather pouch, filled with 1888 Morgan silver dollars." Sold by [[Mikaele Salesa]].
 
 # Locations
@@ -79,6 +79,6 @@ The Slaughter's Ritual is [[The Risen War]] and was last attempted during World 
 
 # Connections to other Entities
 
-- The Slaughter stopped [[The Stranger's]] Unknowing in 1787. These two entities also share an affinity for music.
+- The Slaughter stopped [[The Stranger]]'s [[The Unknowing|Unknowing]] in 1787. These two entities also share an affinity for music.
     - [[Sarah Baldwin]], an agent of [[The Stranger]] was attacked for trespassing at a military hospital connected with The Slaughter while recording for Ghost Hunt UK, though it is unsure if her attacker was actually connected with The Slaughter.
 - Between seasons 3 and 4, [[Melanie]] protected [[The Magnus Institute]] using Slaughter-related abilities, though [[Melanie]] may not have been controlled by The Slaughter.

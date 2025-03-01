@@ -4,9 +4,7 @@ draft: false
 tags:
   - tma
 ---
- 
 This is a list of paranormal books that have been mentioned or encountered. It is not yet known how many of these books exist in the world, although [[Jurgen Leitner]] mentioned having 978 in his library at its height.
-
 # Overview
 
 Due to [[Jurgen Leitner|Leitner]] very proudly pasting bookplates inscribed with "From the library of Jurgen Leitner" into every book he owned, books with paranormal properties are often referred to as "Leitners" whether or not they were actually ever in his possession. It is unclear if they were referred to as something else before him, or if they were thought of as "each one a thing unto itself". [[Robert Smirke]] called them "secret" books.

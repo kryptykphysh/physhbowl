@@ -4,15 +4,15 @@ draft: false
 tags:
   - tma
 ---
- 
 Gertrude Robinson was the Head Archivist of the [[Magnus Institute]] before [[Jonathan Sims]]. She was directly responsible for thwarting at least five different [[Rituals]] and many other paranormal threats.
 # Aliases
 - [[The Archivist]]
 - [[The Magnus Institute]]
 # Biographical Information
 
-| Gender         | Female                                         |
+|                |                                                |
 | -------------- | ---------------------------------------------- |
+| Gender         | Female                                         |
 | Pronouns       | She/Her                                        |
 | Date of Birth  | Approx. 1945                                   |
 | Date of Death  | 15th May 2015                                  |
@@ -20,8 +20,9 @@ Gertrude Robinson was the Head Archivist of the [[Magnus Institute]] before [
 | Place of Death | [[The Magnus Institute]]                       |
 # Meta Information
 
-| Voice Actor      | Sue Sims               |
-| ---------------- | ---------------------- |
+|                  |                         |
+| ---------------- | ----------------------- |
+| Voice Actor      | Sue Sims                |
 | First Mention    | [[MAG 1 - Angler Fish]] |
 | First Appearance | [[MAG 44 - Tightrope]]  |
 # Description

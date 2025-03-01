@@ -10,15 +10,17 @@ Michael Shelley was one of [[Gertrude Robinson's]] archival assistants. Shelle
 - [[The Magnus Institute]]
 # Biographical Information
 
-| Status         | Deceased                                                   |
-| -------------- | --------------------------------------------------------- |
-| Gender         | Ma                                                         |
-| Pronouns       | He/                                                        |
-| Cause of Dea Sacrificed to [[The Distortion]] by [[Gertrude Robinson]] n]]  |
+|                                                                        |          |
+| ---------------------------------------------------------------------- | -------- |
+| Status                                                                 | Deceased |
+| Gender                                                                 | Male     |
+| Pronouns                                                               | He/Him   |
+| Cause of Dea Sacrificed to [[The Distortion]] by [[Gertrude Robinson]] |          |
 # Meta Information
 
-| Voice Actor      | Luke Booys               |
-| ---------------- | ------------------------ |
+|                  |                           |
+| ---------------- | ------------------------- |
+| Voice Actor      | Luke Booys                |
 | First Appearance | [[MAG 99 - Dust to Dust]] |
 # History
 

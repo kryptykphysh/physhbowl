@@ -27,7 +27,7 @@ Most entities are near mindless; unable to conceptualize time or themselves and 
 
 # Entities
 
-> _“Like colours, but if colours hated me.”_  
+> _"Like colours, but if colours hated me."_  
 > - [[Jonathan Sims]], Head Archivist of The Magnus Institute, London, [[MAG 111]]
 
 ## Smirke's List

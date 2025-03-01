@@ -14,14 +14,16 @@ She naturally has a slight Scouse accent that she at one point took great pains 
 - [[Cult in the Post-Change World]] (Leader)
 # Biographical Information
 
-| Status   | Alive   |
+|          |         |
 | -------- | ------- |
+| Status   | Alive   |
 | Gender   | Female  |
 | Pronouns | She/Her |
 # Meta Information
 
-| Voice Actor      | Sasha Sienna                       |
-| ---------------- | ---------------------------------- |
+|                  |                                     |
+| ---------------- | ----------------------------------- |
+| Voice Actor      | Sasha Sienna                        |
 | First Mention    | [[MAG 28 - Skintight]]              |
 | First Appearance | [[MAG 81 - A Guest For Mr. Spider]] |
 | Statment(s)      | [[MAG 94 - Dead Woman Walking]]     |

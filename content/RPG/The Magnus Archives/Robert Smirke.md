@@ -15,8 +15,9 @@ He also attempts to categorise The Entities into "Smirke's fourteen" to help und
 
 ## Biographical Information
 
-| Affiliation    | Balance                     |
+|                |                             |
 | -------------- | --------------------------- |
+| Affiliation    | Balance                     |
 | Status         | Dead                        |
 | Gender         | Male                        |
 | Pronouns       | He/Him                      |
@@ -26,8 +27,9 @@ He also attempts to categorise The Entities into "Smirke's fourteen" to help und
 | Place of Death | Cheltenham, Gloucestershire |
 ## Meta Information
 
-| First Mention | [[A Distortion]]          |
+|               |                           |
 | ------------- | ------------------------- |
+| First Mention | [[A Distortion]]          |
 | Statement(s)  | [[The Architect of Fear]] |
 
 ## Buildings Designed by Smirke

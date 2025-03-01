@@ -11,8 +11,9 @@ tags:
 - [[The Eye]]
 # Biographical Information
 
-| Status        | Deceased                                                                   |
+|               |                                                                            |
 | ------------- | -------------------------------------------------------------------------- |
+| Status        | Deceased                                                                   |
 | Gender        | Male                                                                       |
 | Pronouns      | He/Him                                                                     |
 | Date of Birth | Late 1980's                                                                |
@@ -20,9 +21,9 @@ tags:
 | Second Death  | Burned by [[Jonathan Sims]] in August 2017                                 |
 # Meta Information
 
-
-| Voice Actor      | Jon Gracey                   |
-| ---------------- | ---------------------------- |
+|                  |                               |
+| ---------------- | ----------------------------- |
+| Voice Actor      | Jon Gracey                    |
 | First Mention    | [[MAG 4 - Page Turner]]       |
 | First Appearance | [[MAG 111 - Family Business]] |
 | Statement(s)     | [[MAG 111 - Family Business]] |

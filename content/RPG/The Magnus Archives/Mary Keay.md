@@ -10,8 +10,9 @@ tags:
 - [[Pinhole Books]]
 # Biographical Information
 
-| Status         | Deceased                                                    |
+|                |                                                             |
 | -------------- | ----------------------------------------------------------- |
+| Status         | Deceased                                                    |
 | Gender         | Female                                                      |
 | Pronouns       | She/Her                                                     |
 | Date of Birth  | 1924 or 1946                                                |
@@ -20,8 +21,9 @@ tags:
 | Second Death   | Destroyed by [[Gertrude Robinson]] in 2013                  |
 # Meta Information
 
-| Voice Actor      | Carrie Cohen              |
-| ---------------- | ------------------------- |
+|                  |                            |
+| ---------------- | -------------------------- |
+| Voice Actor      | Carrie Cohen               |
 | First Mention    | [[MAG 4 - Page Turner]]    |
 | First Appearance | [[MAG 62 - First Edition]] |
 | Statement(s)     | [[MAG 62 - First Edition]] |
