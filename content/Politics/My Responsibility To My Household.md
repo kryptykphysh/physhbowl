@@ -5,6 +5,7 @@ tags:
   - antifascist
   - family
   - safespace
+  - nazi
 ---
 I've had cause recently to reflect on my past, present and how I want to go into the future. I don't think that I'm unusual in saying there are things I've done in the past that I think I could have dealt with better. I hope that I'm a better person than I was then, and more committed to trying to continue to do better in the future.
 

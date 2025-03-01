@@ -9,6 +9,6 @@ This site exists as my attempt at a [Digital Garden](https://maggieappleton.com/
 [Quartz](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages) then takes that vault and syncs it up to a [Github Repository](https://github.com/kryptykphysh/physhbowl) that has a Github Action to publish the branch as a Github Page.
 Which is nice.
 # What is this?
-- Coding
-- Politics
+- [[content/Coding/index|Coding]]
+- [[content/Politics/index|Politics]]
 - [[Roleplaying Games]]
