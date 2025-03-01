@@ -29,9 +29,9 @@ Late November 2010
 
 - In [[MAG 5 - Thrown Away]], where [[Alan Parfitt]] went missing in 2008, not 2009. (Reported by [[Josh Cole]], a student using [[The Magnus Institute]]'s resources for a dissertation.)
 - In [[MAG 9 - A Father's Love]] [[Jonathan Sims|John]] referred to [[MAG 7 - The Piper|Case 9220611]] as Case 1106922 (Reported by [[Samantha Emery]], who is writing PhD in Manifestations), and the case numbers for the [[Hill Top Road]] Hauntings ([[MAG 8 - Burned Out]],  are also a mess.
-- In [[MAG 23 - Schwartzwald") it is unclear if the name of [[Albrecht von Closen]]'s wife is Clara or Carla.
+- In [[MAG 23 - Schwartzwald]] it is unclear if the name of [[Albrecht von Closen]]'s wife is Clara or Carla.
 
-[[Jonathan Sims|John]] says he will not rerecord the cases, and that [[Gertrude Robinson|Gertrude]]'s numbering system is #YYYDDMM. He notes that he only uses the tape recorder for files "Too stubborn to work on anything else." and that [[[[Elias Bouchard|Elias]]]](https://the-magnus-archives.fandom.com/wiki/[[Elias Bouchard|Elias]]_Bouchard "[[Elias Bouchard|Elias]] Bouchard") has provided them with extra fire extinguishers for the [[Silver Worm]] infestation.
+[[Jonathan Sims|John]] says he will not rerecord the cases, and that [[Gertrude Robinson|Gertrude]]'s numbering system is #YYYDDMM. He notes that he only uses the tape recorder for files "Too stubborn to work on anything else." and that [[Elias Bouchard|Elias]] has provided them with extra fire extinguishers for the [[Silver Worm]] infestation.
 
 # Statement
 
