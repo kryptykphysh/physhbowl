@@ -3,6 +3,8 @@ title: The Eye
 draft: false
 tags:
   - tma
+aliases:
+  - Beholding
 ---
  ![[The_Eye.webp]]
  *Entity inspired Tarot by Grace Holsten*

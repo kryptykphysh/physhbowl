@@ -4,6 +4,10 @@ draft: false
 tags:
   - rpg
   - tma
+aliases:
+  - Fears
+  - Entities
+  - Powers
 ---
 > _"Imagine you are an ant, and you have never before seen a human. Then one day, into your colony, a huge fingernail is thrust, scraping and digging. You flee to another entrance, only to be confronted by a staring eye gazing at you. You climb to the top, trying to find escape, and above, you can see the vast, dark shadow of a boot falling upon you. Would that ant be able to construct these things into the form of a single human being? Or would it believe itself to be under attack by three different, equally terrible, but very distinct assailants?"  
 > - [[Jurgen Leitner]], [[MAG 80]]_
