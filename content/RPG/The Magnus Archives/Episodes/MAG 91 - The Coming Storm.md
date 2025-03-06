@@ -46,7 +46,7 @@ He does not remember the night of the storm in [[MAG 46 - Literary Heights]], b
 
 He admits that he may have thrown [[Grant Walker]] off of the Tour Montparnasse in [[MAG 75 - A Long Way Down]], but it is hard to keep track.
 
-[[Michael Crew|Crew]] releases [[Jonathan Sims|John]] from whatever hold he had on [[The Archivist]], and [[Jonathan Sims|John]] gasps for air.
+[[Michael Crew|Crew]] releases [[Jonathan Sims|John]] from whatever hold he had on [[Jonathan Sims|The Archivist]], and [[Jonathan Sims|John]] gasps for air.
 
 # Post-Statement
 
@@ -58,7 +58,7 @@ The recorder turns on by itself as [[Alice Daisy Tonner|Daisy]] and [[Jonathan S
 
 [[Jonathan Sims|John]] compels [[Alice Daisy Tonner|Daisy]] to explain why she is doing this, but she defies him. As she is poised to kill him, holding him by the throat off the ground, [[Basira]](https://the-magnus-archives.fandom.com/wiki/Basira_Hussain "Basira Hussain") appears, telling [[Alice Daisy Tonner|Daisy]] to put him down. Basira says she thought [[Alice Daisy Tonner|Daisy]] only killed monsters, and [[Alice Daisy Tonner|Daisy]] says that [[Jonathan Sims|John]] is one, because he is able to compel people to tell their stories.
 
-[[Alice Daisy Tonner|Daisy]] says she is going to kill him because he is a murderer, but [[The Archivist]] says he believes [[Elias Bouchard|Elias]] killed [[Jurgen Leitner|Leitner]] and [[Gertrude Robinson|Gertrude]]. [[Basira Hussain|Basira]] suggests [[Alice Daisy Tonner|Daisy]] use [[Jonathan Sims|John]]'s power to get the truth from [[Elias Bouchard|Elias]]. Reluctantly, [[Alice Daisy Tonner|Daisy]] agrees, telling [[Jonathan Sims|John]] to get a spade to bury [[Michael Crew|Crew]].
+[[Alice Daisy Tonner|Daisy]] says she is going to kill him because he is a murderer, but [[Jonathan Sims|The Archivist]] says he believes [[Elias Bouchard|Elias]] killed [[Jurgen Leitner|Leitner]] and [[Gertrude Robinson|Gertrude]]. [[Basira Hussain|Basira]] suggests [[Alice Daisy Tonner|Daisy]] use [[Jonathan Sims|John]]'s power to get the truth from [[Elias Bouchard|Elias]]. Reluctantly, [[Alice Daisy Tonner|Daisy]] agrees, telling [[Jonathan Sims|John]] to get a spade to bury [[Michael Crew|Crew]].
 
 # Continuity
 - This is where [[Jonathan Sims|John]] is marked by [[The Vast]].

@@ -1,4 +1,4 @@
-Considerations of [[The Flesh]]. Recorded by [[The Archivist]], in Situ.
+Considerations of [[The Flesh]]. Recorded by [[Jonathan Sims|The Archivist]], in Situ.
 ![[MAG_171_The_bone_rose.webp]]
 *Gristleium Patricia, commonly known as the Bone Rose*
 # Case Number

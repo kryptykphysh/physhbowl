@@ -55,7 +55,7 @@ This is the start of [[Jonathan Sims|John]]'s interest in the supernatural, and 
     - [[The End]]
 - **Related Beings:**
     - [[Georgie Barker|Georgie]] had an encounter with [[The End]] in University. After she is touched by an animated cadaver used in anatomy class, [[Georgie Barker|Georgie]] loses the ability to fear. She is one of the few people not affected by [[The Change]]. [[Jonathan Sims|John]] and [[Georgie Barker|Georgie]] used to date.
-- The encounter with [[A Guest for Mr. Spider]] marks [[Jonathan Sims|John]] with [[The Web]] as needed for [[The Mass Ritual]]. This was his first marking and one of the reasons [[Elias Bouchard|Elias]] chose [[Jonathan Sims|John]] for the role of [[The Archivist]].
+- The encounter with [[A Guest for Mr. Spider]] marks [[Jonathan Sims|John]] with [[The Web]] as needed for [[The Mass Ritual]]. This was his first marking and one of the reasons [[Elias Bouchard|Elias]] chose [[Jonathan Sims|John]] for the role of [[Jonathan Sims|The Archivist]].
 - [[Jonathan Sims|John]]'s current marks are:
     - [[The Web]] ([[A Guest for Mr. Spider]], c. 1995)
     - [[The Corruption]] ([[Jane Prentiss]] attack, [[MAG 39 - Infestation]])

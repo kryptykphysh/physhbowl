@@ -1,4 +1,4 @@
-Considerations of Justice. Audio recorded by [[The Archivist]], in situ.
+Considerations of Justice. Audio recorded by [[Jonathan Sims|The Archivist]], in situ.
 ![[MAG_179.webp]]
 *Image by [@Mollish_](https://twitter.com/Mollish_/status/1307194812399890432) on Twitter*
 # Case Number

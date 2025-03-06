@@ -1,4 +1,4 @@
-An examination of industrial meat processes. Audio recorded by [[The Archivist]], in situ.
+An examination of industrial meat processes. Audio recorded by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
 ########-18
 # Audio By

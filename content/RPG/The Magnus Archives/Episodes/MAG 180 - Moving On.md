@@ -1,4 +1,4 @@
-Considerations of grief and respite. Audio recorded by [[The Archivist]], in situ.
+Considerations of grief and respite. Audio recorded by [[Jonathan Sims|The Archivist]], in situ.
 ![[MAG_180_Clios_graveyard.webp]]
 *photo by [Clío, Haver Of Eyes](https://www.instagram.com/j0e_sp0oky/)*
 # Case Number

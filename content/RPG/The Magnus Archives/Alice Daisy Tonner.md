@@ -103,7 +103,7 @@ Since [[MAG 61]], Daisy and [[Jonathan Sims|John]] have shared a nightmare abou
 
 > _The rain is still there, though it is empty. The long and desolate road, slick with the downpour. A police car's lights flashing over the unmoving van. The doors are open, and the two familiar statues stand on either side of the well-worn wooden box. He looks around, his eyes scanning this forever road and the skies of iron grey, looking for her, but she is not there._
 
-> _[[The Archivist]] expects—he hopes—to find the violence in her looking back at him. Hungry for pursuit and murder. But the emptiness of the place is complete. The only sound is the gentle singing of the box and the pounding, bitter rain._
+> _[[Jonathan Sims|The Archivist]] expects—he hopes—to find the violence in her looking back at him. Hungry for pursuit and murder. But the emptiness of the place is complete. The only sound is the gentle singing of the box and the pounding, bitter rain._
 
 > _He knows the writing on the coffin has changed, though it is still carved deep into the splintered wood: 'I AM FOR YOU.' He knows it is not addressed to him, but he reaches down and pulls the chains off all the same. It opens, and he walks slowly down the steps, into the earth. But even as it closes above him, the great shadow still sees him. There is nowhere in this universe that it would not blot out the sky._
 

@@ -53,5 +53,5 @@ Suddenly, [[Jonathan Sims|John]] is able to feel his anchor better, and he guide
 
 # Trivia
 
-- Many fans were curious about the use of the pronoun, "their," to describe [[Jonathan Sims|John]] in the show notes. Jonny Sims has clarified on Twitter that this was not indicative of any deeper canon meanings, but as [[The Archivist]]'s gender would likely be unimportant to the plot, there is also nothing to contradict a non-binary interpretation of the character.
+- Many fans were curious about the use of the pronoun, "their," to describe [[Jonathan Sims|John]] in the show notes. Jonny Sims has clarified on Twitter that this was not indicative of any deeper canon meanings, but as [[Jonathan Sims|The Archivist]]'s gender would likely be unimportant to the plot, there is also nothing to contradict a non-binary interpretation of the character.
 - This is the first time [[Jonathan Sims|John]] is confirmed to have physically entered an entity and only one of two such incidents (along with [[The Lonely]].) It is possible he may have been inside [[The Stranger]] in [[MAG 119 - Stranger and Stranger]] and [[The Eye]] as documented in [[MAG 120 - Eye Contact]], though these are unconfirmed.

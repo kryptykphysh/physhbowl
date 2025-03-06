@@ -32,7 +32,7 @@ They sacrificed the [[Still And Lightless Beast]] that had previously harassed
 
 Four days before the eclipse, the ritual in London was disrupted, and [[Maxwell Rayner|Rayner]] began to grow uneasy. One satellite location stopping should not have disrupted the main ritual, but gradually other congregations also began to fall silent. [[Manuela Dominguez|Manuela]] used their human sacrifices to maintain the ritual until the moment of the eclipse, when she felt [[The Dark]] manifest in the world. However, after a few moments, it vanished, leaving many of the congregation dead or wounded from the brush with their god.
 
-In the following weeks, the survivors squabbled over what went wrong. [[Maxwell Rayner|Rayner]] took the bulk of them back to Britain to find a new host, leaving [[Manuela Dominguez|Manuela]] in [[Ny-Ålesund]] to tend the [[Dark Star]]. She believes that [[The Archivist]] killed the others, and that [[Jonathan Sims|John]] and Basira have come to finish the job.
+In the following weeks, the survivors squabbled over what went wrong. [[Maxwell Rayner|Rayner]] took the bulk of them back to Britain to find a new host, leaving [[Manuela Dominguez|Manuela]] in [[Ny-Ålesund]] to tend the [[Dark Star]]. She believes that [[Jonathan Sims|The Archivist]] killed the others, and that [[Jonathan Sims|John]] and Basira have come to finish the job.
 
 ## Post-Statement[[]](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fthe-magnus-archives.fandom.com%2Fwiki%2FMAG_143%3A_Heart_of_Darkness%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
 

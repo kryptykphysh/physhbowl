@@ -43,7 +43,7 @@ One morning, the knocking had stopped and after [[Martin Blackwood|Martin]] care
 
 [[Jonathan Sims]] offers [[Martin Blackwood|Martin]] a sealed room to stay in in the Archives, and says he will ask [[Elias Bouchard]] to increase security. He explains to [[Martin Blackwood|Martin]] that he has been getting texts from [[Martin Blackwood|Martin]]'s phone, saying he was ill or may have caught some parasite, presumably from [[Jane Prentiss|Jane]].
 
-As they speak, [[Jonathan Sims|John]] receives another text from [[Martin Blackwood|Martin]]'s phone, saying, "Keep him, we have had our fun. He will want to see it when [[The Archivist]]'s crimson fate arrives." [[Jonathan Sims|John]] resolves to get better security in the Archives and to tell [[Timothy Stoker|Tim]] and [[Sasha James|Sasha]] about what happened.
+As they speak, [[Jonathan Sims|John]] receives another text from [[Martin Blackwood|Martin]]'s phone, saying, "Keep him, we have had our fun. He will want to see it when [[Jonathan Sims|The Archivist]]'s crimson fate arrives." [[Jonathan Sims|John]] resolves to get better security in the Archives and to tell [[Timothy Stoker|Tim]] and [[Sasha James|Sasha]] about what happened.
 
 # Continuity
 - **Related Entity:**

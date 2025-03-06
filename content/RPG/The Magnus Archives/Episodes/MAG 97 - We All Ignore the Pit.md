@@ -52,7 +52,7 @@ Although [[Jackson Ellis|Jackson]] is alive, he is not willing to give any more 
 
 A light bulb goes out as [[Jonathan Sims|John]] is talking and [[Nikola Orsinov]] appears. She says that she killed her father, [[Gregor Orsinov]], by pulling him apart and used all the bits. [[Jonathan Sims|John]] notes that she does not sound Russian, to which she replies she is borrowing someone else's voicebox: it is hard to sound like anything when you are plastic.
 
-[[Nikola Orsinov|Nikola]] explains that she is not going to kill [[Jonathan Sims|John]], but after he attacked [[Sarah Baldwin]], [[Nikola Orsinov|Nikola]] decided that she wanted to talk to [[The Archivist]]. She says that she wants the old skin which [[Gertrude Robinson|Gertrude]] has hidden, explaining that she wants to wear it as she dances the world anew.
+[[Nikola Orsinov|Nikola]] explains that she is not going to kill [[Jonathan Sims|John]], but after he attacked [[Sarah Baldwin]], [[Nikola Orsinov|Nikola]] decided that she wanted to talk to [[Jonathan Sims|The Archivist]]. She says that she wants the old skin which [[Gertrude Robinson|Gertrude]] has hidden, explaining that she wants to wear it as she dances the world anew.
 
 [[Nikola Orsinov|Nikola]] grabs him by the throat, saying he has got until she changes her mind to find the skin.
 

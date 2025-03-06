@@ -1,4 +1,4 @@
-Ruminations on identity and the lack thereof. Audio recording by [[The Archivist]], in situ.
+Ruminations on identity and the lack thereof. Audio recording by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
   
 ########-5

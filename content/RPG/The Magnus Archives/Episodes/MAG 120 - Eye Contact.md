@@ -30,13 +30,13 @@ First, [[Dr. Lionel Elliott]]([[MAG 34 - Anatomy Class]]) tries to negotiate w
 
 He watches what would normally be [[Breekon and Hope]] allowing [[Isaac Masters]]([[MAG 61 - Hard Shoulder]]) to enter [[The Coffin], but does not see [[Alice Daisy Tonner|Daisy]]. He expects to see the violence in her. But, the place is empty, save for the singing of [[The Coffin]], the words on which have been replaced with, "I am for you". Though the words are not for him, he opens and enters the coffin. Even though he is now below ground in the tunnels, he is watched by the eye.
 
-Below ground, [[The Archivist]] enters a subway ([[MAG 71 - Underground]]), meeting [[Karolina Górka]]. She is stationary and relaxed, even though she is trapped in the warped remains of the train. Even though the train begins to move, [[The Archivist]] is not afraid of the train. Rather, he fears the unblinking all-seeing thing above. He continues to watch as [[Karolina Górka]]'s crushed. An advert says "[[MAG 88 - Dig|Dig]]".
+Below ground, [[Jonathan Sims|The Archivist]] enters a subway ([[MAG 71 - Underground]]), meeting [[Karolina Górka]]. She is stationary and relaxed, even though she is trapped in the warped remains of the train. Even though the train begins to move, [[Jonathan Sims|The Archivist]] is not afraid of the train. Rather, he fears the unblinking all-seeing thing above. He continues to watch as [[Karolina Górka]]'s crushed. An advert says "[[MAG 88 - Dig|Dig]]".
 
 There is a [[MAG 47 - The New Door|yellow door]] in front of him. He chooses not to open it, as he knows it no longer has what it once held, and he is afraid of what it may now contain.
 
-[[The Archivist]] turns around, and sees [[Jordan Kennedy]], begging him for help as [[MAG 55 - Pest Control|ants eat him alive]]. An incinerator door rises in front of him. [[Jordan Kennedy|Jordan]] and [[The Archivist]] watch [[Jane Prentiss]] turned to ash in the incinerator. [[Jordan Kennedy|Jordan]] is not sure whether he fears [[Jane Prentiss|Jane]] or [[Jonathan Sims|John]] more. [[Jonathan Sims|John]] wills the dream to stop, but he cannot. He longs for the fiery dreams of [[Jude Perry]], but she could block him out once she knew [[Jonathan Sims|John]] was watching.
+[[Jonathan Sims|The Archivist]] turns around, and sees [[Jordan Kennedy]], begging him for help as [[MAG 55 - Pest Control|ants eat him alive]]. An incinerator door rises in front of him. [[Jordan Kennedy|Jordan]] and [[Jonathan Sims|The Archivist]] watch [[Jane Prentiss]] turned to ash in the incinerator. [[Jordan Kennedy|Jordan]] is not sure whether he fears [[Jane Prentiss|Jane]] or [[Jonathan Sims|John]] more. [[Jonathan Sims|John]] wills the dream to stop, but he cannot. He longs for the fiery dreams of [[Jude Perry]], but she could block him out once she knew [[Jonathan Sims|John]] was watching.
 
-[[The Archivist]] watches [[Julia Montauk]] and [[Trevor Herbert]] stalk [[Outer Bay Shipping]] with a look that reminds him of [[Alice Daisy Tonner|Daisy]]. They are stalking [[The Peoples' Church of the Divine Host]]. [[Jonathan Sims|John]] is noticed watching, but the [[The Hunt|Hunters]] cannot catch his scent.
+[[Jonathan Sims|The Archivist]] watches [[Julia Montauk]] and [[Trevor Herbert]] stalk [[Outer Bay Shipping]] with a look that reminds him of [[Alice Daisy Tonner|Daisy]]. They are stalking [[The Peoples' Church of the Divine Host]]. [[Jonathan Sims|John]] is noticed watching, but the [[The Hunt|Hunters]] cannot catch his scent.
 
 [[Naomi Herne]]--from the bottom of a grave in a foggy cemetery--begs to be released, but [[Jonathan Sims|John]] can only watch. He attempts to ignore the eye in the sky.
 
@@ -48,7 +48,7 @@ He looks up and sees [[The Eye|The Beholding]], and starts the dream over again
 
 [[Martin Blackwood|Martin]] enters with a police inspector, and [[Elias Bouchard|Elias]] gives his condolences for what happened to [[Timothy Stoker|Tim]] and [[Alice Daisy Tonner|Daisy]]. The inspector places [[Elias Bouchard|Elias]] under arrest for the murder of [[Jurgen Leitner|Leitner]], which [[Elias Bouchard|Elias]] was so kind as to do on tape. [[Elias Bouchard|Elias]] hands over a USB drive of blackmail on the Metropolitan Police in exchange for leniency and is led out of The Archives in handcuffs.  
 
-[[Peter Lukas]] appears and informs [[Martin Blackwood|Martin]] that he will be taking over the administration of the [[The Magnus Institute|Institute]]. Before [[Martin Blackwood|Martin]] leaves, [[Peter Lukas|Peter]] says he would be keen for any updates on [[The Archivist]]'s health. He then states they will be going to, "great things".
+[[Peter Lukas]] appears and informs [[Martin Blackwood|Martin]] that he will be taking over the administration of the [[The Magnus Institute|Institute]]. Before [[Martin Blackwood|Martin]] leaves, [[Peter Lukas|Peter]] says he would be keen for any updates on [[Jonathan Sims|The Archivist]]'s health. He then states they will be going to, "great things".
 
 # Continuity
 - **Related Entity:** [[The Eye]]

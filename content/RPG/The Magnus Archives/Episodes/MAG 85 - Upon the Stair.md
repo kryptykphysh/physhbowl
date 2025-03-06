@@ -72,7 +72,7 @@ The author ends his statement with an altered version of the above poem:
 
 [[Jonathan Sims|John]] is still unsure who is sending him these statements: there is no clear link between the two statements, one suggesting that confrontation is bad and the other suggesting that ignoring is bad. It is possible that the sender is telling [[Jonathan Sims|John]] to stay on the periphery of these [[The Entities|Entities]]. It could also be a direct warning about [[The Distortion|Michael]].
 
-Another possibility is that these statements show that many supernatural beings were once people who have taken on a mantle from a predecessor and become less human, like this author from the [[Man Who Wasn't There]]. Possibly like [[Jonathan Sims|Jonathan]] has taken over the mantle of [[The Archivist]] from [[Gertrude Robinson|Gertrude]]. 
+Another possibility is that these statements show that many supernatural beings were once people who have taken on a mantle from a predecessor and become less human, like this author from the [[Man Who Wasn't There]]. Possibly like [[Jonathan Sims|Jonathan]] has taken over the mantle of [[Jonathan Sims|The Archivist]] from [[Gertrude Robinson|Gertrude]]. 
 
 [[Georgie Barker|Georgie]] walks in as [[Jonathan Sims|Jonathan]] is recording. She reveals that she is going on a date with a mountain climber because he eats Hungarian food. She mentions that [[Melanie King|Melanie]] is back after being shot in India but now has another job which she is somewhat embarrassed about.
 

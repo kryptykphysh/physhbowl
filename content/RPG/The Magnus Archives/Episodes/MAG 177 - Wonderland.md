@@ -1,4 +1,4 @@
-An examination of mental health care. Audio recorded by [[The Archivist]], in situ.
+An examination of mental health care. Audio recorded by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
 ########-17
 # Audio By

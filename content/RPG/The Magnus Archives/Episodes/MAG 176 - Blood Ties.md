@@ -1,4 +1,4 @@
-An examination of pack tactics. Audio recorded by [[The Archivist]], in situ
+An examination of pack tactics. Audio recorded by [[Jonathan Sims|The Archivist]], in situ
 # Case Number
 ########-16
 # Audio By

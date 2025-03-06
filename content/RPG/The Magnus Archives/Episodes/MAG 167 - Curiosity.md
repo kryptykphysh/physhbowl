@@ -1,4 +1,4 @@
-An examination of [[Gertrude Robinson]] and her assistants. Audio recording by [[The Archivist]].
+An examination of [[Gertrude Robinson]] and her assistants. Audio recording by [[Jonathan Sims|The Archivist]].
 ![[MAG_167_Gertrude_Agnes.webp]]
 *Art by planetsandmagic ([https://planetsandmagic.tumblr.com](https://planetsandmagic.tumblr.com/))*
 # Case Number

@@ -17,7 +17,7 @@ According to [[Jude Perry]], an avatar must "feed" their [[The Entities|Entity]
 
 In the Post-[[The Change|Change]] world, avatars do not exist as they did previously. Instead, the world is divided between [[Watchers]] and the [[Watched]]. A [[Watcher]] is someone who creates or otherwise encourages fear, while a person who is [[Watched]] experiences immense fear and suffering. Because the actions of a [[Watcher]] directly feed [[The Eye]], [[The Entity]] ruling over the Post-[[The Change|Change]] world, they are not directly affected by the horrors around them.
 
-[[Jonathan Sims|John]] can use his powers as [[The Archivist]] to make a person who is [[Watched]] into a [[Watcher]]. He can also call upon [[The Eye]] to witness a [[Watcher]], thereby making them [[Watched]] and ending their existence.
+[[Jonathan Sims|John]] can use his powers as [[Jonathan Sims|The Archivist]] to make a person who is [[Watched]] into a [[Watcher]]. He can also call upon [[The Eye]] to witness a [[Watcher]], thereby making them [[Watched]] and ending their existence.
 
 # Individuals
 

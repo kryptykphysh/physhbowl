@@ -1,4 +1,4 @@
-The Tragedy of Francis, a comic puppet show in all acts. Recorded by [[The Archivist]], in Situ.
+The Tragedy of Francis, a comic puppet show in all acts. Recorded by [[Jonathan Sims|The Archivist]], in Situ.
 # Case Number
 ########-12
 # Audio By

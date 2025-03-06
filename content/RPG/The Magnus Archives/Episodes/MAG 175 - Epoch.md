@@ -1,4 +1,4 @@
-An inventory of what comes after. Audio recorded by [[The Archivist]], in situ.
+An inventory of what comes after. Audio recorded by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
 ########-15
 # Audio By

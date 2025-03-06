@@ -6,7 +6,7 @@ tags:
 ---
 Gertrude Robinson was the Head Archivist of the [[Magnus Institute]] before [[Jonathan Sims]]. She was directly responsible for thwarting at least five different [[Rituals]] and many other paranormal threats.
 # Aliases
-- [[The Archivist]]
+- [[Jonathan Sims|The Archivist]]
 - [[The Magnus Institute]]
 # Biographical Information
 
@@ -82,10 +82,10 @@ The exact date of Gertrude Robinson's death is unclear as there are several conf
 
 # Known Powers
 
-As [[The Archivist]], Gertrude has a similar capacity for powers as [[Jonathan Sims]], but she is more concerned with stopping rituals than fulfilling her role as [[The Archivist]] and seemed to have been more successful in retaining her humanity. 
+As [[Jonathan Sims|The Archivist]], Gertrude has a similar capacity for powers as [[Jonathan Sims]], but she is more concerned with stopping rituals than fulfilling her role as [[Jonathan Sims|The Archivist]] and seemed to have been more successful in retaining her humanity. 
 
-- **Compulsion** - [[The Archivist]] is able to compel others to answer a question or give a statement. [[Gerard Keay]] thinks Gertrude did not like compelling people and did not do it very often.
-- **Knowing** - [[The Archivist]] is able to know certain things without having prior knowledge of them. However, Gertrude preferred to conduct her own investigations instead of using this power.
+- **Compulsion** - [[Jonathan Sims|The Archivist]] is able to compel others to answer a question or give a statement. [[Gerard Keay]] thinks Gertrude did not like compelling people and did not do it very often.
+- **Knowing** - [[Jonathan Sims|The Archivist]] is able to know certain things without having prior knowledge of them. However, Gertrude preferred to conduct her own investigations instead of using this power.
 
 # Recordings
 
@@ -102,7 +102,7 @@ Gertrude's body is found in a room containing all of the statements that she per
 - [[MAG 145 - Infectious Doubts]] - Statement from [[Arthur Nolan]] regarding [[The Cult of the Lightless Flame]]'s attempts to raise [[Agnes Montague]] to be capable of carrying out the ritual of [[The Desolation]].
 - [[MAG 154 - Bloody Mary]] - Statement of [[Eric Delano]] regarding his life and escape from [[The Magnus Institute]].
 - [MAG 158: Panopticon]] - A short recording of Gertrude's murder by [[Elias Bouchard]].
-- [[MAG 161 - Dwelling]] - A recording made by Gertrude to explain the cosmology of the world and the role of [[The Archivist]] to her successor.
+- [[MAG 161 - Dwelling]] - A recording made by Gertrude to explain the cosmology of the world and the role of [[Jonathan Sims|The Archivist]] to her successor.
 - [[MAG 162 - A Cosy Cabin]] - A recording of a conversation between Gertrude and [[Gerard Keay]], where Gertrude says that she believes if a ritual is successful in fully manifesting an [[The Entities|Entity]], its effects would be irreversible.
 - [[MAG 167 - Curiosity]]
 - [[MAG 192 - An Appointment]] (mentioned)
@@ -112,6 +112,6 @@ Gertrude's body is found in a room containing all of the statements that she per
 - Gertrude is voiced by the mother of Jonny Sims.
 - Gertrude's eBay username was grbookworm1818.
 - Most [[Avatar]]s are afraid of her. [[Elias Bouchard|Elias]] never dared to look into her mind.
-- In contrast to [[Jonathan Sima|John]], Gertrude never referred to herself as [[The Archivist]] or mentioned her affiliation to [[The Magnus Institute]].
+- In contrast to [[Jonathan Sima|John]], Gertrude never referred to herself as [[Jonathan Sims|The Archivist]] or mentioned her affiliation to [[The Magnus Institute]].
 - Gertrude claimed that the reason she was so motivated to stop [[Rituals]] is that [[The Desolation]] killed her cat. This may or may not be a joke.
 - According to the description of her corpse when it was found after [[Jane Prentiss]]' attack on the [[The Magnus Institute|Institute]], [[Elias Bouchard|Elias]] killed Gertrude by shooting her three times (as three bullet wounds were found in her body). However, in the recording of her death in MAG 158, only one gunshot is heard. Writer Jonathan Sims and Rusty Quill CEO Alexander J. Newall address this discrepancy in the Season 4 Q&A, where Alex attributes this to a genuine oversight, and quips that perhaps [[Elias Bouchard|Elias]] shot her body two more times after the recording ended.

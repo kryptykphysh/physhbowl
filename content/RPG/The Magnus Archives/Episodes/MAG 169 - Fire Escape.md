@@ -1,4 +1,4 @@
-Considerations on the sanctity of home. Recorded by [[The Archivist]] in Situ.
+Considerations on the sanctity of home. Recorded by [[Jonathan Sims|The Archivist]] in Situ.
 # Case Number
 ########-9
 # Meta Info

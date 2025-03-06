@@ -9,9 +9,9 @@ tags:
 
 After the failure of his ritual attempt, [[Jonah Magnus]] spent over a century attempting to perfect [[The Watcher's Crown]]. As more time passed and more rituals were attempted and failed, he began to consider that there might a fundamental problem with the [[Rituals|rituals]] that prevented them from ever succeeding. In 2015 he concludes that a ritual needs to draw in all [[The Entities]] at once to be successful.
 
-As part of this plan, he makes [[Jonathan Sims]] into [[The Archivist]] and orchestrates events to have him be "marked" by each [[The Entities|entity]], in order to have him act as a linchpin to summon [[the Entities]] into our world.
+As part of this plan, he makes [[Jonathan Sims]] into [[Jonathan Sims|The Archivist]] and orchestrates events to have him be "marked" by each [[The Entities|entity]], in order to have him act as a linchpin to summon [[the Entities]] into our world.
 
-He succeeds in 2018, after using [[The Archivist]]'s compulsion to read statements to force him to perform the chant to summon forth [[The Entities]], the [[Rituals|ritual]] was completed, triggering the Change. This is revealed to have been the machinations of [[The Web]].
+He succeeds in 2018, after using [[Jonathan Sims|The Archivist]]'s compulsion to read statements to force him to perform the chant to summon forth [[The Entities]], the [[Rituals|ritual]] was completed, triggering the Change. This is revealed to have been the machinations of [[The Web]].
 
 # Effects on Reality
 
@@ -33,7 +33,7 @@ The [[Domains]] are formed by the people inside them, and warp to accommodate th
 
 In order to avoid the loss of humanity's fear, it is in most cases not possible for people to die. Human adults don't age, and people do not need to eat, drink or sleep, although in some [[Domains]] they can still feel hungry, thirsty or tired. No new humans are being born.
 
-In most cases, humans are reborn after death. There are a few exceptions. [[The Corpse Roots]], and presumably other [[The End|End]] [[Domains]], kill their victims by their nature. [[Hunter]]s are seemingly capable of permanently killing people. [[Jonathan Sims|John]] can, via [[The Eye|the Beholding]], kill others permanently- it is currently unknown if other [[The Eye|Eye]] [[Avatar|avatars]] can do this or if it is a quirk of his nature as [[The Archivist]].
+In most cases, humans are reborn after death. There are a few exceptions. [[The Corpse Roots]], and presumably other [[The End|End]] [[Domains]], kill their victims by their nature. [[Hunter]]s are seemingly capable of permanently killing people. [[Jonathan Sims|John]] can, via [[The Eye|the Beholding]], kill others permanently- it is currently unknown if other [[The Eye|Eye]] [[Avatar|avatars]] can do this or if it is a quirk of his nature as [[Jonathan Sims|The Archivist]].
 
 In addition, due to the dream logic nature of the new world, it is possible for people to permanently die if killed in a symbolically appropriate way. The only known example of this is [[Alice Daisy Tonner|Daisy]] dying permanently after being killed by [[Basira Hussain|Basira]].
 
@@ -53,9 +53,9 @@ The vast majority of humans are trapped in [[Domains]], being tortured to obtain
 
 Some humans are not trapped in [[Domains]]. [[Avatar]]s rule over their [[Domains]], although [[MAG 184 - Like Ants]] implies they are unable to leave. [[Hunter]]s specifically seem to be able to move freely between [[Domains]], as can [[The Distortion]] and [[Jonathan Sims|John]] himself. [[Martin Blackwood|Martin]] is protected by [[Jonathan Sims|John]], although he becomes vulnerable if he strays too far from him.
 
-A few other humans are also free- [[Melanie King|Melanie]] and [[Georgie Barker|Georgie]] both noted that they were unaffected by The Change, likely due to their respective severances from [[The Entities]], and are currently hiding in the tunnels beneath [[The Magnus Institute]] with their cult of other survivors. [[Basira Hussain|Basira]] is also capable of moving between [[Domains]] to follow [[Alice Daisy Tonner|Daisy]]. Of note, [[Martin Blackwood|Martin]] is able to pull himself out of [[The Lonely]] by remembering his love for [[Jonathan Sims|John]]- while this may be unique to dating [[The Archivist]], other people have also escaped [[The Lonely]] in this way before the Change.
+A few other humans are also free- [[Melanie King|Melanie]] and [[Georgie Barker|Georgie]] both noted that they were unaffected by The Change, likely due to their respective severances from [[The Entities]], and are currently hiding in the tunnels beneath [[The Magnus Institute]] with their cult of other survivors. [[Basira Hussain|Basira]] is also capable of moving between [[Domains]] to follow [[Alice Daisy Tonner|Daisy]]. Of note, [[Martin Blackwood|Martin]] is able to pull himself out of [[The Lonely]] by remembering his love for [[Jonathan Sims|John]]- while this may be unique to dating [[Jonathan Sims|The Archivist]], other people have also escaped [[The Lonely]] in this way before the Change.
 
-[[Mikaele Salesa]] and [[Annabelle Cane]] are at [[Upton House]], a pocket of the world seemingly untouched by The Change, and more importantly a place where [[The Archivist]]'s vision does not reach. Humans are also seemingly able to eat and sleep in [[Upton House]]. We later discover that the tunnels beneath [[The Magnus Institute]] are a similar pocket, and where [[Georgie Barker|Georgie]], [[Melanie King|Melanie]] and their survivor group are hiding.
+[[Mikaele Salesa]] and [[Annabelle Cane]] are at [[Upton House]], a pocket of the world seemingly untouched by The Change, and more importantly a place where [[Jonathan Sims|The Archivist]]'s vision does not reach. Humans are also seemingly able to eat and sleep in [[Upton House]]. We later discover that the tunnels beneath [[The Magnus Institute]] are a similar pocket, and where [[Georgie Barker|Georgie]], [[Melanie King|Melanie]] and their survivor group are hiding.
 
 In [[MAG 200 - Last Words]] The Change was seemingly reversed by channelling [[The Entities]] through the reality crack at [[Hill Top Road]] into a number of different universes.
 

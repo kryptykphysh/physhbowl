@@ -1,4 +1,4 @@
-Statement of [[Jonah Magnus]] regarding [[Jonathan Sims]], [[The Archivist]].
+Statement of [[Jonah Magnus]] regarding [[Jonathan Sims]], [[Jonathan Sims|The Archivist]].
 # Case Number
 0181810
 # Audio By
@@ -26,7 +26,7 @@ Statement of [[Jonah Magnus]] regarding [[Jonathan Sims]], [[The Archivist]].
 
 The statement appears to be from a [[Hazel Rutter]], regarding a fire in her childhood home, but the opening is a fake-out. The statement is actually from [[Jonah Magnus]] and having started it, [[Jonathan Sims|John]] is now unable to stop reading.
 
-It is the statement of [[Jonah Magnus]], regarding [[Jonathan Sims]], [[The Archivist]].
+It is the statement of [[Jonah Magnus]], regarding [[Jonathan Sims]], [[Jonathan Sims|The Archivist]].
 
 [[Jonah Magnus|Magnus]] bares his ambitions. He will condemn the world to an eternity of suffering in order to gain immortality and power, and he feels nothing but satisfaction in that choice.
 

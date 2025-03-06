@@ -43,21 +43,21 @@ Technically, every episode deals with the Eye as its influence is felt throughou
 - [[MAG 53 - Crusader]] ([[Serapeum of Alexandria]])
 - [[MAG 60 - Observer Effect]] ([[Hand mirror]])
 - [[MAG 92 - Nothing Beside Remains]] ([[Jonah Magnus]])
-- [[MAG 120 - Eye Contact]] ([[The Archivist]], [[Elias Bouchard]])
+- [[MAG 120 - Eye Contact]] ([[Jonathan Sims|The Archivist]], [[Elias Bouchard]])
 - [[MAG 127 - Remains to be Seen]] ([[Albrecht von Closen]])
 - [[MAG 138 - The Architecture of Fear]] ([[Jonah Magnus]])
-- [[MAG 142 - Scrutiny]] ([[The Archivist]])
+- [[MAG 142 - Scrutiny]] ([[Jonathan Sims|The Archivist]])
 - [[MAG 148 - Extended Surveillance]] ([[Instruction manual]])
 - [[MAG 154 - Bloody Mary]] ([[Mary Keay]], [[Eric Delano]])
-- [[MAG 158 - Panopticon]] ([[The Panopticon]], [[The Archivist]], [[Jonah Magnus]])
-- [[MAG 160 - The Eye Opens]] ([[The Archivist]], [[Jonah Magnus]])
+- [[MAG 158 - Panopticon]] ([[The Panopticon]], [[Jonathan Sims|The Archivist]], [[Jonah Magnus]])
+- [[MAG 160 - The Eye Opens]] ([[Jonathan Sims|The Archivist]], [[Jonah Magnus]])
 - [[MAG 186 - Quiet]] ([[Domain]], [[Martin Blackwood]])
 - [[MAG 188 - Centre of Attention]] ([[Domain]])
 - [[MAG 189 - Peers]] ([[Domain]])
 - [[MAG 192 - An Appointment]] ([[Domain]], [[Statement]], [[Jonah Magnus]], [[Past Archivists]])
 - [[MAG 193 - A Stern Look]] ([[Jonah Magnus]], [[Statement]])
 - [[MAG 194 - Parting]] ([[Statement]])
-- [[MAG 200 - Last Words]] ([[Jonah Magnus]], [[The Archivist]])
+- [[MAG 200 - Last Words]] ([[Jonah Magnus]], [[Jonathan Sims|The Archivist]])
 
 ## Other Appearances
 
@@ -80,9 +80,9 @@ Technically, every episode deals with the Eye as its influence is felt throughou
 - [[MAG 118 - The Masquerade]] ([[Elias Bouchard]], [[Memory Insertion]])
 - [[MAG 119 - Stranger and Stranger]] ([[Jonathan Sims]])
 - [[MAG 121 - Far Away]] ([[Jonathan Sims/The Archivist]])
-- [[MAG 122 - Zombie]] ([[The Archivist]], [[feeding]])
-- [[MAG 125 - Civilian Casualties]] ([[The Archivist]])
-- [[MAG 128 - Heavy Goods]] ([[The Archivist]], [[Compulsion]])
+- [[MAG 122 - Zombie]] ([[Jonathan Sims|The Archivist]], [[feeding]])
+- [[MAG 125 - Civilian Casualties]] ([[Jonathan Sims|The Archivist]])
+- [[MAG 128 - Heavy Goods]] ([[Jonathan Sims|The Archivist]], [[Compulsion]])
 - [[MAG 129 - Submerged]]
 - [[MAG 161 - Dwelling]]
 - [[MAG 183 - Monument]] ([[Partial Domain]])
@@ -137,7 +137,7 @@ Technically, every episode deals with the Eye as its influence is felt throughou
 
 The Eye's ritual is called "[[The Watcher's Crown]]." Using [[The Panopticon]] in [[Millbank Prison]], [[Jonah Magnus]] attempted the ritual at some point during the 19th century. The ritual ultimately failed but granted him semi-omniscience in the process.
 
-Later, in 2018, [[Jonah Magnus]] attempts [[The Mass Ritual|a new ritual]] to bring through every aspect of fear after theorizing that it was impossible to bring a single [[This Entities|Entity]] into existence on its own. [[The Archivist]], marked by encounters with every fear, is tricked by [[Jonah Magnus|Jonah]] into completing the ritual, bringing about [[The Change|the Change]].
+Later, in 2018, [[Jonah Magnus]] attempts [[The Mass Ritual|a new ritual]] to bring through every aspect of fear after theorizing that it was impossible to bring a single [[This Entities|Entity]] into existence on its own. [[Jonathan Sims|The Archivist]], marked by encounters with every fear, is tricked by [[Jonah Magnus|Jonah]] into completing the ritual, bringing about [[The Change|the Change]].
 
 # Connections to other entities
 

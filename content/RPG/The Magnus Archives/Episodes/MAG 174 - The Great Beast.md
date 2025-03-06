@@ -1,4 +1,4 @@
-An examination of scale. Recorded by [[The Archivist]] in situ.
+An examination of scale. Recorded by [[Jonathan Sims|The Archivist]] in situ.
 # Case Number
 ########-14
 # Audio By

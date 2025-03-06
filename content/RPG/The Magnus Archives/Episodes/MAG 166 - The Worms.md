@@ -1,4 +1,4 @@
-Lamentation of those left below. Audio recording by [[The Archivist]], in situ.
+Lamentation of those left below. Audio recording by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
 ########-6
 # Audio By

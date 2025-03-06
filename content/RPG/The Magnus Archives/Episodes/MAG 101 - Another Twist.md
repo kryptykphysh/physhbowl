@@ -26,7 +26,7 @@ October 2009-2011
 
 [[Nikola Orsinov|Nikola]] resumes talking to [[Elias Bouchard|Elias]] saying that she had planned to just follow [[Jonathan Sims|John]] around until he found the skin that [[Gertrude Robinson|Gertrude]] had taken, but then decided it would be more fun to take him directly. She tells [[Jonathan Sims|John]] that she is going to peel his skin off, and asks him what lotion she should get as he has not kept his skin in good condition. She leaves, presumably to acquire some, and turns the recorder off.
 
-An unspecified time later, the recorder turns back on and Michael appears, saying he is here to kill [[The Archivist]]. Before he does so he is going to act against his nature and answer his questions so that he can understand what is happening.
+An unspecified time later, the recorder turns back on and Michael appears, saying he is here to kill [[Jonathan Sims|The Archivist]]. Before he does so he is going to act against his nature and answer his questions so that he can understand what is happening.
 
 [[Jonathan Sims|John]] first asks how [[The Distortion|Michael]] found him, [[The Distortion|Michael]] responds that while [[The Eye]] watches, and [[The Stranger]] conceals, [[The Spiral|the power he serves]] deceives and nothing can be hidden from him.
 
