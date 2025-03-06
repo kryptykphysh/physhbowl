@@ -2,7 +2,7 @@ An examination of pack tactics. Audio recorded by [[The Archivist]], in situ
 # Case Number
 ########-16
 # Audio By
-[[Jonathan Sims]]]
+[[Jonathan Sims]]
 # Meta Info
 
 | [Audio](https://youtu.be/PK9EIxCqsUM?si=0_Kz6rrm_xfEQ-Ex) | [Transcript](https://snarp.github.io/magnus_archives_transcripts/episode/176.html) | [[Content Warnings]] |
@@ -11,7 +11,7 @@ An examination of pack tactics. Audio recorded by [[The Archivist]], in situ
 ## Last Episode
 [[MAG 175 - Epoch|Epoch]]
 ## Next Episode
-[[MAG 177 - Wonderland|Wonderland]]
+[[The Magnus Archives Liveshow]]
 ## Release Date
 2020-07-16
 ## Guest Voice
