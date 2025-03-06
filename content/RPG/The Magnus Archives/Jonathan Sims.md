@@ -3,6 +3,8 @@ title: Jonathan Sims
 draft: false
 tags:
   - tma
+aliases:
+  - The Archivist
 ---
  **Jonathan Sims** is the Head Archivist of [[[[The Magnus Institute]]]], London. He takes over the position after [[Gertrude Robinson]], his predecessor, passes away in the line of duty.
 
