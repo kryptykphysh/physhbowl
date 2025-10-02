@@ -8,6 +8,9 @@ This site exists as my attempt at a [Digital Garden](https://maggieappleton.com/
 [Obsidian](https://obsidian.md/) really appeals to me as tool for generating a collection of potentially unrelated concepts that later turn out to have emergent relations, so that's what I'm using to create and log my notes.
 [Quartz](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages) then takes that vault and syncs it up to a [Github Repository](https://github.com/kryptykphysh/physhbowl) that has a Github Action to publish the branch as a Github Page.
 Which is nice.
+
+# Latest
+[[Malperdys]] - 2025-10-02
 # What is this?
 - [[content/Coding/index|Coding]]
 - [[content/Politics/index|Politics]]
