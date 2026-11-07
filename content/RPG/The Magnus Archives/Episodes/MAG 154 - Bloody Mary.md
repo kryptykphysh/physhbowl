@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Eric Delano]], regarding his life, [[Mary Keay]], and the Archives.
 # Case Number
 0082107

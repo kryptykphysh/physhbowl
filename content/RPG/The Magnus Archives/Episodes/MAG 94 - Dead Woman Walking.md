@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Georgie Barker|Georgina Barker]] regarding the last words of a possible corpse. Recorded direct from subject.
 # Case Number
 0172904

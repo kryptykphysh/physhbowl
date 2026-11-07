@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Laura Popham]], regarding her experience exploring the Three Counties System of caves with her sister [[Alena Sanderson]].
 ![[Mag_15_Lost_Johns_Cave.webp]]
 *Many thanks to [rosie93](http://rustyquill.proboards.com/user/78) for the image*

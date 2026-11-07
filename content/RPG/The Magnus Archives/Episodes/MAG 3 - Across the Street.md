@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 ![[Mag_3_-Accross_the_Street.JPG]]
 *Image by Samwise on the Rusty Quill forums*
 # Case Number

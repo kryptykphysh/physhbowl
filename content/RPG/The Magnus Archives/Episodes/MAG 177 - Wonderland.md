@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 An examination of mental health care. Audio recorded by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
 ########-17

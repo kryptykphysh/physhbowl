@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of Detective [[Alice Daisy Tonner|Alice "Daisy" Tonner]], regarding the traffic stop of a delivery van on the M6 near Preston on the afternoon of 24th July 2002.
 ![[MAG_61_by_Tenthousandbees.webp]]

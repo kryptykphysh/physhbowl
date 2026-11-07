@@ -1,8 +1,8 @@
 ---
 title: Georgie Barker
-draft: false
 tags:
   - tma
+publish: true
 ---
  Georgie Barker is the fearless host of the _[[What The Ghost?]]_ podcast. She lives with her cat, [[The Admiral]], and knew [[Jonathan Sims]] at University.
 

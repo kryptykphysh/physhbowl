@@ -1,8 +1,8 @@
 ---
 title: The Corruption
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Corruption.webp]]
  *Entity inspired Tarot by Grace Holsten*

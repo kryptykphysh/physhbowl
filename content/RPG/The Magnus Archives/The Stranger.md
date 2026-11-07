@@ -1,8 +1,8 @@
 ---
 title: The Stranger
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Stranger.webp]]
  *Entity inspired Tarot by Grace Holsten*

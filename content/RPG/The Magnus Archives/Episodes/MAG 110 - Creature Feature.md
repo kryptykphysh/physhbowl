@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Alexia Crawley]], regarding her time working as a cinematographer on [[Dexter Banks]]' final film.
 # Case Number
 0121403

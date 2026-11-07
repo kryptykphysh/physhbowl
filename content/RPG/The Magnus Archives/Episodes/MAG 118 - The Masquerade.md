@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Original recordings of [[The Magnus Institute]]'s visit to the [[House of Wax Museum|House of Wax]], Great Yarmouth, and an internal management dispute.
 # Case Number
   

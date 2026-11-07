@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Jennifer Ling]], regarding a live musical performance she attended in Soho.
 # Case Number

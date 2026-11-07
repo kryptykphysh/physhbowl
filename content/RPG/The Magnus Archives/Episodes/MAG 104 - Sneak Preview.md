@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Timothy Stoker]], on the disappearance of his brother [[Danny Stoker|Danny]].
 # Case Number
 0171406

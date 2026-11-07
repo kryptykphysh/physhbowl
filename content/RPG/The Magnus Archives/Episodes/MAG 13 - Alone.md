@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Naomi Herne]], regarding the events following the funeral of her fiancé, [[Evan Lukas]].
 # Case Number
 0161301

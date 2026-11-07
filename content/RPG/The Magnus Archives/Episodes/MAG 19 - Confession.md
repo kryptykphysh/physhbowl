@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Father Edwin Burroughs]], regarding his claimed demonic possession.
 # Case Number
 0113005

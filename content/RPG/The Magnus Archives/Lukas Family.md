@@ -1,8 +1,8 @@
 ---
 title: Lukas Family
-draft: false
 tags:
   - tma
+publish: true
 ---
  The Lukas family are recurring people in the Cases of The Magnus Archives. They are a major source of funding for [[The Magnus Institute]]. They appear to be very wealthy, as they own or fund various companies or ventures, including the _Tundra_ cargo ship and the space station [[Daedalus]].
 

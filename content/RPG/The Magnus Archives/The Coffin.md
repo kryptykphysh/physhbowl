@@ -1,9 +1,9 @@
 ---
 title: The Coffin
-draft: false
 tags:
   - tma
   - artefact
+publish: true
 ---
  The Coffin, also known as The Pit or The Cramped Casket, is an artefact of [[The Buried]] and a gateway into its [[Domains|domain]].
 ![[the_coffin.webp]]

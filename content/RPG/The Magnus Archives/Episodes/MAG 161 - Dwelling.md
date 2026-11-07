@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 An assortment of personal statements by [[The Magnus Institute]]'s archival staff.
 ![[MAG_161_by_K25fF.webp]]
 *Art courtesy of [K25fF](https://twitter.com/K25fF/status/1246823924773670913).*

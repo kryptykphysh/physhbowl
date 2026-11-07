@@ -1,10 +1,10 @@
 ---
 title: After the Magnus Archives
-draft: false
 tags:
   - rpg
   - tma
   - tbce
+publish: true
 ---
  ![[archives.png]]
 > [!question]- Spoilers for the podcast.

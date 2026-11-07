@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Jonathan Sims]], concerning his descent into [[The Coffin]] and attempt to rescue [[Alice Daisy Tonner|Alice "Daisy" Tonner]].
 ![[MAG_132.webp]]
 *Image by @BitterCombatant on Twitter*

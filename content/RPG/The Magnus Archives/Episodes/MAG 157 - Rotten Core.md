@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Adelard Dekker]], regarding a potential pandemic originating in the town of Klanxbüll, Germany.
 # Case Number
 0131408

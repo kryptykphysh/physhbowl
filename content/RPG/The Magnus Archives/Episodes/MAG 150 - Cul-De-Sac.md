@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Herman Gorgoli]] regarding a period trapped alone in a suburban area of Cheadle.
 ![[MAG_150.webp]]
 # Case Number

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of Sergeant [[Walter Heller]] regarding a discovery made near Alexandria during Operation Crusader in November of 1941.
 ![[mag_53_crusader.webp]]

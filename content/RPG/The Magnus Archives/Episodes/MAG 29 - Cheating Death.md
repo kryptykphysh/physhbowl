@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Nathaniel Thorp]], regarding his own mortality.
 # Case Number
 9720406

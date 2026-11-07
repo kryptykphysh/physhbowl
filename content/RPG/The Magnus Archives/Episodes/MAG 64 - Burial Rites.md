@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Donna Gwynne]], regarding an unlicensed archaeological dig near the Red Sea in Egypt.
 # Case Number

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Before the operation regarding [[The Unknowing]], [[Jonathan Sims|John]] suggests that everyone involved make a statement, to put down some of their thoughts.
 # Case Number
   

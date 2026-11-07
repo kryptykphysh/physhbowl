@@ -1,8 +1,8 @@
 ---
 title: The Change
-draft: false
 tags:
   - tma
+publish: true
 ---
  **The Change**, also known as **the Apocalypse** or **the Age Of The Beholding**, is a cosmic change to reality that occurred as a result of [[Jonah Magnus]]' [[The Mass Ritual|mass ritual]], transforming the world into a feeding ground for [[The Entities]].
 # History

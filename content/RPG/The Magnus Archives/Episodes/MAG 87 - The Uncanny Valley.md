@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Sebastian Skinner]] regarding a plumbing job at a compound in Gwydir forest.
 # Case Number
 0141010

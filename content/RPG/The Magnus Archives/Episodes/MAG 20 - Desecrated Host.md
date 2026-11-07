@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Continuation of the statement of [[Father Edwin Burroughs]], regarding his claimed demonic possession. See [[MAG 19 - Confession]] for details.
 # Case Number
 0113005 - B

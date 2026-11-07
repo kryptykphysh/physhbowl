@@ -1,8 +1,8 @@
 ---
 title: Sasha James
-draft: false
 tags:
   - tma
+publish: true
 ---
  
 Sasha James is one of the archival assistants at [[The Magnus Institute]] who helps [[Jonathan Sims]] with archived statements.

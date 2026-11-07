@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Kulbir Shakya]], regarding a flood that occurred around his flat in Hackney.
 ![[MAG_129_by_the-library-of-leitner.webp]]
 *Image by [The-library-of-Leitner](https://www.tumblr.com/the-library-of-leitner/743112668022489088/a-standard-hardback-book-titled-drowning-in-debt)*

@@ -1,8 +1,8 @@
 ---
 title: Jurgen Leitner
-draft: false
 tags:
   - tma
+publish: true
 ---
 Jurgen Leitner is best known for his library of [[List of Books|occult books]], all of which are identifiable via the interior bookplate that reads "From The Library of Jurgen Leitner". He was a Norwegian-born recluse, well-known in literary (specifically rare book collecting) circles in the 1990s. Upon discovering the existence of the supernatural, he set about collecting books in an attempt to protect the world from their effects. It was rumoured that he would custom bind known books or pay authors to write for him.
 

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Interactions with various survivors, recorded on location.
 # Case Number
 ########-30

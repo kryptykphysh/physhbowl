@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Judith O'Neill]], regarding their time at the Anglo-Brazilian Amazon Trust.
 # Case Number
 0131305

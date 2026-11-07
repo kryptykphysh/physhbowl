@@ -1,10 +1,10 @@
 ---
 title: The Ultimate Sandbox
-draft: false
 tags:
   - rpg
   - campaign
   - tbce
+publish: true
 ---
 ![[million_spheres.png]]
 In my dreams, the campaign I'd run would be one where *anything* is possible. I'm not saying everything is *easy* or that every character should be able to do anything. There's no challenge or entertainment in that, surely? What I *do* want though is a setting that supports magic *and* technology *and* biogenetics. Perhaps not all in the same time and place, but not taking anything off the table.

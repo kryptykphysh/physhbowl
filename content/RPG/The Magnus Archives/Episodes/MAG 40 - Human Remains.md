@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Elias Bouchard]], [[Tim Stoker]], [[Not-Sasha]] (acting as [[Sasha James]]), [[Martin Blackwood]], and [[Jonathan Sims]] regarding the infestation of [[The Magnus Institute]] by the entity formerly known as [[Jane Prentiss]].
 ![[MAG_40_Human_Remains.webp]]

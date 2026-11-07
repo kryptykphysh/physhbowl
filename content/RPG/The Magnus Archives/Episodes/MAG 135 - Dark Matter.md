@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Manuela Dominguez]] regarding her unconventional religious beliefs and their intersection with her project aboard the space station _[[Daedalus]]_.
 # Case Number
 0141407

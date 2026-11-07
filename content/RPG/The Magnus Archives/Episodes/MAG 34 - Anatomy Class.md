@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Dr. Lionel Elliot]], regarding a series of events that took place during his class, _Introduction to Human Anatomy and Physiology_, at Kings College, London.
 ![[Mag_34_Anatomy_Class.webp]]

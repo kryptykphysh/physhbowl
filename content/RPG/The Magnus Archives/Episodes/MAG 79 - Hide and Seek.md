@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Original recording of manifestations and sightings at [[The Magnus Institute]], London, 16th February 2017.
 # Case Number

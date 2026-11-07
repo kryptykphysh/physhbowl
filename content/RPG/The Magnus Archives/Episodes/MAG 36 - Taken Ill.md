@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Nicole Baxter]], regarding visits culminating in the fire that consumed [[Ivy Meadows Care Home]] in Woodley, Greater Manchester.
 ![[Mag_36_Web_Lighter.webp]]

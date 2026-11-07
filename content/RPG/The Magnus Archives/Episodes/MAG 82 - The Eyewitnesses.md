@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Alice Daisy Tonner|Alice "Daisy" Tonner]], regarding the crimes and death of [[Calvin Benchley]]. Statement never given.
 # Case Number
   

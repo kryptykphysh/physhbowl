@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Sampson Kempthorne]], regarding the workhouse architecture of [[George Gilbert Scott]].
 # Case Number

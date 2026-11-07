@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Phillip Brown]], regarding his time working at HMP Wakefield between 1990 and 2002.
 # Case Number

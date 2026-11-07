@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Arthur Nolan]] regarding the life and death of [[Agnes Montague]].
 # Case Number
 0090202

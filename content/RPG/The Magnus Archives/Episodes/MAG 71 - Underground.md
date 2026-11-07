@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Karolina Górka]], regarding a brief period trapped on the London Underground. Statement taken direct from subject.
 # Case Number

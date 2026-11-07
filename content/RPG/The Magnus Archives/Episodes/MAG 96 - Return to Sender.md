@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Alfred Breekon]], regarding a new pair of workers at his delivery company.
 # Case Number
 9961505

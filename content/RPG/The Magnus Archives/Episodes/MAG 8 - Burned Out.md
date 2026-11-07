@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of Ivo Lensik regarding his experiences during the construction of a house on [Hill Top Road](https://the-magnus-archives.fandom.com/wiki/Hill_Top_Road "Hill Top Road").
 # Case Number
 0071304

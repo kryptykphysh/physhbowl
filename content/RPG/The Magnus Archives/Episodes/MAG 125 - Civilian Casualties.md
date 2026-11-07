@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of Sergeant [[Terrance Simpson]], regarding an outbreak of violence in the crofting community of Lanncraig, Ross-shire.
 # Case Number
 9931907

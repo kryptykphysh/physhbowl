@@ -14,6 +14,6 @@ Which is nice.
 [[A New Beginning]] - 2026-11-07
 [[Malperdys]] - 2025-10-02
 # What is this?
-- [[content/Coding/index|Coding]]
-- [[content/Politics/index|Politics]]
+- [[Coding/index|Coding]]
+- [[Politics/index|Politics]]
 - [[Roleplaying Games]]

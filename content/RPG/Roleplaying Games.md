@@ -1,7 +1,7 @@
 ---
 title: Roleplaying Games
-draft: false
 tags:
+publish: true
 ---
 ![[Stay Alive 68 Samuel Araya.jpg]]
 I've played RPGs since I just got in to double digits in years, starting with Tunnels & Trolls and the Dungeons & Dragons Red Box Basic Set.

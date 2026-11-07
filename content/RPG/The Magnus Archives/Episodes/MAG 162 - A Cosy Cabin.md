@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Further statements of a personal nature.
 ![[MAG_162_by_brscheuer.webp]]
 *Art courtesy of [brscheuer](https://www.instagram.com/p/B-xQBZ4pt2q/).*

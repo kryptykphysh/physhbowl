@@ -1,12 +1,12 @@
 ---
 title: Why I Won't Buy DND
-draft: false
 tags:
   - rpg
   - hasbro
   - wotc
   - dnd
   - anticapitalist
+publish: true
 ---
  I tried to get a couple of AI agents to collate all the scandals and shitfuckery Hasbro and Wizards of the Coast have done over the past few years, but it proved almost impossible to get any output from them that expressed an opinion or disapproval. So, because I can't be arsed writing it myself, here's a milquetoast, "objective and factual," breakdown from an AI source.
  

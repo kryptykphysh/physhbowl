@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Abraham Janssen]] regarding an incident in the Court Theatre of Buda.
 # Case Number
 7870211

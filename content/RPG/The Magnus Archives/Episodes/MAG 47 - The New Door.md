@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Helen Richardson]], regarding a new door in a house she was selling.
 ![[Mag_47_The_New_Door.webp]]

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Ruminations on identity and the lack thereof. Audio recording by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
   

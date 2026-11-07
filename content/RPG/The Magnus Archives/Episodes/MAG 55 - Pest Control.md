@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Jordan Kennedy]], regarding several encounters while working in pest control.
 # Case Number

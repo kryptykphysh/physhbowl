@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Gregory Pryor]] regarding his investigations into one [[Hector Laredo]] during the summer of 2007.
 # Case Number

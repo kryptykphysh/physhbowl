@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Simon Fairchild]] regarding [[Peter Lukas]] and [[The Extinction]].
 ![[MAG_151_by_bassacaglia.webp]]
 *Art courtesy of [bassacaglia](https://bassacaglia.tumblr.com/) on Tumblr*

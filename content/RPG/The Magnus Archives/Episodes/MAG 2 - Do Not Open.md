@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Joshua Gillespie]] regarding his time in the possession of an apparently empty [[The Coffin|wooden casket]].
 ![[Mag_2.webp]]
 *Image by [aaab illustration](https://all-spare-parts.tumblr.com/)*

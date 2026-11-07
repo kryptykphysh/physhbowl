@@ -1,8 +1,8 @@
 ---
 title: The Lonely
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Lonely.webp]]
 *Entity inspired Tarot by Grace Holsten*

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Craig Goodall]], regarding his explorations of an abandoned chicken and kebab shop in Walthamstow.
 # Case Number

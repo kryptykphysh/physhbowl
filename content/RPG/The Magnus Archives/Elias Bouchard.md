@@ -1,8 +1,8 @@
 ---
 title: Elias Bouchard
-draft: false
 tags:
   - tma
+publish: true
 ---
  
 Elias Bouchard is the Head of [[The Magnus Institute]]. He has held the position since 1996 when he took over after [[James Wright.]]

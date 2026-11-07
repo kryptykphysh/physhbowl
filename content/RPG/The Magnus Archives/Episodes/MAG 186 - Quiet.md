@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 A dialogue on solitude. Recorded by [[Martin Blackwood]], in Situ.
 ![[MAG_186_Figures_in_a_Storm_by_JMW_Turner.webp]]
 *[Figures in a Storm](https://www.tate.org.uk/art/artworks/turner-figures-in-a-storm-d36315) by JMW Turner, 1835 – 45  

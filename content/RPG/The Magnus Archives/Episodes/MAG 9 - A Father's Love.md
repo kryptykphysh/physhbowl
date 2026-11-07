@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Julia Montauk]] regarding the actions and motivations of her father the serial killer [[Robert Montauk]].
 ![[Mag_9_Fathers_Love.webp]]
 *Image by blept on the Rusty Quill forums.*

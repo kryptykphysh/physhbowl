@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Benjamin Hatendi]] regarding a dead friend and an unpleasant encounter.
 ![[MAG_86.webp]]
 *Image by [sewer-doodles](https://sewers-doodles.tumblr.com/post/188141349464/inktober-day-four-freeze-here-i-am-back-at-it) on Tumblr*

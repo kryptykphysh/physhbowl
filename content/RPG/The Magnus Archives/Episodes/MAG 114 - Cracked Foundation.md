@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Anya Villette]], regarding a cleaning job on [[Hill Top Road]].
 # Case Number
 0092204

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Jonathan Sims]] regarding his exploration of the tunnels recently discovered below the Archives.
 ![[Mag_41_too_deep.webp]]

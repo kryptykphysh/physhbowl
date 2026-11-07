@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Deborah Madaki]] regarding an adult art class she took in the spring of 2004, and her interactions with [[Gabriel]], a fellow student.
 # Case Number
 0091110

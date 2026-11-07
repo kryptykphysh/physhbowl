@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Antonia Hayley]], regarding a deep dive that took place near Sable Island, Nova Scotia.
 ![[Mag_51_High_Pressure.webp]]

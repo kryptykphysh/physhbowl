@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Luca Moretti]] regarding a group of deserters in the mountains of the Appennino Centrale.
 # Case Number
 9770211

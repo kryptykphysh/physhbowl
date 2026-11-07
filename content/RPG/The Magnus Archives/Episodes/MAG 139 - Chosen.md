@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Eugene Vanderstock]], regarding the creation of [[Agnes Montague]], her life, care, and death.
 ![[MAG_139.webp]]
 *Image by @MarinaVermillion on Twitter*

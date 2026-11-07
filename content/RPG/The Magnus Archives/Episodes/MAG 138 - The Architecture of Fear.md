@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Robert Smirke]], taken from a letter to [[Jonah Magnus]] dated 13th February 1867.
 # Case Number
 8671302

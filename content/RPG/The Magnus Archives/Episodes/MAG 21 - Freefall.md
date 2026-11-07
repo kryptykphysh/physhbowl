@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Moira Kelly]], regarding the disappearance of her son [[Robert Kelly|Robert]].
 ![[Mag_21_Freefall.webp]]
 *Image by [theyellowmistress](https://theyellowmistress.tumblr.com/) on Tumblr*

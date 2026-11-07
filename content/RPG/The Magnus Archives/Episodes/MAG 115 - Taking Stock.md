@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Mikaele Salesa]], regarding an antique [[Meat Grinder]] in his possession during the autumn of 1999.
 # Case Number
 0070401

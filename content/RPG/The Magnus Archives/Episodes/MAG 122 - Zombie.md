@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Lorell St John]], regarding zombies.
 ![[MAG_122.webp]]
 *Image by @kalgalen on Twitter*

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Jurgen Leitner]] regarding his life and works. Recorded direct from subject.
 ![[MAG_80.webp]]

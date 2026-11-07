@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Chloe Ashburt]], regarding a new window display at [[Fanton’s Department Store]] in Hammersmith.
 # Case Number
 0131910

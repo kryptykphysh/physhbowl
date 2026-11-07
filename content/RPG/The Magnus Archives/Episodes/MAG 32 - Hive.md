@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Jane Prentiss]], regarding a wasps' nest in her attic.
 ![[Mag_32_Hive.webp]]

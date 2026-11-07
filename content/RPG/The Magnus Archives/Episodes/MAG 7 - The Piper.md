@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of Staff Sgt. Clarence Berry regarding his time serving with [Wilfred Owen](https://en.wikipedia.org/wiki/Wilfred_Owen "wp:Wilfred Owen") in the great war.
 ![[mag_7_the_piper.webp]]
 *Special thanks to [melysllow](http://rustyquill.proboards.com/user/15) for the image!*

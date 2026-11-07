@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Melanie King]], regarding events at the abandoned Cambridge Military Hospital during filming in January 2015.
 # Case Number
 0161704

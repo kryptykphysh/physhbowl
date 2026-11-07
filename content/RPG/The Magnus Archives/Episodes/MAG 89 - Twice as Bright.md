@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Jude Perry]], regarding some advice. Recorded direct from subject.
 ![[Mag_89.webp]]
 *Image by @IncubusJules on Twitter*

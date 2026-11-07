@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Jackson Ellis]], regarding the geographical oddities in the town of Bucoda, Washington.
 # Case Number
 0090303

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Dylan Anderson]], regarding an unusual pig he acquired on his farm in New Zealand.
 ![[MAG_103_by_chaioverdose.webp]]
 *Art courtesy of [chaioverdose](https://chaioverdose.tumblr.com/post/634060603767570432/mag-103-the-monster-pig-poor-toby-though)*

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 _This article is about the episode, you may be looking for [[Section 31|the section itself]]._
 # Pre-Statement
 Statement of Police Constable [[Basira Hussain]] regarding her time investigating strange occurrences as part of [[Section 31]]. Statement taken direct from subject.

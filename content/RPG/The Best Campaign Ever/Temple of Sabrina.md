@@ -1,8 +1,8 @@
 ---
 title: Temple of Sabrina
-draft: false
 tags:
   - tbce
+publish: true
 ---
 # The [[Littledean]] Roman Temple
 THIS IS AN UPDATE FOLLOWING RECENT FURTHER ARCHAEOLOGICAL INVESTIGATIONS DURING 2016 TO 2019.

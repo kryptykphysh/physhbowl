@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Lydia Halligan]] regarding her insomnia.
 ![[MAG_74_by_PlantPsychic.webp]]

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Unsigned statement regarding potential cannibalism while attempting to travel the Oregon Trail.
 # Case Number

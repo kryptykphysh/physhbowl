@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Adelard Dekker]], taken from a letter to [[Gertrude Robinson]].
 ![[MAG_134_Adelard_Dekker_Extinction.webp]]
 *Art by [planetsandmagic](https://planetsandmagic.tumblr.com/)*

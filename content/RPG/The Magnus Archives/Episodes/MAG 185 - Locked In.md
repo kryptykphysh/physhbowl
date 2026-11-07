@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 An examination on the nature of Justice. Recorded by [[Jonathan Sims|The Archivist]] in situ.
 # Case Number
 ########-25

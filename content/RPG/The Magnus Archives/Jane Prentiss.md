@@ -1,8 +1,8 @@
 ---
 title: Jane Prentiss
-draft: false
 tags:
   - tma
+publish: true
 ---
  **Jane Prentiss**, also known as the "**Flesh Hive**", was a woman possessed by [[The Corruption]] through an infestation of parasitic worms throughout her body. She was used to attack [[The Magnus Institute]] in London.
 # Aliases

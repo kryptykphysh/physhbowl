@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Considerations of knowledge. Recorded by [[Jonathan Sims|The Archivist]] in situ.
 ![[MAG_183_by_ashes-and-kites.webp]]
 *Art by [ashes-in-a-jar](https://ashes-in-a-jar.tumblr.com/post/632146456698028032/its-like-escher-ate-a-bad-cathedral-and-threw-up)*

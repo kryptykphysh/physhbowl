@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statements on war. Audio recording by [[Jonathan Sims|The Archivist]], in situ.
 ![[Mag_163_by_Gammija.webp]]
 *Art courtesy of [Gammija](https://gammija.tumblr.com/post/615567399126794240/so-now-the-question-is-did-the-recorder-appear)*

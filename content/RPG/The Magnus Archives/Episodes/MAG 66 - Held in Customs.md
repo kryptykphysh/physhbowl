@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Vincent Yang]] regarding his claimed imprisonment by [Mikaele Salesa](https://the-magnus-archives.fandom.com/wiki/Mikaele_Salesa "Mikaele Salesa").
 # Case Number

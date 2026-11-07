@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Lucy Cooper]] regarding the disappearance of her mother.
 # Case Number

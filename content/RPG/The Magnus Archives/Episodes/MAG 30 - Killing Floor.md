@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[David Laylow]], regarding his time working at an industrial abattoir near Dalston.
 # Case Number
 0130109

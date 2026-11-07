@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 A team of [[Martin Blackwood|Martin]], [[Timothy Stoker|Tim]], [[Basira Hussain|Basira]], and [[Melanie King|Melanie]] attempt to take statements with varying degrees of success: as [[Jonathan Sims|The Archivist]] is not present, neither is the [[The Eye|Beholding]] power that allows statement-givers to describe their experiences smoothly in the form of a story.
 # Case Number
 Assorted live statements

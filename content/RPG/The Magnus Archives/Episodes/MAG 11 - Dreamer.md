@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Antonio Blake]], regarding his recent dreams about [[Gertrude Robinson]], previous Head Archivist of [[The Magnus Institute]].
 # Case Number
 0151403

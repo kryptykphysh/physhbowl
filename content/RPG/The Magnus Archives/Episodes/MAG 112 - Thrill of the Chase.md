@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Lisa Carmel]], regarding her involvement in a series of murders.
 # Case Number
 0111311

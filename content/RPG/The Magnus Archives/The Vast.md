@@ -1,8 +1,8 @@
 ---
 title: The Vast
-draft: false
 tags:
   - tma
+publish: true
 ---
  
 ![[The_Vast.webp]]

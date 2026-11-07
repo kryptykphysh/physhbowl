@@ -1,8 +1,8 @@
 ---
 title: The Spiral
-draft: false
 tags:
   - tma
+publish: true
 ---
  
 ![[The_Spiral.webp]]

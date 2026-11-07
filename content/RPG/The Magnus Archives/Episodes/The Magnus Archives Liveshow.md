@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Audio Recording of the first Magnus Archives Liveshow as part of the London Podcast Festival presents Audio Drama Live Event, recorded November 2019. The events of this episode take place before [[MAG 1 - Angler Fish]].
 ![[Magnus_Archives_Liveshow_photo.webp]]
 *Photo by [@TheRustyQuill](https://twitter.com/TheRustyQuill/status/1286320163239976961)*

@@ -1,8 +1,8 @@
 ---
 title: Hypnotic Patterns
-draft: false
 tags:
   - tma
+publish: true
 ---
  Hypnotic patterns seem to be a recurring theme in cases of the Magnus Archives. Whether or not these are linked remains to be seen, but they will be documented here on the off chance they are important.
 

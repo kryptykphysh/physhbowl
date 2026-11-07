@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Jonathan Sims]], regarding a childhood encounter with a book formerly possessed by [[Jurgen Leitner]].
 ![[MAG_81_A_Guest_For_Mr_Spider.webp]]

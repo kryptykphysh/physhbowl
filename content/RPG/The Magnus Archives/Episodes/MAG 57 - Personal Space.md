@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Carter Chilcott]], regarding their time spent in isolation aboard the Space Station [[Daedalus]].
 ![[Mag_57_Personal_Space.webp]]

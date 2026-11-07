@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Darren Harlow]], regarding a failed psychology experiment at the University of Surrey.
 # Case Number

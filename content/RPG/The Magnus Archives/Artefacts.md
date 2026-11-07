@@ -1,8 +1,8 @@
 ---
 title: Artefacts
-draft: false
 tags:
   - tma
+publish: true
 ---
  A list of every artefact that has been mentioned or encountered.
 # Overview

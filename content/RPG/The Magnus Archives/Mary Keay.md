@@ -1,8 +1,8 @@
 ---
 title: Mary Keay
-draft: false
 tags:
   - tma
+publish: true
 ---
  Mary Keay is a recurring character in The Magnus Archives. She is not exclusively loyal to any of [[The Entities]], but she does use their power when it suits her. She is the mother of [[Gerard Keay]] and widow of [[Eric Delano]].
 # Affiliation

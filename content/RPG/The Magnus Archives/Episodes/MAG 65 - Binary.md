@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Tessa Winters]], regarding a strange computer program she downloaded from the deep web three months ago. Statement recorded direct from subject.
 ![[Mag_65_Binary.webp]]

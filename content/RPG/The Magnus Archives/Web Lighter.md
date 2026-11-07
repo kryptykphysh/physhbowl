@@ -1,9 +1,9 @@
 ---
 title: Web Lighter
-draft: false
 tags:
   - tma
   - artefact
+publish: true
 ---
  The Web Lighter is an [[Artefacts|artefact]] of [[The Web]] that is used to track [[Jonathan Sims]].
 ![[Mag_36_Web_Lighter.webp]]

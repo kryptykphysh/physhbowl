@@ -1,8 +1,8 @@
 ---
 title: Malperdys
-draft: false
 tags:
 aliases:
+publish: true
 ---
 So, ages ago now, it seems, I posted [[The Ultimate Sandbox]], and since then I've been pottering around posting stuff over on [the Malperdys site](malperdys.kryptykphysh.xyz) and it really has been a, "make me one with everything," kind of dumping ground.
 

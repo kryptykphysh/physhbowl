@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Hezekiah Wakely]] regarding his career as a gravedigger, compiled from a series of letters to [[Nathaniel Beale]] between 1837 and 1839.
 ![[Mag_152_Hezekiah.webp]]
 *Art by [Worm-Circus](https://worm-circus.tumblr.com/)*

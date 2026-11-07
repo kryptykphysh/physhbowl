@@ -1,10 +1,10 @@
 ---
 title: The Magnus Archives RPG
-draft: false
 tags:
   - rpg
   - cypher
   - tma
+publish: true
 ---
 # Make Your Statement
 # Face Your Fear

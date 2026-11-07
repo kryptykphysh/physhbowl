@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Adelard Dekker]], regarding the near-death and subsequent activities of [[Justin Gough]].
 # Case Number
 571-U

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Yuri Utkin]], regarding an incident in the Russian village of Algasovo in November 1952.
 # Case Number

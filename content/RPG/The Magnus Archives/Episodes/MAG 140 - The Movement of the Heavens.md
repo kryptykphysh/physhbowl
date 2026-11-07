@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[John Flamsteed]], taken from a partial unsent letter to Abraham Sharp in 1715.
 # Case Number
 7150101

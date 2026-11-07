@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 [The Magnus Institute](https://the-magnus-archives.fandom.com/wiki/The_Magnus_Institute "The Magnus Institute")'s new Archivist attempts to record the statement of Nathan Watts.
 
 # Meta Info

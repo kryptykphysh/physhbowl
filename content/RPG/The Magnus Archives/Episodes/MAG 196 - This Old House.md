@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 A statement on Reality recorded by [[Martin Blackwood|Martin K Blackwood]].
 # Case Number
 ########-36

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Ronald Sinclair]] regarding his years spent in a teenage half way house on [[Hill Top Road]], Oxford.
 # Case Number

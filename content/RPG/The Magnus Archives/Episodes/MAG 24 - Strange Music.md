@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Leanne Denikin]], regarding an antique [[Calliope|calliope organ]] she possessed briefly in August 2004.
 # Case Number
 0051701

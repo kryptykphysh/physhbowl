@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Masato Murray]], regarding an unusual inheritance and the causes thereof.
 # Case Number

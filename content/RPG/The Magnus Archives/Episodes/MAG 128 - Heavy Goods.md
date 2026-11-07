@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of the surviving half of the being that calls itself [[Breekon and Hope]], regarding its own existence. Statement _extracted_ from subject.
 ![[MAG_128_Breekon_and_Hope_by_Aedeagus.webp]]
 *Breekon and Hope by [Aedeagus](https://aedeagus.tumblr.com/post/190845768921/love-a-couple-of-delivery-boys).*

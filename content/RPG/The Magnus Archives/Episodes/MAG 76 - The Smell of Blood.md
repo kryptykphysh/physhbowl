@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Melanie King]], regarding her further research into war ghosts. Statement recorded direct from subject.
 # Case Number

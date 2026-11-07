@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Considerations of youth. Recorded by [[Jonathan Sims|The Archivist]], in Situ.
 # Case Number
 ########-13

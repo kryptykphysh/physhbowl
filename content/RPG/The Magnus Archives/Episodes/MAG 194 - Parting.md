@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Considerations of observation. Recorded by [[The Archivist]] in Situ.
 # Case Number
 ########-34

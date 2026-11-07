@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Lawrence Moore]], regarding something that was not his cousin.
 # Case Number

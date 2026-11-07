@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Carlita Sloane]], regarding her work on a container ship travelling from Porto do Itaqui to Southampton.
 # Case Number
 0110201

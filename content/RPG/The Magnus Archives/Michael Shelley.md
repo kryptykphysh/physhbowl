@@ -1,8 +1,8 @@
 ---
 title: Michael Shelley
-draft: false
 tags:
   - tma
+publish: true
 ---
  
 Michael Shelley was one of [[Gertrude Robinson's]] archival assistants. Shelley was eventually sacrificed by Robinson to stop [[The Spiral]]'s ritual and became a part of [[The Distortion]].

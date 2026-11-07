@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 A case study on the administration of fear. Recorded by [[Jonathan Sims/The Archivist]] in Situ.
 # Case Number
 ########-32

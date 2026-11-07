@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Adelard Dekker]], taken from a letter to [[Gertrude Robinson]].
 # Case Number
 0090401

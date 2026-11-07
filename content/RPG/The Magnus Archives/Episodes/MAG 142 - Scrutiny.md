@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of an unknown bystander regarding an encounter with [[Jonathan Sims|The Archivist]].
 # Case Number
 0181206

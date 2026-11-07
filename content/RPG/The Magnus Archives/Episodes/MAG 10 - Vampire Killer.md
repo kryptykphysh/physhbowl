@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Trevor Herbert]], regarding his life as a self-proclaimed [[Vampires|vampire]] hunter.
 # Case Number
 0100710

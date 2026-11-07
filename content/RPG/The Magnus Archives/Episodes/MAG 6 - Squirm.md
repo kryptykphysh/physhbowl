@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [Timothy Hodge](https://the-magnus-archives.fandom.com/wiki/Timothy_Hodge "Timothy Hodge"), regarding his sexual encounter with Harriet Lee and her subsequent death.
 # Case Number
 0140912

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statements End.
 ![[MAG_200_by_c-r-m-16.webp]]
 *Art courtesy of [c-r-m-16](https://c-r-m-16.tumblr.com/post/646693391665627136/a-little-doodle-for-the-magnus-archives-finale).*

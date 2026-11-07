@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Gary Boylan]], regarding a strange track on his iPod.
 # Case Number
 0090310

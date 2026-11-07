@@ -1,8 +1,8 @@
 ---
 title: Robert Smirke
-draft: false
 tags:
   - tma
+publish: true
 ---
  
 **[Sir Robert Smirke](https://en.wikipedia.org/wiki/Robert_Smirke_\(architect\) "wp:Robert Smirke (architect)")** (1 October 1780 – 18 April 1867) was an English architect, one of the leaders of Gothic Revival architecture, though he also used other architectural styles. As architect to the Board of Works, he designed several major public buildings, including the main block and facade of the British Museum. He was a pioneer of the use of concrete foundations.

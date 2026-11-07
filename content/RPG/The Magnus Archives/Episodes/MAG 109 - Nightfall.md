@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Julia Montauk]], regarding her initial encounters with the hunter [[Trevor Herbert]].
 # Case Number
 0172906

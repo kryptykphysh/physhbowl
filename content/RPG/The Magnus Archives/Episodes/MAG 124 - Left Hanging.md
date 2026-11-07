@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Julian Jennings]], regarding a cable car journey up the Untersberg mountain range in Austria.
 # Case Number
 0121112

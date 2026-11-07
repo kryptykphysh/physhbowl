@@ -1,8 +1,8 @@
 ---
 title: Littledean Hall
-draft: false
 tags:
   - tbce
+publish: true
 ---
 ![[littledean_hall_0.webp]] 
 Terrifying, isn't it?

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Percy Fawcett]], regarding his final expedition into the Amazon.
 # Case Number
 9302706

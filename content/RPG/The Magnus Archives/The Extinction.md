@@ -1,8 +1,8 @@
 ---
 title: The Extinction
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Extinction.webp]]
  *Entity inspired Tarot by Grace Holsten*

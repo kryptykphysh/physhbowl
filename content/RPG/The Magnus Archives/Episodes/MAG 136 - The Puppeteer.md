@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Alison Killala]], regarding her time as friend and carer to special effects artist [[Neil Lagorio]].
 # Case Number
 0120112

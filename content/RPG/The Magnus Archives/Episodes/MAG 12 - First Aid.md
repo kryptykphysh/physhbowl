@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Lesere Saraki]], regarding a recent night-shift at St. Thomas Hospital, London.
 ![[Mag_12_first_aid.webp]]
 *Free use stock photo courtesy of www.pexels.com*

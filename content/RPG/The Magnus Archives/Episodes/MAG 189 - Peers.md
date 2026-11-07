@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Considerations of governmental oversight. Recorded by [[Jonathan Sims|The Archivist]] in Situ.
 # Case Number
 ########-29

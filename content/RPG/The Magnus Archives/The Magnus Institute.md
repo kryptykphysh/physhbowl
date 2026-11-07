@@ -1,8 +1,8 @@
 ---
 title: The Magnus Institute
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Magus_Institute_Crest.webp]]
  > **_“Audio. Opperior. Vigilo."_  

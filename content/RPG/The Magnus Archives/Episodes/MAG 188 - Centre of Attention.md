@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Observations of surveillance. Recorded by [[Jonathan Sims/The Archivist]] in Situ.
 # Case Number
 ########-28

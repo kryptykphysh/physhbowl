@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Adrian Weiss]], regarding a childhood friend.
 # Case Number

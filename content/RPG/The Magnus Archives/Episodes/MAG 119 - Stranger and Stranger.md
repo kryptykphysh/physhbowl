@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 ![[MAG_119_by_neorainbow.webp]]
 *Art courtesy of [UstalavianAgent](https://www.reddit.com/r/TheMagnusArchives/comments/cutt53/its_nikola_orsinov_can_i_call_you_nikola_orsinov/).*
 # Case Number

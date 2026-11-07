@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Harold Silvana]], regarding discoveries made during the renovation of the [Reform Club](https://www.reformclub.com/), Pall Mall.
 ![[Mag_35_Old_Passages.webp]]

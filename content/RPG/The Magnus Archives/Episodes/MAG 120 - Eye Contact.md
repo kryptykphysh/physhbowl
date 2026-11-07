@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Elias Bouchard]], regarding the dreams of [[Jonathan Sims]], Head Archivist of the [[Magnus Institute]], currently unresponsive. Details pulled directly from subject.
 # Case Number
 0170908

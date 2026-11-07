@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of Doctor [[Algernon Moss]] regarding The [[Sandman]].
 # Case Number
 8640514

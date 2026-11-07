@@ -1,8 +1,8 @@
 ---
 title: Timothy Stoker
-draft: false
 tags:
   - tma
+publish: true
 ---
  Timothy Stoker is an archival assistant at [[The Magnus Institute]], London. He helps [[Jonathan Sims]] with statement follow-ups by looking into the details of various cases.
 # Aliases

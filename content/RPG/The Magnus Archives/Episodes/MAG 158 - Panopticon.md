@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Original recording of the events leading up to the disappearance of [[Jonathan Sims]], [[Martin Blackwood]], [[Alice Daisy Tonner|Alice Tonner]], and [[Peter Lukas]].
 # Case Number
 0182509-A

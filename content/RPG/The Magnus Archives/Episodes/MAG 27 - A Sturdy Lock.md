@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Paul MacKenzie]], regarding repeated nocturnal intrusions into his home.
 # Case Number
 0032408

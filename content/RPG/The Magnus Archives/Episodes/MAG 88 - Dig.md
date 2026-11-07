@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Enrique MacMillan]], regarding the act of digging.
 # Case Number
 0030411

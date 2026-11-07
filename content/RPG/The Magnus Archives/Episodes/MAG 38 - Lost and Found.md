@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[André Ramao]], regarding a series of misplaced objects lost over the course of three months.
 ![[Mag_38_Lost_and_Found.webp]]

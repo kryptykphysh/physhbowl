@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Tova McHugh]] regarding their string of near-death experiences.
 # Case Number
 0020312

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Recording of a brief hospital visit.
 # Audio By
 [[Martin Blackwood]]

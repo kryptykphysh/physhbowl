@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Manuela Dominguez]] regarding the fall of [[The People's Church of the Divine Host]].
 ![[MAG_143_ThePrettySun_sandpaperdaisy.webp]]
 *Image by [Sandpaperdaisy](https://sandpaperdaisy.com/)*

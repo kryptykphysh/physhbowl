@@ -1,8 +1,8 @@
 ---
 title: The End
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_End.webp]]
  *Entity inspired Tarot by Grace Holsten*

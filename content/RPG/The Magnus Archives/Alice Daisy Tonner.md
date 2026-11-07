@@ -1,11 +1,11 @@
 ---
 title: Alice "Daisy" Tonner
-draft: false
 tags:
   - tma
 aliases:
   - Daisy Tonner
   - Alice Tonner
+publish: true
 ---
  Alice "Daisy" Tonner is a detective who has signed a [[Section 31]] form, meaning that she is called upon to deal with supernatural cases.
 # Aliases

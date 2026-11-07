@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Mary Keay]] regarding her first [[Jurgen Leitner|Leitner]].
 # Case Number

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Gerard Keay]] regarding the death of his mother, [[Mary Keay]].
 ![[Mag_111_family_business.webp]]
 *Image by @artopodians on Twitter*

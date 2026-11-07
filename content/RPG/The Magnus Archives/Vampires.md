@@ -1,8 +1,8 @@
 ---
 title: Vampires
-draft: false
 tags:
   - tma
+publish: true
 ---
  Vampires, as termed by [[Trevor Herbert]], are predatory entities that feed on human blood. They are referred to as "bloodsuckers" in [[MAG 133 - Dead Horse]].
 # Aliases

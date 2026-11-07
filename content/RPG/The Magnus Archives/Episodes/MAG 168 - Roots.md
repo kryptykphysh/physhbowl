@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 A Post-Mortem report for reality from [[Oliver Banks]]. Recorded by [[Jonathan Sims|The Archivist]], in Situ.
 # Case Number
 ########-8

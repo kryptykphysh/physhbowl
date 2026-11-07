@@ -1,8 +1,8 @@
 ---
 title: Melanie King
-draft: false
 tags:
   - tma
+publish: true
 ---
 Melanie King is a paranormal investigator who runs the _[[Ghost Hunt UK]]_ YouTube Channel.
 # Affiliation

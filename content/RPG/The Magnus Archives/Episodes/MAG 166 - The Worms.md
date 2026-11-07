@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Lamentation of those left below. Audio recording by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
 ########-6

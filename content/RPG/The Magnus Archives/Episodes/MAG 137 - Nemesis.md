@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Wallis Turner]]. Incident occurred at the North Point prisoner-of-war camp, then later the sunken ship _[[Nemesis]]_ in late 1942. Statement taken 3rd July 1955 at the [[Pu Songling Research Centre]], Beijing.
 # Case Number
 9550307

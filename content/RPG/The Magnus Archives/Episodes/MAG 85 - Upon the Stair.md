@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of an unknown figure, regarding an encounter they may or may not have had in their home. Date of original statement unclear, although [[Jonathan Sims|Jonathan]] judges by the paper quality that it occurred between 20 and 30 years ago (1987-1997).
 # Case Number

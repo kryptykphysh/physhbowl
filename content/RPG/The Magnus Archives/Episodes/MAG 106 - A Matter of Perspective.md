@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 [[Jan Kilbride]]'s account of his time spent aboard the space station [[Daedalus]].
 ![[MAG_106_by_basiliskblues.webp]]
 *Image by [Basiliskblues](https://basiliskblues.tumblr.com/post/188214194471/day-8-daedalus-satellite) on Tumblr*

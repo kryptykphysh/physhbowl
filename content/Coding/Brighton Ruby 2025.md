@@ -1,10 +1,10 @@
 ---
 title: Brighton Ruby 2025
-draft: false
 tags:
   - coding
   - ruby
 aliases:
+publish: true
 ---
 
 ![[brighton_ruby.jpg]]

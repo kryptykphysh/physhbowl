@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 A discussion on the edge of reality, recorded in Situ
 # Case Number
 ########-37

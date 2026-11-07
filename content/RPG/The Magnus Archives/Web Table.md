@@ -1,9 +1,9 @@
 ---
 title: Web Table
-draft: false
 tags:
   - tma
   - artefact
+publish: true
 ---
 # First Appearance
 [[MAG 3 - Across the Street]]

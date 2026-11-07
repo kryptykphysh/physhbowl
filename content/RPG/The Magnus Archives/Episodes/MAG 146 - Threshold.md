@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Marcus MacKenzie]], regarding a series of unexplored entryways.
 # Case Number
 0030109

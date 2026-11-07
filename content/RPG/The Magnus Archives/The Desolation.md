@@ -1,8 +1,8 @@
 ---
 title: The Desolation
-draft: false
 tags:
   - tma
+publish: true
 ---
  
 ![[The_Desolation.webp]]

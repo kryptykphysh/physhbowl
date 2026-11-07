@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Joseph Russo]] regarding a book allegedly authored by [[Sir Frederick Treves]].
 ![[MAG_68_by_the-library-of-leitner.webp]]

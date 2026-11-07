@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Floyd Matharu]] regarding his time aboard the _[[Dorian]]_ from 2011 to 2014.
 # Case Number
 0181106

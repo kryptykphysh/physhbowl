@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Peter Lukas]] regarding his life, [[The Lukas Family|family]] and interactions with [[The Lonely]].
 ![[MAG_159_The_Last.webp]]
 *Image by @VISITFROMHR on Twitter*

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Howard Ewing]], regarding his interview with an unidentified member of British Transport Police.
 # Case Number
 0100102

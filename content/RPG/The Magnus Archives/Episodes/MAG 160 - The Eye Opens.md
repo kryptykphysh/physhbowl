@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Jonah Magnus]] regarding [[Jonathan Sims]], [[Jonathan Sims|The Archivist]].
 # Case Number
 0181810

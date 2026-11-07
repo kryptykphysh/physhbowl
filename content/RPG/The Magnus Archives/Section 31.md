@@ -1,8 +1,8 @@
 ---
 title: Section 31
-draft: false
 tags:
   - tma
+publish: true
 ---
  _This article is about the section itself, you may be looking for [[MAG 43 - Section 31|the episode]]._
 

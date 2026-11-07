@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Lee Rentoul]], on the murder of his associate [[Paul Noriega]].
 # Case Number
 0112905

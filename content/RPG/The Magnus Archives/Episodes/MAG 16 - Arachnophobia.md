@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Carlos Vittery]] regarding his Arachnophobia and its manifestations.
 # Case Number
 0150904

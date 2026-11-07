@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Original recording of [[Jane Prentiss]]' attack upon [[The Magnus Institute]] on July 29th, 2016.
 ![[Mag_39_The_Infestation.webp]]

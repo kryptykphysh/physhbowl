@@ -1,8 +1,8 @@
 ---
 title: NotThem
-draft: false
 tags:
   - tma
+publish: true
 ---
 The "NotThem" (as referred to by [[Adelard Dekker]]) is a shapechanging creature affiliated with the [[The Entities|Entity]] known as [[The Stranger]]. It has the ability to alter memories of those who knew its victims, as well as print and digital photos (although Polaroids seem to be immune). It then replaces them, living an apparently normal life, until moving on to a new victim. For each victim shown, one person is chosen to be immune to its reality-distorting effects, realizing that the NotThem looks distinctly unlike the person it is impersonating. In several cases, it takes a great deal of pleasure in tormenting these people.
 

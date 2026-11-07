@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Robert E. Geiger]] regarding a dust storm in Boise City, Oklahoma, and the death of [[Stefan Brotchen]].
 # Case Number
 9522002

@@ -1,6 +1,5 @@
 ---
 title: A New Beginning
-draft: false
 tags:
 aliases:
 publish: true

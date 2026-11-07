@@ -1,8 +1,8 @@
 ---
 title: The Slaughter
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Slaughter.webp]]]]
  *Entity inspired Tarot by Grace Holsten*

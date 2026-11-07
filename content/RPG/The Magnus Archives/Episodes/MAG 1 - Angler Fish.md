@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Nathan Watts]] regarding an encounter on Old Fishmarket Close, Edinburgh.
 
 ![[Mag_1.webp]]

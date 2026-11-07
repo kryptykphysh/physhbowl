@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Andrea Nunis]], regarding a series of encounters in the streets of Genoa, Italy.
 ![[Mag_48_The_crowd-cropped_by_sandpaperdaisy.webp]]

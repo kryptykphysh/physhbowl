@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Mark Bilham]], regarding events culminating in his visit to Hither Green chapel.
 ![[Mag_25_Growing_dark.webp]]
 *Thumbnail art by [Captainclovey](https://captainclovey.tumblr.com/) on Tumblr*

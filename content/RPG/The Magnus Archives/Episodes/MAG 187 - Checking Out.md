@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 An exploration of hospitality. Recorded by [[Jonathan Sims|The Archivist]] in Situ.
 # Case Number
 ########-27

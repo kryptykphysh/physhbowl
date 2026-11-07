@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Jared Hopworth]], the Boneturner, regarding his association with [[The Flesh]] and recent activities.
 # Case Number
 0182003

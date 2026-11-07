@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Rosa Meyer]], concerning a persistent feeling of being watched.
 ![[Mag_60_Observer_Effect.webp]]

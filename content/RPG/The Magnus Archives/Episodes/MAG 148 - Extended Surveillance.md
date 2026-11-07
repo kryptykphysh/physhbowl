@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Sunil Maraj]], regarding their work as a security guard and the disappearance of their co-worker [[Samson Stiller]].
 # Case Number
 0110304

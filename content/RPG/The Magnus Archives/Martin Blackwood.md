@@ -1,8 +1,8 @@
 ---
 title: Martin Blackwood
-draft: false
 tags:
   - tma
+publish: true
 ---
  Martin Blackwood is one of the archival assistants working for the [[Magnus Institute]] and has worked for the Institute since at least 2009. He helps [[Jonathan Sims]], the Head Archivist, by following up on the Archive's cases. Initially, [[Jonathan Sims|John]] does not appear to value his services, saying he will contribute "nothing but delays.”
  

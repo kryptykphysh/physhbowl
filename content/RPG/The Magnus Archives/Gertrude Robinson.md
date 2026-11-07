@@ -1,8 +1,8 @@
 ---
 title: Gertrude Robinson
-draft: false
 tags:
   - tma
+publish: true
 ---
 Gertrude Robinson was the Head Archivist of the [[Magnus Institute]] before [[Jonathan Sims]]. She was directly responsible for thwarting at least five different [[Rituals]] and many other paranormal threats.
 # Aliases

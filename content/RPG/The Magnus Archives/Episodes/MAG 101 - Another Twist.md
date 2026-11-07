@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[The Distortion|Michael]], regarding himself.
 ![[MAG_101_Another_Twist_by_Amindele.webp]]
 *Image by [u/Amindele](https://www.reddit.com/r/TheMagnusArchives/comments/e2nz80/drew_some_prepost_distortion_michael_shelley/) on reddit*

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 An approach to hidden depths. Recorded by [[The Archivist]] in Situ.
 # Case Number
 ########-35

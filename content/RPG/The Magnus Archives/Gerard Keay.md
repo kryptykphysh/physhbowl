@@ -1,8 +1,8 @@
 ---
 title: Gerard Keay
-draft: false
 tags:
   - tma
+publish: true
 ---
  Gerard Keay is a distinctly goth-looking young man who frequently appears in connection with the supernatural. He is the son of [[Mary Keay]] and [[Eric Delano]].
 # Aliases

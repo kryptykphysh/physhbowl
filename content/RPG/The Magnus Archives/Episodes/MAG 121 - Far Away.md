@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Oliver Banks]], given to an unconscious [[Jonathan Sims]]. Statement recorded by subject directly.
 ![[MAG_121.webp]]
 *Art made by [Aidahsaurus](https://the-magnus-archives.fandom.com/wiki/User:Aidahsaurus) on Fandom.*

@@ -1,8 +1,8 @@
 ---
 title: The Buried
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Buried.webp]]
  *Entity inspired Tarot by Grace Holsten*

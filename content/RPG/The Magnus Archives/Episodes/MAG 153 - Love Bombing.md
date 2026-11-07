@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Barbara Mullen-Jones]], regarding her nine months with the [[Divine Chains Cult|Divine Chain]] cult.
 ![[MAG_153_Agape_reefshark54.JPG.webp]]
 *Art courtesy of [Reefshark54](https://mobile.twitter.com/reefshark54/status/1283955518533402624).*

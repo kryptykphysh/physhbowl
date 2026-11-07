@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Martin Blackwood]], archival assistant at [[The Magnus Institute]], regarding a close encounter with something he believes to have once been [[Jane Prentiss]].
 # Case Number
 0161203

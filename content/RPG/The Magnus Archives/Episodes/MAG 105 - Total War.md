@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of Second Lieutenant [[Charles Fleming]], regarding his experiences during the Taiping Rebellion.
 # Case Number
 D-1862-143

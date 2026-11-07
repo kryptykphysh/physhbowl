@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 The recollections of [[Martin Blackwood]]. Recorded in Situ.
 ![[MAG_170_Recollection.webp]]
 *Image by [@skyberia](https://skyberia.tumblr.com/post/620042184671019008/i-dont-like-me-sometimes-and-i-am-me) on Tumblr*

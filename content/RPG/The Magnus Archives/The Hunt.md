@@ -1,8 +1,8 @@
 ---
 title: The Hunt
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Hunt.webp]]
  *Entity inspired Tarot by Grace Holsten*

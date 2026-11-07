@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Lucia Wright]], regarding a hole filled with meat.
 # Case Number
 0081912

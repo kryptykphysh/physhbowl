@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Barnabas Bennett]], as given in a short letter to [[Jonah Magnus]].
 # Case Number
 0172804-B

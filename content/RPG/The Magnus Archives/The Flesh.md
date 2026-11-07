@@ -1,8 +1,8 @@
 ---
 title: The Flesh
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Flesh.webp]]
  *Entity inspired Tarot by Grace Holsten*

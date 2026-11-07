@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Jack Barnabas]] regarding a short-lived courtship with [[Agnes Montague]] in the Autumn of 2006.
 ![[MAG_67_Burning_Desire.webp]]

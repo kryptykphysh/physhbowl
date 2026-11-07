@@ -1,8 +1,8 @@
 ---
 title: Where Have All The Anti-Fascists Gone?
-draft: false
 tags:
   - antifascist
+publish: true
 ---
  
 I'm looking to get a bit more active promoting a progressive agenda and thought to start with the anti-fascist organisations, but it seems most of the ones in the UK evaporated at the end of the 80's. Did they all evaporate with the departure of Thatcher? Coincidence? Anyway, currently looking at, "[Hope Not Hate](https://hopenothate.org.uk/)," since that's actually even more of a message I can get behind.

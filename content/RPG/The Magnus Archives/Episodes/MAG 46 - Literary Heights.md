@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Herbert Knox]], regarding a repeat customer to his bookshop in Chichester.
 # Case Number

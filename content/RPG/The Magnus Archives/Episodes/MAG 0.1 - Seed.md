@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 The first pre-launch trailer published on The Magnus Archives' podcast feed.
 # Recording
 

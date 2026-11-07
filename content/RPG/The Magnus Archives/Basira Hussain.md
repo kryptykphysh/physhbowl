@@ -1,8 +1,8 @@
 ---
 title: Basira Hussain
-draft: false
 tags:
   - tma
+publish: true
 ---
 Basira Hussain is a police officer who has signed a [[Section 31]] form as she stated in episode 43, which means that she has investigated cases with supernatural elements in the past, and will be called upon when other cases turn weird.
 

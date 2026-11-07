@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Navigating the descent, recorded in situ.
 # Case Number
 ########-38

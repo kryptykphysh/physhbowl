@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Thomas Neill]], regarding his experiences working in malarial research during the spring of 2010.
 # Case Number

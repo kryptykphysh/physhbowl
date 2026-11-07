@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Lester Chang]] regarding the cleaning habits of his father-in-law.
 ![[MAG_93.webp]]
 *Image by [Kinderstreichkaese](https://www.reddit.com/r/TheMagnusArchives/comments/kug1d7/hoop_for_episode_93_contaminant_i_love/) on reddit*

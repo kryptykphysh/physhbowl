@@ -1,8 +1,8 @@
 ---
 title: Breekon & Hope (company)
-draft: false
 tags:
   - tma
+publish: true
 ---
  Breekon & Hope Deliveries is a shipping company that often appears in connection with esoteric and paranormal occurrences. It was founded by Alfred Breekon and taken over in 1993 by two agents of [[The Stranger]] who began calling themselves [[Breekon & Hope|"Breekon" and "Hope".]] [[Alfred Breekon]] was killed three years later after receiving a strange box, which he presumably opened in 1996 after giving his statement to [[The Magnus Institute]]. The company continued to operate under the management of "Breekon" and "Hope" until it officially shut down in 2013.
 # Company Info

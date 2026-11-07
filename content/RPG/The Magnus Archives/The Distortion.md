@@ -1,8 +1,8 @@
 ---
 title: The Distortion
-draft: false
 tags:
   - tma
+publish: true
 ---
  The Distortion is an [[Avatar]] of [[The Spiral]]. Prior to [[The Spiral]] [[Rituals|ritual]] that was stopped by [[Gertrude Robinson]] and [[Michael Shelley]], they appeared as a door unbound by physics that led to a series of impossibly twisting corridors. After the ritual's failing they appear and exist as a distorted human but retain the ability to manifest the doors and corridors. They take great pleasure in making their victims question the integrity of their minds and in luring people into their corridors.
 # Aliases

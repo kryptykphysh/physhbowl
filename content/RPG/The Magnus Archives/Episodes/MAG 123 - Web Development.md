@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Angie Santos]], regarding a website developed by one [[Gregory Cox]].
 # Case Number
 0150108

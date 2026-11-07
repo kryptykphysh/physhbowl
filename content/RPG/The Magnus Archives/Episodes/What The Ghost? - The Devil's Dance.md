@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 An episode of the _[[What The Ghost?]]_ podcast presented by [[Georgie Barker]].
 # Audio By
 [[Georgie Barker]]

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Dominic Swain]], regarding a book briefly in his possession in the winter of 2012.
 ![[Mag_4_Page_turner.webp]]
 *Art by [all-spare-parts](https://all-spare-parts.tumblr.com/) on tumblr*

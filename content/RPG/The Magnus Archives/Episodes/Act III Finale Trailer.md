@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 The Final act begins.
 # Locations
 - London

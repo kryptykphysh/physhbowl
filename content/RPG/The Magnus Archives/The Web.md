@@ -1,8 +1,8 @@
 ---
 title: The Web
-draft: false
 tags:
   - tma
+publish: true
 ---
  ![[The_Web.webp]]
  *Entity inspired Tarot by Grace Holsten*

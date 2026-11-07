@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Albrecht von Closen]], regarding a discovered tomb near his estate in the Black Forest.
 # Case Number
 8163103

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Alexander Scaplehorn]] regarding his evaluation of [[The Trophy Room]] taxidermists in Barnet.
 ![[Mag_54_Still_Life.webp]]

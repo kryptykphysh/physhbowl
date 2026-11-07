@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of Keiran Woodward, regarding items recovered from the refuse of 93 Lancaster Rd, Walthamstowe.
 ![[Mag_5.webp]]
 *Image by [huginsquill](https://huginsquill.tumblr.com/post/188401869899/teeth-teeth-teeth-teeth-teeth-teeth-teeth-teeth) on Tumblr*

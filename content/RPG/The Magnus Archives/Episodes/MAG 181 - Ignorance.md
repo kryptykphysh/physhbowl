@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Moments of preparation and recuperation. Audio recorded by [[Jonathan Sims/The Archivist]], in situ.
 # Case Number
 ########-21

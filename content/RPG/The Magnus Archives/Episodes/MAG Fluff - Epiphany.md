@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 In late 2019 Rusty Quill ran a writing competition for light-hearted scenes from life at [[The Magnus Institute]] and the Archives. Epiphany was written by Jack Beckwith and is one of the winning entries. It takes place in the latter half of [[The Magnus Archives - Season 1]].
 
 Epiphany was originally released as a Patreon bonus on February 14, 2020 and Rusty Quill considers the Patreon bonus material to not be strictly canonical but a form of pseudo-canon.

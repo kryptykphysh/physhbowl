@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of an outbreak. Audio recording by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
 ########-4

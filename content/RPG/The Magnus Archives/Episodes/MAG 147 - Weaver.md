@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Annabelle Cane]], regarding her history and her observations of [[The Magnus Institute]], London.
 # Case Number
 0182007

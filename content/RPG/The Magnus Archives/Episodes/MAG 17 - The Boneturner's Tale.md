@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 _This article is about the episode, you may be looking for [[The Boneturner's Tale (atrefact)|the artefact]]._
 
 Statement of [[Sebastian Adekoya]], regarding a new acquisition at Chiswick Library.

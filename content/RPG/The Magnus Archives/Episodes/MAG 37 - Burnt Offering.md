@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Jason North]], regarding the discovery of an alleged ritual site found near Loch Glass in Scotland.
 # Case Number

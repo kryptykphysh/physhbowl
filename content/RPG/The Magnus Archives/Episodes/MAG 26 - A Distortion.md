@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Sasha James]], assistant archivist at [[The Magnus Institute]], regarding a series of paranormal sightings.
 ![[Mag_26_the_distortion.webp]]
 *Art courtesy of [Windmill Ghost](https://windmill-ghost.tumblr.com/post/189342286305/statement-again-no-problem-a-distortion-a)*

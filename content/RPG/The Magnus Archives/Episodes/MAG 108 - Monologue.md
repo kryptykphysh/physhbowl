@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Adonis Biros]], regarding his performance on stage.
 ![[Mag_108_Monologue.webp]]
 *Art by Rokokokokotte.*

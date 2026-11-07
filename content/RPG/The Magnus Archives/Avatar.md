@@ -1,8 +1,8 @@
 ---
 title: Avatar
-draft: false
 tags:
   - tma
+publish: true
 ---
  
 Avatar is a term commonly used to refer to individuals who have gained otherworldly abilities through their connection to [[The Entities]]. There is no absolute definition of the term as it is a human attempt to categorise and define the effect [[The Entities]] can have upon humans. The term "avatar" was apparently coined by [[Georgie Barker]] in [[MAG 93 - Contaminant]], though [[Adelard Dekker]] also uses it in [[MAG 157 - Rotten Core]].

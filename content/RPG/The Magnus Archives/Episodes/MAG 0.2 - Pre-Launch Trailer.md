@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 [[The Magnus Institute]]'s new Archivist makes his first attempt to record a statement.
 # Author
 Jacob

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Lawrence Mortimer]], regarding his hunting trip to Blue Ridge, Virginia.
 # Case Number

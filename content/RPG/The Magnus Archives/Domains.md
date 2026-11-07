@@ -1,9 +1,9 @@
 ---
 title: Domains
-draft: false
 tags:
   - tma
 aliases:
+publish: true
 ---
 The Domains are the areas of the world in which victims of [[The Entities]] are placed to be tortured and have their fear harvested, in the post-[[The Change|Change]] world.
 # Mechanics of Domains

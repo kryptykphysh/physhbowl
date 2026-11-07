@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Ross Davenport]], regarding his experiences at a local gym.
 # Case Number
 0130807

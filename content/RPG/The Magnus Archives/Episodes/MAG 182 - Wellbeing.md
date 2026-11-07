@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Notes on healing. Audio recorded by [[Jonathan Sims|The Archivist]], in situ.
 # Case Number
 ########-22

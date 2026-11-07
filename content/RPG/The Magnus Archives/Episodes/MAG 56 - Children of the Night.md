@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Continued statement of [[Trevor Herbert]], regarding the latter years of his career as a [[Vampires|vampire]] hunter.
 # Case Number

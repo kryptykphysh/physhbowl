@@ -1,7 +1,7 @@
 ---
 title: The Dark
-draft: false
 tags:
+publish: true
 ---
  ![[The_Dark.webp]]
  *Entity inspired Tarot by Grace Holsten*

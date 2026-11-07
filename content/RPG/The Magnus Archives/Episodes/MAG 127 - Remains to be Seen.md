@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of Doctor [[Jonathan Fanshawe]], regarding the months leading to the death and autopsy of [[Albrecht von Closen]].
 # Case Number
 8312111

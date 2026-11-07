@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Michael Crew]] regarding his experiences with the supernatural.
 ![[MAG_91.webp]]
 *Image by Gammija on [tumblr](https://gammija.tumblr.com/post/616677552609755136/i-spent-waay-too-much-time-on-this-just-take-it)*

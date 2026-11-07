@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 An examination of [[Elias Bouchard]]. Recorded by [[The Archivist]] in Situ.
 # Case Number
 ########-33

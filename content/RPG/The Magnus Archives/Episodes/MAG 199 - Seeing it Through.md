@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 A discussion on the fate of reality and humanity.
 # Case Number
 ########-39

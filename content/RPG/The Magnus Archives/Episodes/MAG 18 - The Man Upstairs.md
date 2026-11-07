@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Statement of [[Christof Rudenko]], regarding his interactions with a first floor resident of Welbeck House, Wandsworth.
 # Case Number
 0081212

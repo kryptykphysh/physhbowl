@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Basira Hussain]], regarding the attempted arrest of [[Maxwell Rayner]].
 # Case Number

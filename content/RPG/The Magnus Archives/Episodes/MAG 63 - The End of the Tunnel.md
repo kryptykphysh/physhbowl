@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Erin Gallagher-Nelson]], regarding an urban exploration trip beneath St Paul’s Church West Hackney.
 ![[MAG_63.webp]]

@@ -1,8 +1,8 @@
 ---
 title: List of Books
-draft: false
 tags:
   - tma
+publish: true
 ---
 This is a list of paranormal books that have been mentioned or encountered. It is not yet known how many of these books exist in the world, although [[Jurgen Leitner]] mentioned having 978 in his library at its height.
 # Overview

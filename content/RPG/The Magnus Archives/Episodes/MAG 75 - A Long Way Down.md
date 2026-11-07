@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Pre-Statement
 Statement of [[Stephen Walker]], regarding his brother's disappearance from the top of Tour Montparnasse.
 # Case Number

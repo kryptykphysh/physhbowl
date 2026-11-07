@@ -1,8 +1,8 @@
 ---
 title: Nikola Orsinov
-draft: false
 tags:
   - tma
+publish: true
 ---
  **Nikola Orsinov** is a recurring character in the Magnus Archives and is either an acolyte or an aspect of [[The Stranger]]. She appears as a plastic female mannequin dressed as a circus ringmaster, although she can disguise herself as human using stolen skin and a 'borrowed' voicebox. She is the main antagonist of [[Season 3]].
 # Aliases
