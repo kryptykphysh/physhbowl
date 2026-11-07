@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: en-GB
   baseUrl: physhbowl.kryptykphysh.xyz
   ignorePatterns:
     - private
@@ -44,7 +44,7 @@ plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
-      defaultDateType: modified
+      defaultDateType: created
       priority:
         - frontmatter
         - git
@@ -110,13 +110,10 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source:
-      name: quartz-themes
-      repo: "https://github.com/saberzero1/quartz-themes.git"
-      subdir: plugin
-    enabled: true
+  - source: "@quartz-themes/core"
+    enabled: false
     options:
-      theme: "default"
+      theme: tokyo-night
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
