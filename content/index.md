@@ -1,5 +1,6 @@
 ---
 title: Welcome to the Physhbowl
+publish: true
 ---
 ![[pexels-ron-lach-9783810.jpg]]
 # Why is this?
@@ -10,6 +11,7 @@ This site exists as my attempt at a [Digital Garden](https://maggieappleton.com/
 Which is nice.
 
 # Latest
+[[A New Beginning]] - 2026-11-07
 [[Malperdys]] - 2025-10-02
 # What is this?
 - [[content/Coding/index|Coding]]

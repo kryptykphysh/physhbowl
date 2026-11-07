@@ -110,10 +110,13 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source: "@quartz-themes/core"
+  - source:
+      name: quartz-themes
+      repo: "https://github.com/saberzero1/quartz-themes.git"
+      subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: "default"
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
