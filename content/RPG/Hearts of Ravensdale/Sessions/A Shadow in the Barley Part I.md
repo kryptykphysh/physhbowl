@@ -47,4 +47,16 @@ On the road to the village of Ravenhome, laughter catches the ear from the newly
 
 ![[waken_sentry.png]]
 
-WIP...
+Driven by his duty to protect all denizens of the Dales as a deputised Red Marshal, [[Finn]] leapt from the cart, rushing headlong through the barley to interpose himself between the Creature of Twilight and poor Willow, who was paralysed with terror. Up close, [[Finn]] could determine that the arms and armour worn by the dripping, stinking monstrosity were once-fine artefacts of Old Gwyrdolin, the kingdom gone these many generations. Foul, black, brackish water was oozing over what looked like mummified human remains within the worn battle harness, and a palpable aura of ==🟢*terror-3*== washed over our bold Marshal, but he stood resolute guard over his ward.
+
+As [[Morgan|Morgan's]] feathered friends mobbed the creature, the village wise woman, [[Rosie]] stood up in the cart, calling on the protection of the Lady for Willow against what was plainly something that had no place in the serenity of the Dalelands.
+
+in the back of the cart, the stern archer [[Alex Windswift|Alex]], pulled his ==🟠*fine longbow*== back to full draw... He had still not had time to remove the ==🟢*sticky-2*== sapsauce from his time in the fields, and this was distracting him. Also hindering his shot was [[Finn]]; The Marshal stood not only between Willow and the Creature, but between the archer and his mark. But [[Alex Windswift|Alex's]] ==🟠*cool head*== and *==🟠keen eyesight==* did not fail him and his broad headed arrow flew true, whispering past [[Finn|Finn's]] cheek to slice through what little solid sinews kept the Twilight creature's head attached to its shoulders. With a great gout of fetid fluids, the head and neck parted ways, and the armour clattered to the ground. Horrified at the effectiveness of his shot and the disgusting effluent released, [[Alex Windswift|Alex]] choked back ==🟢*nausea-2*==.
+
+Quickly, the rest of the band rushed forward to join [[Finn]] in the barley field. [[Bumbler|Bumbler's]] ==🟠*gentle touch*== helped soothe Willow and persuade her that it was safe to come with them. [[Morgan]] couldn't help himself when he saw the bright, brass highlights on the Old Gwyrdolin wargear and he quickly started stuffing as much of the old armour as he could in to the depths of his midnight, feathered cloak, his pet murder cawing with delight as they pecked at the leathery remains. Alas, the Crowbrother was not careful in his pilfering and stinking bog water covered his hands, leaving him ==🟢*poisoned-1*==.
+
+Wiser eyes knew to be more cautious of such a foul thing and [[Rosie|the Wise Woman's]] experience as an *==🟠Oldways Witch==* lent her ==🟠*curses and protections*== enough to unbind such a thing. As she set about cleansing the thing, she determined that the root cause of all this was something in the vile ichor that hissed as she poured salt and garlic over it. It was swamp water, sure, like the swamps to the south and east of Ravensdale, but it was suffused with something unnatural.
+
+From there, the band decided what to do. Plainly, Willow could not be left on her own, and [[Finn]] felt duty and honour bound to ensure the village itself was not under any immediate threat of more such creatures. He would take the wagon and Willow to the village to warn them of what had occurred and ensure they were safe. Meanwhile, the rest of the band would follow the obvious route of the creature up the hills out of the dale...
+
+## To be continued...
