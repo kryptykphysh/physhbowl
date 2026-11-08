@@ -7,12 +7,12 @@ tags:
 aliases:
 ---
 ![[a_shadow_in_the_barley.png]]
-We open on the road out of Ravenhome, a sleepy sanctuary to maybe four hundred souls, nestled in the Ravensdale. It is Spring and the fields and orchards around the village are bursting with life. As the land wakes, every hand is turned to working with nature to provide a healthy harvest to see the folk through their next winter. So it is, that we find our band dispatched by the alderman, to assist the Tubroots with their harvesting of the sweet, sicky sap from their orchard and the brewing of the Ravensdale reknowned sapsauce.
+We open on the road out of Ravenhome, a sleepy sanctuary to maybe four hundred souls, nestled in the Ravensdale. It is Spring and the fields and orchards around the village are bursting with life. As the land wakes, every hand is turned to working with nature to provide a healthy harvest to see the folk through their next winter. So it is, that we find our band dispatched by the alderman, to assist the Tubroots with their harvesting of the sweet, sicky sap from their orchard and the brewing of the Ravensdale reknowned sapsauce syrup.
 
 Under a canopy of verdant apple trees, the Tubroot orchard at the outskirts of Ravensdale could easily be mistaken for a natural grove with its elder trees scattered by the roots of the hill. Spigots 
-are hammered into the largest of them, and the sweetness of golden sap reaches your nose from the collected liquid in the buckets. 
+are hammered into the largest of them, and the sweetness of golden sap rises from the liquid collected in the buckets. 
 
-The road curves around dizzyingly until their wagon, booming with its jostling cargo of empty kegs, finally arrives at a clearing facing a barn painted orange. Young farmhands are all around preparing to harvest and process the sap into one of Ravensdale’s most coveted treats: sapsauce syrup.
+The road curves around dizzyingly until the fellowship's wagon, booming with its jostling cargo of empty kegs, finally arrives at a clearing facing a barn painted orange. Young farmhands are all around preparing to harvest and process the sap into one of Ravensdale’s most coveted treats: sapsauce syrup.
 
 A large bearded man hails their approach, a few of his children pestering him and running circles around him. This is Lance Tubroot, a stout, bearded man, built like a barrel, with a booming voice and a broad smile. He and his dozen children tend the orchard as farmhands and, while he *==🟠indulges his children==* terribly, he takes the brewing of the sapsauce syrup *very* seriously, and is ==🟠*crtitical of mistakes*==.
 
@@ -22,9 +22,10 @@ The quality of the Tubroot sapsauce is a result of their tried-and-tested recipe
 
 The first day is spent harvesting the raw sap from the Sapsauce trees. There are many trees around, but only the healthiest are to be tapped to provide the best-tasting sap. Hammering the spigot isn’t so easy either and sore muscles from the hard labour could leave workers aching and ==🟢*stiff-1*== from all the hammering.
 
-Luckily, our hero, [[Bumbler]] is a beekeeper with some experience amongst these orchards. Despite their reputation for drunkenness and tomfoolery, they truly are in their element. With good-natured cheer, he steers the team away from trees that conceal swarms of ill-tempered bees, choosing nothing but the choicest of trees to tap for their sweet sap. All the sap harvested is of the highest quality and [[Bumbler|Bumbler's]] contagious good spirits help all the workers from flagging.
+Luckily, our hero, [[Bumbler]] is a beekeeper with some experience amongst these orchards. Despite their reputation for drunkenness and tomfoolery, she truly is in her element. With good-natured cheer, she steers the team away from trees that conceal swarms of ill-tempered bees, choosing nothing but the choicest of trees to tap for their sweet sap. All the sap harvested is of the highest quality and [[Bumbler|Bumbler's]] contagious good spirits prevent the workers from flagging despite their efforts.
 
 Meanwhile, [[Alex Windswift|Alex]] has been tasked with keeping the most troublesome of the Tubroot spawn from getting in the way of the work and derailing the process with their incessant pranks. The most notorious pranksters, Ivy, Ollo and Jurard, watch the goings on with a devious glint in their eyes. If they're not underfoot with some foolishness, they're tattle-tailing to their father about some failing on the part of the strangers, imagined or otherwise. [[Alex Windswift|Alex]], takes the reprobates under his eagle-eyed wing, promising to make deadly archers out of them, with bows make from fresh, springy boughs. All seems to be in order, and [[Alex Windswift|Alex]] beams with pride at his protégés progress, which is replaced with gales of laughter when he's drenched with a skin of glue-ish sap dropped from the canopy overhead, leaving him ==🟢*sticky-2*==. All said, though, he does a fine job in keeping the children from underfoot of the rest of the workers.
+
 ![[ivy.png]]
 *Ivy is often up to no good*
 
