@@ -14,4 +14,4 @@ Our *Legend in the Mist* campaign in the *Hearts of Ravensdale* setting.
 
 # Actual Play Sessions
 
-2026-11-02: [[A Shadow in the Barley Part I]]
+2026-11-02: [[03 - A Shadow in the Barley Part I]]

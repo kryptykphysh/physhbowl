@@ -11,7 +11,7 @@ This site exists as my attempt at a [Digital Garden](https://maggieappleton.com/
 Which is nice.
 
 # Latest
-[[A Shadow in the Barley Part I]] - 2026-11-08
+[[03 - A Shadow in the Barley Part I]] - 2026-11-08
 [[A New Beginning]] - 2026-11-07
 [[Malperdys]] - 2025-10-02
 # What is this?
