@@ -20,8 +20,7 @@ Our band is bound to spend the next few days harvesting sap from the Sapsauce tr
 
 The quality of the Tubroot sapsauce is a result of their tried-and-tested recipe, as well as their generations-old cauldron, an Oldways heirloom. It is Lance’s hope that one of his children takes the family legacy seriously enough to continue the practice.
 
-The first day is spent harvesting the raw sap from the Sapsauce trees. There are many trees around, but only the healthiest are to be tapped to provide the best-tasting sap. Hammering 
-the spigot isn’t so easy, either and aching muscles from the hard labour could leave workers aching and ==🟢*stiff-1*== from all the hammering.
+The first day is spent harvesting the raw sap from the Sapsauce trees. There are many trees around, but only the healthiest are to be tapped to provide the best-tasting sap. Hammering the spigot isn’t so easy either and sore muscles from the hard labour could leave workers aching and ==🟢*stiff-1*== from all the hammering.
 
 Luckily, our hero, [[Bumbler]] is a beekeeper with some experience amongst these orchards. Despite their reputation for drunkenness and tomfoolery, they truly are in their element. With good-natured cheer, he steers the team away from trees that conceal swarms of ill-tempered bees, choosing nothing but the choicest of trees to tap for their sweet sap. All the sap harvested is of the highest quality and [[Bumbler|Bumbler's]] contagious good spirits help all the workers from flagging.
 
