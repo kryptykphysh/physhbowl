@@ -6,4 +6,4 @@ tags:
 aliases:
   - Morgan Crowbrother
 ---
- ![[Morgan Crow-Brother.pdf]]
+![[morgan.png]] ![[Morgan Crow-Brother.pdf]]

@@ -6,5 +6,5 @@ tags:
 aliases:
   - Bumblebee "Bumbler" Meadows
 ---
-
+![[bumbler.png]]
 ![[Bumbler.pdf]]

@@ -6,5 +6,5 @@ tags:
 aliases:
   - Rosie Hallybread
 ---
- 
+![[rosie.png]] 
 ![[Rosie Hallybread.pdf]]

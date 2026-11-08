@@ -5,4 +5,5 @@ tags:
 aliases:
   - Finn the Red Marshal
 ---
+![[finn.png]]
 ![[Finn the Red Marshal.pdf]] 
